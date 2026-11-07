@@ -133,7 +133,7 @@ The runner uses an isolated Codex home with the original tools-off config (`--st
 
 ## Licenses
 
-- **Our code, answers, results and videos:** MIT ([LICENSE](LICENSE)).
+- **Our code, answers, results and videos:** MIT ([LICENSE](LICENSE)). Files from other projects keep their own licenses (below).
 - **Original material** from [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) at commit `4d09ba6`: the car prompt (which includes the original network's weights) and the tools-off config. Logs, data and networks are CC BY 4.0 and scripts are MIT; see [NOTICE](NOTICE) and `third_party/`.
 - **The Breakout prompt is not included.** It quotes MinAtar's source code (GPL-3.0) together with its authors' contact details. `fetch_breakout_prompt.py` downloads it from the original repository at the pinned commit and checks its SHA256.
 
