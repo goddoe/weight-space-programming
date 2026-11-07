@@ -1,0 +1,13 @@
+Third-party material in this repository
+
+1. RikiyaT/lm_understand-logs, commit 4d09ba6d6a7e891dd8063974dfe81b3d78e3494f
+   https://github.com/RikiyaT/lm_understand-logs
+   From the blog post "Sparks of Weight-Space Programming" by Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab
+   (MIT CSAIL), https://rikiyat.github.io/blog/weight-space-programming/
+   Files: lm_understand-logs/ (the car prompt, which contains the original trained network's weights, and the tools-off
+   Codex config), and the same car prompt copied unchanged into games/runs/car*/prompt.txt.
+   License: logs, data and networks CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode); scripts MIT.
+   Full text: third_party/LICENSE-lm_understand-logs. Changes: none (copied byte for byte).
+
+2. MinAtar (GPL-3.0), quoted inside the original Breakout prompt. That prompt is not included here;
+   games/scripts/fetch_breakout_prompt.py downloads it unchanged. License text: third_party/LICENSE-MinAtar.

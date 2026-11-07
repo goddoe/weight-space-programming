@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6-astra",
+  "effort": "xhigh",
+  "game": "breakout",
+  "cmd": [
+    "codex",
+    "exec",
+    "--strict-config",
+    "--skip-git-repo-check",
+    "--json",
+    "-m",
+    "gpt-6-astra",
+    "-c",
+    "model_reasoning_effort=\"xhigh\"",
+    "-c",
+    "model_context_window=872000",
+    "-c",
+    "model_auto_compact_token_limit=1000000",
+    "-o",
+    "${REPO_ROOT}/games/runs/breakout/answer.md",
+    "-c",
+    "model_reasoning_summary=\"detailed\"",
+    "-"
+  ],
+  "prompt_sha256": "766ee251d59a7893ed86d5eaea99ddb847529ab2092afc69f90f55fb0a22e876",
+  "started_at": 1793993245.200106,
+  "status": "complete",
+  "tools_config_source": "lm_understand-logs/harness/codex_config.toml",
+  "returncode": 0,
+  "wall_s": 820.7866549491882,
+  "item_types": {
+    "error": 1,
+    "reasoning": 40,
+    "agent_message": 1
+  },
+  "tool_free": true,
+  "unexpected_items": [],
+  "turn_completed": true,
+  "usage": [
+    {
+      "input_tokens": 6298,
+      "cached_input_tokens": 6144,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 25938,
+      "reasoning_output_tokens": 20646
+    }
+  ],
+  "export_note": "Absolute workspace paths replaced with ${REPO_ROOT}; raw private reasoning/event stream excluded."
+}

@@ -1,0 +1,6146 @@
+[
+  {
+    "seed": 100000,
+    "outcome": 0,
+    "return": 0.15203167498111725,
+    "length": 256
+  },
+  {
+    "seed": 100001,
+    "outcome": 0,
+    "return": 0.1519838571548462,
+    "length": 256
+  },
+  {
+    "seed": 100002,
+    "outcome": 0,
+    "return": 0.1520451456308365,
+    "length": 256
+  },
+  {
+    "seed": 100003,
+    "outcome": 0,
+    "return": 0.15197278559207916,
+    "length": 256
+  },
+  {
+    "seed": 100004,
+    "outcome": 0,
+    "return": 0.15196864306926727,
+    "length": 256
+  },
+  {
+    "seed": 100005,
+    "outcome": 0,
+    "return": 0.151992067694664,
+    "length": 256
+  },
+  {
+    "seed": 100006,
+    "outcome": 0,
+    "return": 0.1522088646888733,
+    "length": 256
+  },
+  {
+    "seed": 100007,
+    "outcome": 0,
+    "return": 0.15201349556446075,
+    "length": 256
+  },
+  {
+    "seed": 100008,
+    "outcome": 0,
+    "return": 0.15173812210559845,
+    "length": 256
+  },
+  {
+    "seed": 100009,
+    "outcome": 0,
+    "return": 0.15207508206367493,
+    "length": 256
+  },
+  {
+    "seed": 100010,
+    "outcome": 0,
+    "return": 0.15183793008327484,
+    "length": 256
+  },
+  {
+    "seed": 100011,
+    "outcome": 0,
+    "return": 0.1518537551164627,
+    "length": 256
+  },
+  {
+    "seed": 100012,
+    "outcome": 0,
+    "return": 0.15193919837474823,
+    "length": 256
+  },
+  {
+    "seed": 100013,
+    "outcome": 0,
+    "return": 0.15211232006549835,
+    "length": 256
+  },
+  {
+    "seed": 100014,
+    "outcome": 0,
+    "return": 0.15197455883026123,
+    "length": 256
+  },
+  {
+    "seed": 100015,
+    "outcome": 0,
+    "return": 0.1518353372812271,
+    "length": 256
+  },
+  {
+    "seed": 100016,
+    "outcome": 0,
+    "return": 0.15156522393226624,
+    "length": 256
+  },
+  {
+    "seed": 100017,
+    "outcome": 0,
+    "return": 0.1517544835805893,
+    "length": 256
+  },
+  {
+    "seed": 100018,
+    "outcome": 0,
+    "return": 0.1520615518093109,
+    "length": 256
+  },
+  {
+    "seed": 100019,
+    "outcome": 0,
+    "return": 0.15196827054023743,
+    "length": 256
+  },
+  {
+    "seed": 100020,
+    "outcome": 0,
+    "return": 0.15207120776176453,
+    "length": 256
+  },
+  {
+    "seed": 100021,
+    "outcome": 0,
+    "return": 0.15210676193237305,
+    "length": 256
+  },
+  {
+    "seed": 100022,
+    "outcome": 0,
+    "return": 0.15179933607578278,
+    "length": 256
+  },
+  {
+    "seed": 100023,
+    "outcome": 0,
+    "return": 0.15197598934173584,
+    "length": 256
+  },
+  {
+    "seed": 100024,
+    "outcome": 0,
+    "return": 0.15204378962516785,
+    "length": 256
+  },
+  {
+    "seed": 100025,
+    "outcome": 0,
+    "return": 0.15187600255012512,
+    "length": 256
+  },
+  {
+    "seed": 100026,
+    "outcome": 0,
+    "return": 0.15207430720329285,
+    "length": 256
+  },
+  {
+    "seed": 100027,
+    "outcome": 0,
+    "return": 0.15185540914535522,
+    "length": 256
+  },
+  {
+    "seed": 100028,
+    "outcome": 0,
+    "return": 0.15205319225788116,
+    "length": 256
+  },
+  {
+    "seed": 100029,
+    "outcome": 0,
+    "return": 0.1520250141620636,
+    "length": 256
+  },
+  {
+    "seed": 100030,
+    "outcome": 0,
+    "return": 0.15189114212989807,
+    "length": 256
+  },
+  {
+    "seed": 100031,
+    "outcome": 0,
+    "return": 0.15209731459617615,
+    "length": 256
+  },
+  {
+    "seed": 100032,
+    "outcome": 0,
+    "return": 0.15194188058376312,
+    "length": 256
+  },
+  {
+    "seed": 100033,
+    "outcome": 0,
+    "return": 0.15199677646160126,
+    "length": 256
+  },
+  {
+    "seed": 100034,
+    "outcome": 0,
+    "return": 0.15194353461265564,
+    "length": 256
+  },
+  {
+    "seed": 100035,
+    "outcome": 0,
+    "return": 0.15425404906272888,
+    "length": 256
+  },
+  {
+    "seed": 100036,
+    "outcome": 0,
+    "return": 0.15180453658103943,
+    "length": 256
+  },
+  {
+    "seed": 100037,
+    "outcome": 0,
+    "return": 0.15186293423175812,
+    "length": 256
+  },
+  {
+    "seed": 100038,
+    "outcome": 0,
+    "return": 0.15206493437290192,
+    "length": 256
+  },
+  {
+    "seed": 100039,
+    "outcome": 0,
+    "return": 0.15192560851573944,
+    "length": 256
+  },
+  {
+    "seed": 100040,
+    "outcome": 0,
+    "return": 0.15199336409568787,
+    "length": 256
+  },
+  {
+    "seed": 100041,
+    "outcome": 0,
+    "return": 0.15244874358177185,
+    "length": 256
+  },
+  {
+    "seed": 100042,
+    "outcome": 0,
+    "return": 0.15205161273479462,
+    "length": 256
+  },
+  {
+    "seed": 100043,
+    "outcome": 0,
+    "return": 0.15194961428642273,
+    "length": 256
+  },
+  {
+    "seed": 100044,
+    "outcome": 0,
+    "return": 0.1519959270954132,
+    "length": 256
+  },
+  {
+    "seed": 100045,
+    "outcome": 0,
+    "return": 0.15197324752807617,
+    "length": 256
+  },
+  {
+    "seed": 100046,
+    "outcome": 0,
+    "return": 0.15199382603168488,
+    "length": 256
+  },
+  {
+    "seed": 100047,
+    "outcome": 0,
+    "return": 0.15213993191719055,
+    "length": 256
+  },
+  {
+    "seed": 100048,
+    "outcome": 0,
+    "return": 0.15212571620941162,
+    "length": 256
+  },
+  {
+    "seed": 100049,
+    "outcome": 0,
+    "return": 0.15196257829666138,
+    "length": 256
+  },
+  {
+    "seed": 100050,
+    "outcome": 0,
+    "return": 0.15204259753227234,
+    "length": 256
+  },
+  {
+    "seed": 100051,
+    "outcome": 0,
+    "return": 0.1520327627658844,
+    "length": 256
+  },
+  {
+    "seed": 100052,
+    "outcome": 0,
+    "return": 0.15206925570964813,
+    "length": 256
+  },
+  {
+    "seed": 100053,
+    "outcome": 0,
+    "return": 0.15203353762626648,
+    "length": 256
+  },
+  {
+    "seed": 100054,
+    "outcome": 0,
+    "return": 0.15202005207538605,
+    "length": 256
+  },
+  {
+    "seed": 100055,
+    "outcome": 0,
+    "return": 0.15198080241680145,
+    "length": 256
+  },
+  {
+    "seed": 100056,
+    "outcome": 0,
+    "return": 0.14445644617080688,
+    "length": 256
+  },
+  {
+    "seed": 100057,
+    "outcome": 0,
+    "return": 0.15196718275547028,
+    "length": 256
+  },
+  {
+    "seed": 100058,
+    "outcome": 0,
+    "return": 0.15196748077869415,
+    "length": 256
+  },
+  {
+    "seed": 100059,
+    "outcome": 0,
+    "return": 0.15199725329875946,
+    "length": 256
+  },
+  {
+    "seed": 100060,
+    "outcome": 0,
+    "return": 0.15203727781772614,
+    "length": 256
+  },
+  {
+    "seed": 100061,
+    "outcome": 0,
+    "return": 0.15203505754470825,
+    "length": 256
+  },
+  {
+    "seed": 100062,
+    "outcome": 0,
+    "return": 0.1520363837480545,
+    "length": 256
+  },
+  {
+    "seed": 100063,
+    "outcome": 0,
+    "return": 0.1519775241613388,
+    "length": 256
+  },
+  {
+    "seed": 100064,
+    "outcome": 0,
+    "return": 0.1519959419965744,
+    "length": 256
+  },
+  {
+    "seed": 100065,
+    "outcome": 0,
+    "return": 0.15254010260105133,
+    "length": 256
+  },
+  {
+    "seed": 100066,
+    "outcome": 0,
+    "return": 0.15197555720806122,
+    "length": 256
+  },
+  {
+    "seed": 100067,
+    "outcome": 0,
+    "return": 0.15192675590515137,
+    "length": 256
+  },
+  {
+    "seed": 100068,
+    "outcome": 0,
+    "return": 0.15200191736221313,
+    "length": 256
+  },
+  {
+    "seed": 100069,
+    "outcome": 0,
+    "return": 0.1521560698747635,
+    "length": 256
+  },
+  {
+    "seed": 100070,
+    "outcome": 0,
+    "return": 0.1520601212978363,
+    "length": 256
+  },
+  {
+    "seed": 100071,
+    "outcome": 0,
+    "return": 0.15188372135162354,
+    "length": 256
+  },
+  {
+    "seed": 100072,
+    "outcome": 0,
+    "return": 0.1518215537071228,
+    "length": 256
+  },
+  {
+    "seed": 100073,
+    "outcome": 0,
+    "return": 0.15160876512527466,
+    "length": 256
+  },
+  {
+    "seed": 100074,
+    "outcome": 0,
+    "return": 0.1519850492477417,
+    "length": 256
+  },
+  {
+    "seed": 100075,
+    "outcome": 0,
+    "return": 0.15177060663700104,
+    "length": 256
+  },
+  {
+    "seed": 100076,
+    "outcome": 0,
+    "return": 0.15195712447166443,
+    "length": 256
+  },
+  {
+    "seed": 100077,
+    "outcome": 0,
+    "return": 0.14494174718856812,
+    "length": 256
+  },
+  {
+    "seed": 100078,
+    "outcome": 0,
+    "return": 0.15196119248867035,
+    "length": 256
+  },
+  {
+    "seed": 100079,
+    "outcome": 0,
+    "return": 0.14406022429466248,
+    "length": 256
+  },
+  {
+    "seed": 100080,
+    "outcome": 0,
+    "return": 0.15204016864299774,
+    "length": 256
+  },
+  {
+    "seed": 100081,
+    "outcome": 0,
+    "return": 0.15202856063842773,
+    "length": 256
+  },
+  {
+    "seed": 100082,
+    "outcome": 0,
+    "return": 0.1520964354276657,
+    "length": 256
+  },
+  {
+    "seed": 100083,
+    "outcome": 0,
+    "return": 0.15197399258613586,
+    "length": 256
+  },
+  {
+    "seed": 100084,
+    "outcome": 0,
+    "return": 0.15132248401641846,
+    "length": 256
+  },
+  {
+    "seed": 100085,
+    "outcome": 0,
+    "return": 0.15196706354618073,
+    "length": 256
+  },
+  {
+    "seed": 100086,
+    "outcome": 0,
+    "return": 0.15203045308589935,
+    "length": 256
+  },
+  {
+    "seed": 100087,
+    "outcome": 0,
+    "return": 0.15190941095352173,
+    "length": 256
+  },
+  {
+    "seed": 100088,
+    "outcome": 0,
+    "return": 0.15202978253364563,
+    "length": 256
+  },
+  {
+    "seed": 100089,
+    "outcome": 0,
+    "return": 0.15211455523967743,
+    "length": 256
+  },
+  {
+    "seed": 100090,
+    "outcome": 0,
+    "return": 0.15185129642486572,
+    "length": 256
+  },
+  {
+    "seed": 100091,
+    "outcome": 0,
+    "return": 0.15203802287578583,
+    "length": 256
+  },
+  {
+    "seed": 100092,
+    "outcome": 0,
+    "return": 0.1520787626504898,
+    "length": 256
+  },
+  {
+    "seed": 100093,
+    "outcome": 0,
+    "return": 0.15200139582157135,
+    "length": 256
+  },
+  {
+    "seed": 100094,
+    "outcome": 0,
+    "return": 0.15177781879901886,
+    "length": 256
+  },
+  {
+    "seed": 100095,
+    "outcome": 0,
+    "return": 0.15208512544631958,
+    "length": 256
+  },
+  {
+    "seed": 100096,
+    "outcome": 0,
+    "return": 0.15185584127902985,
+    "length": 256
+  },
+  {
+    "seed": 100097,
+    "outcome": 0,
+    "return": 0.15158089995384216,
+    "length": 256
+  },
+  {
+    "seed": 100098,
+    "outcome": 0,
+    "return": 0.1518215388059616,
+    "length": 256
+  },
+  {
+    "seed": 100099,
+    "outcome": 0,
+    "return": 0.15198037028312683,
+    "length": 256
+  },
+  {
+    "seed": 100100,
+    "outcome": 0,
+    "return": 0.15200787782669067,
+    "length": 256
+  },
+  {
+    "seed": 100101,
+    "outcome": 0,
+    "return": 0.15201430022716522,
+    "length": 256
+  },
+  {
+    "seed": 100102,
+    "outcome": 0,
+    "return": 0.1518680900335312,
+    "length": 256
+  },
+  {
+    "seed": 100103,
+    "outcome": 0,
+    "return": 0.1520709991455078,
+    "length": 256
+  },
+  {
+    "seed": 100104,
+    "outcome": 0,
+    "return": 0.15206632018089294,
+    "length": 256
+  },
+  {
+    "seed": 100105,
+    "outcome": 0,
+    "return": 0.15221013128757477,
+    "length": 256
+  },
+  {
+    "seed": 100106,
+    "outcome": 0,
+    "return": 0.15205639600753784,
+    "length": 256
+  },
+  {
+    "seed": 100107,
+    "outcome": 0,
+    "return": 0.152137890458107,
+    "length": 256
+  },
+  {
+    "seed": 100108,
+    "outcome": 0,
+    "return": 0.1521397978067398,
+    "length": 256
+  },
+  {
+    "seed": 100109,
+    "outcome": 0,
+    "return": 0.15194933116436005,
+    "length": 256
+  },
+  {
+    "seed": 100110,
+    "outcome": 0,
+    "return": 0.1519276648759842,
+    "length": 256
+  },
+  {
+    "seed": 100111,
+    "outcome": 0,
+    "return": 0.15190225839614868,
+    "length": 256
+  },
+  {
+    "seed": 100112,
+    "outcome": 0,
+    "return": 0.15182970464229584,
+    "length": 256
+  },
+  {
+    "seed": 100113,
+    "outcome": 0,
+    "return": 0.15249839425086975,
+    "length": 256
+  },
+  {
+    "seed": 100114,
+    "outcome": 0,
+    "return": 0.15138649940490723,
+    "length": 256
+  },
+  {
+    "seed": 100115,
+    "outcome": 0,
+    "return": 0.15197867155075073,
+    "length": 256
+  },
+  {
+    "seed": 100116,
+    "outcome": 0,
+    "return": 0.1519249975681305,
+    "length": 256
+  },
+  {
+    "seed": 100117,
+    "outcome": 0,
+    "return": 0.15204325318336487,
+    "length": 256
+  },
+  {
+    "seed": 100118,
+    "outcome": 0,
+    "return": 0.1515762060880661,
+    "length": 256
+  },
+  {
+    "seed": 100119,
+    "outcome": 0,
+    "return": 0.1519424468278885,
+    "length": 256
+  },
+  {
+    "seed": 100120,
+    "outcome": 0,
+    "return": 0.15178030729293823,
+    "length": 256
+  },
+  {
+    "seed": 100121,
+    "outcome": 0,
+    "return": 0.1522672027349472,
+    "length": 256
+  },
+  {
+    "seed": 100122,
+    "outcome": 0,
+    "return": 0.15205073356628418,
+    "length": 256
+  },
+  {
+    "seed": 100123,
+    "outcome": 0,
+    "return": 0.15136778354644775,
+    "length": 256
+  },
+  {
+    "seed": 100124,
+    "outcome": 0,
+    "return": 0.1525033861398697,
+    "length": 256
+  },
+  {
+    "seed": 100125,
+    "outcome": 0,
+    "return": 0.1521373987197876,
+    "length": 256
+  },
+  {
+    "seed": 100126,
+    "outcome": 0,
+    "return": 0.15220102667808533,
+    "length": 256
+  },
+  {
+    "seed": 100127,
+    "outcome": 0,
+    "return": 0.15201479196548462,
+    "length": 256
+  },
+  {
+    "seed": 100128,
+    "outcome": 0,
+    "return": 0.15181280672550201,
+    "length": 256
+  },
+  {
+    "seed": 100129,
+    "outcome": 0,
+    "return": 0.15200459957122803,
+    "length": 256
+  },
+  {
+    "seed": 100130,
+    "outcome": 0,
+    "return": 0.15213686227798462,
+    "length": 256
+  },
+  {
+    "seed": 100131,
+    "outcome": 0,
+    "return": 0.1519613116979599,
+    "length": 256
+  },
+  {
+    "seed": 100132,
+    "outcome": 0,
+    "return": 0.15173505246639252,
+    "length": 256
+  },
+  {
+    "seed": 100133,
+    "outcome": 0,
+    "return": 0.1518717259168625,
+    "length": 256
+  },
+  {
+    "seed": 100134,
+    "outcome": 0,
+    "return": 0.15215978026390076,
+    "length": 256
+  },
+  {
+    "seed": 100135,
+    "outcome": 0,
+    "return": 0.15200404822826385,
+    "length": 256
+  },
+  {
+    "seed": 100136,
+    "outcome": 0,
+    "return": 0.1521359533071518,
+    "length": 256
+  },
+  {
+    "seed": 100137,
+    "outcome": 0,
+    "return": 0.1520330309867859,
+    "length": 256
+  },
+  {
+    "seed": 100138,
+    "outcome": 0,
+    "return": 0.15203291177749634,
+    "length": 256
+  },
+  {
+    "seed": 100139,
+    "outcome": 0,
+    "return": 0.15193700790405273,
+    "length": 256
+  },
+  {
+    "seed": 100140,
+    "outcome": 0,
+    "return": 0.1521786004304886,
+    "length": 256
+  },
+  {
+    "seed": 100141,
+    "outcome": 0,
+    "return": 0.15225750207901,
+    "length": 256
+  },
+  {
+    "seed": 100142,
+    "outcome": 0,
+    "return": 0.15199175477027893,
+    "length": 256
+  },
+  {
+    "seed": 100143,
+    "outcome": 0,
+    "return": 0.15193308889865875,
+    "length": 256
+  },
+  {
+    "seed": 100144,
+    "outcome": 0,
+    "return": 0.15200275182724,
+    "length": 256
+  },
+  {
+    "seed": 100145,
+    "outcome": 0,
+    "return": 0.1520395576953888,
+    "length": 256
+  },
+  {
+    "seed": 100146,
+    "outcome": 0,
+    "return": 0.15193070471286774,
+    "length": 256
+  },
+  {
+    "seed": 100147,
+    "outcome": 0,
+    "return": 0.15178117156028748,
+    "length": 256
+  },
+  {
+    "seed": 100148,
+    "outcome": 0,
+    "return": 0.1518942266702652,
+    "length": 256
+  },
+  {
+    "seed": 100149,
+    "outcome": 0,
+    "return": 0.152024507522583,
+    "length": 256
+  },
+  {
+    "seed": 100150,
+    "outcome": 0,
+    "return": 0.15165051817893982,
+    "length": 256
+  },
+  {
+    "seed": 100151,
+    "outcome": 0,
+    "return": 0.1520567238330841,
+    "length": 256
+  },
+  {
+    "seed": 100152,
+    "outcome": 0,
+    "return": 0.15209420025348663,
+    "length": 256
+  },
+  {
+    "seed": 100153,
+    "outcome": 0,
+    "return": 0.15207284688949585,
+    "length": 256
+  },
+  {
+    "seed": 100154,
+    "outcome": 0,
+    "return": 0.1520417183637619,
+    "length": 256
+  },
+  {
+    "seed": 100155,
+    "outcome": 0,
+    "return": 0.15208041667938232,
+    "length": 256
+  },
+  {
+    "seed": 100156,
+    "outcome": 0,
+    "return": 0.15189479291439056,
+    "length": 256
+  },
+  {
+    "seed": 100157,
+    "outcome": 0,
+    "return": 0.15181571245193481,
+    "length": 256
+  },
+  {
+    "seed": 100158,
+    "outcome": 0,
+    "return": 0.15200600028038025,
+    "length": 256
+  },
+  {
+    "seed": 100159,
+    "outcome": 0,
+    "return": 0.1518440693616867,
+    "length": 256
+  },
+  {
+    "seed": 100160,
+    "outcome": 0,
+    "return": 0.1538095325231552,
+    "length": 256
+  },
+  {
+    "seed": 100161,
+    "outcome": 0,
+    "return": 0.1520380675792694,
+    "length": 256
+  },
+  {
+    "seed": 100162,
+    "outcome": 0,
+    "return": 0.15197452902793884,
+    "length": 256
+  },
+  {
+    "seed": 100163,
+    "outcome": 0,
+    "return": 0.1521192491054535,
+    "length": 256
+  },
+  {
+    "seed": 100164,
+    "outcome": 0,
+    "return": 0.15218645334243774,
+    "length": 256
+  },
+  {
+    "seed": 100165,
+    "outcome": 0,
+    "return": 0.14504273235797882,
+    "length": 256
+  },
+  {
+    "seed": 100166,
+    "outcome": 0,
+    "return": 0.15202607214450836,
+    "length": 256
+  },
+  {
+    "seed": 100167,
+    "outcome": 0,
+    "return": 0.15248949825763702,
+    "length": 256
+  },
+  {
+    "seed": 100168,
+    "outcome": 0,
+    "return": 0.1518833488225937,
+    "length": 256
+  },
+  {
+    "seed": 100169,
+    "outcome": 0,
+    "return": 0.15199622511863708,
+    "length": 256
+  },
+  {
+    "seed": 100170,
+    "outcome": 0,
+    "return": 0.15203718841075897,
+    "length": 256
+  },
+  {
+    "seed": 100171,
+    "outcome": 0,
+    "return": 0.15194669365882874,
+    "length": 256
+  },
+  {
+    "seed": 100172,
+    "outcome": 0,
+    "return": 0.1520657241344452,
+    "length": 256
+  },
+  {
+    "seed": 100173,
+    "outcome": 0,
+    "return": 0.1519867479801178,
+    "length": 256
+  },
+  {
+    "seed": 100174,
+    "outcome": 0,
+    "return": 0.1519494503736496,
+    "length": 256
+  },
+  {
+    "seed": 100175,
+    "outcome": 0,
+    "return": 0.1520405262708664,
+    "length": 256
+  },
+  {
+    "seed": 100176,
+    "outcome": 0,
+    "return": 0.15209539234638214,
+    "length": 256
+  },
+  {
+    "seed": 100177,
+    "outcome": 0,
+    "return": 0.15193428099155426,
+    "length": 256
+  },
+  {
+    "seed": 100178,
+    "outcome": 0,
+    "return": 0.15214069187641144,
+    "length": 256
+  },
+  {
+    "seed": 100179,
+    "outcome": 0,
+    "return": 0.15194782614707947,
+    "length": 256
+  },
+  {
+    "seed": 100180,
+    "outcome": 0,
+    "return": 0.15219299495220184,
+    "length": 256
+  },
+  {
+    "seed": 100181,
+    "outcome": 0,
+    "return": 0.15205812454223633,
+    "length": 256
+  },
+  {
+    "seed": 100182,
+    "outcome": 0,
+    "return": 0.15207476913928986,
+    "length": 256
+  },
+  {
+    "seed": 100183,
+    "outcome": 0,
+    "return": 0.15209250152111053,
+    "length": 256
+  },
+  {
+    "seed": 100184,
+    "outcome": 0,
+    "return": 0.15212757885456085,
+    "length": 256
+  },
+  {
+    "seed": 100185,
+    "outcome": 0,
+    "return": 0.15192288160324097,
+    "length": 256
+  },
+  {
+    "seed": 100186,
+    "outcome": 0,
+    "return": 0.15204773843288422,
+    "length": 256
+  },
+  {
+    "seed": 100187,
+    "outcome": 0,
+    "return": 0.1520046889781952,
+    "length": 256
+  },
+  {
+    "seed": 100188,
+    "outcome": 0,
+    "return": 0.15200570225715637,
+    "length": 256
+  },
+  {
+    "seed": 100189,
+    "outcome": 0,
+    "return": 0.15254302322864532,
+    "length": 256
+  },
+  {
+    "seed": 100190,
+    "outcome": 0,
+    "return": 0.15203049778938293,
+    "length": 256
+  },
+  {
+    "seed": 100191,
+    "outcome": 0,
+    "return": 0.15251174569129944,
+    "length": 256
+  },
+  {
+    "seed": 100192,
+    "outcome": 0,
+    "return": 0.1520443558692932,
+    "length": 256
+  },
+  {
+    "seed": 100193,
+    "outcome": 0,
+    "return": 0.15212351083755493,
+    "length": 256
+  },
+  {
+    "seed": 100194,
+    "outcome": 0,
+    "return": 0.15215809643268585,
+    "length": 256
+  },
+  {
+    "seed": 100195,
+    "outcome": 0,
+    "return": 0.15201100707054138,
+    "length": 256
+  },
+  {
+    "seed": 100196,
+    "outcome": 0,
+    "return": 0.1519959568977356,
+    "length": 256
+  },
+  {
+    "seed": 100197,
+    "outcome": 0,
+    "return": 0.1519998461008072,
+    "length": 256
+  },
+  {
+    "seed": 100198,
+    "outcome": 0,
+    "return": 0.15415562689304352,
+    "length": 256
+  },
+  {
+    "seed": 100199,
+    "outcome": 0,
+    "return": 0.1519286334514618,
+    "length": 256
+  },
+  {
+    "seed": 100200,
+    "outcome": 0,
+    "return": 0.15187868475914001,
+    "length": 256
+  },
+  {
+    "seed": 100201,
+    "outcome": 0,
+    "return": 0.15258309245109558,
+    "length": 256
+  },
+  {
+    "seed": 100202,
+    "outcome": 0,
+    "return": 0.15191449224948883,
+    "length": 256
+  },
+  {
+    "seed": 100203,
+    "outcome": 0,
+    "return": 0.15199270844459534,
+    "length": 256
+  },
+  {
+    "seed": 100204,
+    "outcome": 0,
+    "return": 0.1520746499300003,
+    "length": 256
+  },
+  {
+    "seed": 100205,
+    "outcome": 0,
+    "return": 0.1458684206008911,
+    "length": 256
+  },
+  {
+    "seed": 100206,
+    "outcome": 0,
+    "return": 0.1520351618528366,
+    "length": 256
+  },
+  {
+    "seed": 100207,
+    "outcome": 0,
+    "return": 0.15187224745750427,
+    "length": 256
+  },
+  {
+    "seed": 100208,
+    "outcome": 0,
+    "return": 0.15199048817157745,
+    "length": 256
+  },
+  {
+    "seed": 100209,
+    "outcome": 0,
+    "return": 0.151899054646492,
+    "length": 256
+  },
+  {
+    "seed": 100210,
+    "outcome": 0,
+    "return": 0.15210478007793427,
+    "length": 256
+  },
+  {
+    "seed": 100211,
+    "outcome": 0,
+    "return": 0.1521725356578827,
+    "length": 256
+  },
+  {
+    "seed": 100212,
+    "outcome": 0,
+    "return": 0.15179753303527832,
+    "length": 256
+  },
+  {
+    "seed": 100213,
+    "outcome": 0,
+    "return": 0.15257106721401215,
+    "length": 256
+  },
+  {
+    "seed": 100214,
+    "outcome": 0,
+    "return": 0.1520150750875473,
+    "length": 256
+  },
+  {
+    "seed": 100215,
+    "outcome": 0,
+    "return": 0.15206487476825714,
+    "length": 256
+  },
+  {
+    "seed": 100216,
+    "outcome": 0,
+    "return": 0.15194964408874512,
+    "length": 256
+  },
+  {
+    "seed": 100217,
+    "outcome": 0,
+    "return": 0.1520899534225464,
+    "length": 256
+  },
+  {
+    "seed": 100218,
+    "outcome": 0,
+    "return": 0.15196087956428528,
+    "length": 256
+  },
+  {
+    "seed": 100219,
+    "outcome": 0,
+    "return": 0.15199221670627594,
+    "length": 256
+  },
+  {
+    "seed": 100220,
+    "outcome": 0,
+    "return": 0.1516195833683014,
+    "length": 256
+  },
+  {
+    "seed": 100221,
+    "outcome": 0,
+    "return": 0.1520915925502777,
+    "length": 256
+  },
+  {
+    "seed": 100222,
+    "outcome": 0,
+    "return": 0.15200048685073853,
+    "length": 256
+  },
+  {
+    "seed": 100223,
+    "outcome": 0,
+    "return": 0.15203788876533508,
+    "length": 256
+  },
+  {
+    "seed": 100224,
+    "outcome": 0,
+    "return": 0.15214292705059052,
+    "length": 256
+  },
+  {
+    "seed": 100225,
+    "outcome": 0,
+    "return": 0.15190954506397247,
+    "length": 256
+  },
+  {
+    "seed": 100226,
+    "outcome": 0,
+    "return": 0.15144488215446472,
+    "length": 256
+  },
+  {
+    "seed": 100227,
+    "outcome": 0,
+    "return": 0.14631690084934235,
+    "length": 256
+  },
+  {
+    "seed": 100228,
+    "outcome": 0,
+    "return": 0.15189115703105927,
+    "length": 256
+  },
+  {
+    "seed": 100229,
+    "outcome": 0,
+    "return": 0.1521502137184143,
+    "length": 256
+  },
+  {
+    "seed": 100230,
+    "outcome": 0,
+    "return": 0.15205617249011993,
+    "length": 256
+  },
+  {
+    "seed": 100231,
+    "outcome": 0,
+    "return": 0.1520199179649353,
+    "length": 256
+  },
+  {
+    "seed": 100232,
+    "outcome": 0,
+    "return": 0.1518464982509613,
+    "length": 256
+  },
+  {
+    "seed": 100233,
+    "outcome": 0,
+    "return": 0.15201900899410248,
+    "length": 256
+  },
+  {
+    "seed": 100234,
+    "outcome": 0,
+    "return": 0.14276793599128723,
+    "length": 256
+  },
+  {
+    "seed": 100235,
+    "outcome": 0,
+    "return": 0.15193220973014832,
+    "length": 256
+  },
+  {
+    "seed": 100236,
+    "outcome": 0,
+    "return": 0.15204843878746033,
+    "length": 256
+  },
+  {
+    "seed": 100237,
+    "outcome": 0,
+    "return": 0.1520545333623886,
+    "length": 256
+  },
+  {
+    "seed": 100238,
+    "outcome": 0,
+    "return": 0.15184630453586578,
+    "length": 256
+  },
+  {
+    "seed": 100239,
+    "outcome": 0,
+    "return": 0.15198293328285217,
+    "length": 256
+  },
+  {
+    "seed": 100240,
+    "outcome": 0,
+    "return": 0.1519661247730255,
+    "length": 256
+  },
+  {
+    "seed": 100241,
+    "outcome": 0,
+    "return": 0.1518213301897049,
+    "length": 256
+  },
+  {
+    "seed": 100242,
+    "outcome": 0,
+    "return": 0.1520107388496399,
+    "length": 256
+  },
+  {
+    "seed": 100243,
+    "outcome": 0,
+    "return": 0.15212328732013702,
+    "length": 256
+  },
+  {
+    "seed": 100244,
+    "outcome": 0,
+    "return": 0.15204358100891113,
+    "length": 256
+  },
+  {
+    "seed": 100245,
+    "outcome": 0,
+    "return": 0.1521187275648117,
+    "length": 256
+  },
+  {
+    "seed": 100246,
+    "outcome": 0,
+    "return": 0.15200966596603394,
+    "length": 256
+  },
+  {
+    "seed": 100247,
+    "outcome": 0,
+    "return": 0.15212085843086243,
+    "length": 256
+  },
+  {
+    "seed": 100248,
+    "outcome": 0,
+    "return": 0.15151213109493256,
+    "length": 256
+  },
+  {
+    "seed": 100249,
+    "outcome": 0,
+    "return": 0.15186837315559387,
+    "length": 256
+  },
+  {
+    "seed": 100250,
+    "outcome": 0,
+    "return": 0.15202966332435608,
+    "length": 256
+  },
+  {
+    "seed": 100251,
+    "outcome": 0,
+    "return": 0.1519986391067505,
+    "length": 256
+  },
+  {
+    "seed": 100252,
+    "outcome": 0,
+    "return": 0.1519787311553955,
+    "length": 256
+  },
+  {
+    "seed": 100253,
+    "outcome": 0,
+    "return": 0.14459346234798431,
+    "length": 256
+  },
+  {
+    "seed": 100254,
+    "outcome": 0,
+    "return": 0.1519029289484024,
+    "length": 256
+  },
+  {
+    "seed": 100255,
+    "outcome": 0,
+    "return": 0.1537298709154129,
+    "length": 256
+  },
+  {
+    "seed": 100256,
+    "outcome": 0,
+    "return": 0.15190860629081726,
+    "length": 256
+  },
+  {
+    "seed": 100257,
+    "outcome": 0,
+    "return": 0.15165498852729797,
+    "length": 256
+  },
+  {
+    "seed": 100258,
+    "outcome": 0,
+    "return": 0.15222924947738647,
+    "length": 256
+  },
+  {
+    "seed": 100259,
+    "outcome": 0,
+    "return": 0.15197767317295074,
+    "length": 256
+  },
+  {
+    "seed": 100260,
+    "outcome": 0,
+    "return": 0.15200068056583405,
+    "length": 256
+  },
+  {
+    "seed": 100261,
+    "outcome": 0,
+    "return": 0.1520008146762848,
+    "length": 256
+  },
+  {
+    "seed": 100262,
+    "outcome": 0,
+    "return": 0.1517423689365387,
+    "length": 256
+  },
+  {
+    "seed": 100263,
+    "outcome": 0,
+    "return": 0.1537036895751953,
+    "length": 256
+  },
+  {
+    "seed": 100264,
+    "outcome": 0,
+    "return": 0.15202973783016205,
+    "length": 256
+  },
+  {
+    "seed": 100265,
+    "outcome": 0,
+    "return": 0.151877298951149,
+    "length": 256
+  },
+  {
+    "seed": 100266,
+    "outcome": 0,
+    "return": 0.1519174873828888,
+    "length": 256
+  },
+  {
+    "seed": 100267,
+    "outcome": 0,
+    "return": 0.1443730592727661,
+    "length": 256
+  },
+  {
+    "seed": 100268,
+    "outcome": 0,
+    "return": 0.15205228328704834,
+    "length": 256
+  },
+  {
+    "seed": 100269,
+    "outcome": 0,
+    "return": 0.15192876756191254,
+    "length": 256
+  },
+  {
+    "seed": 100270,
+    "outcome": 0,
+    "return": 0.15206564962863922,
+    "length": 256
+  },
+  {
+    "seed": 100271,
+    "outcome": 0,
+    "return": 0.15217171609401703,
+    "length": 256
+  },
+  {
+    "seed": 100272,
+    "outcome": 0,
+    "return": 0.1519845426082611,
+    "length": 256
+  },
+  {
+    "seed": 100273,
+    "outcome": 0,
+    "return": 0.1520180106163025,
+    "length": 256
+  },
+  {
+    "seed": 100274,
+    "outcome": 0,
+    "return": 0.1520392745733261,
+    "length": 256
+  },
+  {
+    "seed": 100275,
+    "outcome": 0,
+    "return": 0.15209856629371643,
+    "length": 256
+  },
+  {
+    "seed": 100276,
+    "outcome": 0,
+    "return": 0.15188506245613098,
+    "length": 256
+  },
+  {
+    "seed": 100277,
+    "outcome": 0,
+    "return": 0.15203744173049927,
+    "length": 256
+  },
+  {
+    "seed": 100278,
+    "outcome": 0,
+    "return": 0.15232738852500916,
+    "length": 256
+  },
+  {
+    "seed": 100279,
+    "outcome": 0,
+    "return": 0.15201009809970856,
+    "length": 256
+  },
+  {
+    "seed": 100280,
+    "outcome": 0,
+    "return": 0.1520490050315857,
+    "length": 256
+  },
+  {
+    "seed": 100281,
+    "outcome": 0,
+    "return": 0.15205922722816467,
+    "length": 256
+  },
+  {
+    "seed": 100282,
+    "outcome": 0,
+    "return": 0.15160658955574036,
+    "length": 256
+  },
+  {
+    "seed": 100283,
+    "outcome": 0,
+    "return": 0.15185511112213135,
+    "length": 256
+  },
+  {
+    "seed": 100284,
+    "outcome": 0,
+    "return": 0.15254317224025726,
+    "length": 256
+  },
+  {
+    "seed": 100285,
+    "outcome": 0,
+    "return": 0.1519591063261032,
+    "length": 256
+  },
+  {
+    "seed": 100286,
+    "outcome": 0,
+    "return": 0.1520967036485672,
+    "length": 256
+  },
+  {
+    "seed": 100287,
+    "outcome": 0,
+    "return": 0.1519591212272644,
+    "length": 256
+  },
+  {
+    "seed": 100288,
+    "outcome": 0,
+    "return": 0.15183976292610168,
+    "length": 256
+  },
+  {
+    "seed": 100289,
+    "outcome": 0,
+    "return": 0.1521395891904831,
+    "length": 256
+  },
+  {
+    "seed": 100290,
+    "outcome": 0,
+    "return": 0.15204665064811707,
+    "length": 256
+  },
+  {
+    "seed": 100291,
+    "outcome": 0,
+    "return": 0.15192818641662598,
+    "length": 256
+  },
+  {
+    "seed": 100292,
+    "outcome": 0,
+    "return": 0.153867706656456,
+    "length": 256
+  },
+  {
+    "seed": 100293,
+    "outcome": 0,
+    "return": 0.1520010381937027,
+    "length": 256
+  },
+  {
+    "seed": 100294,
+    "outcome": 0,
+    "return": 0.1515347808599472,
+    "length": 256
+  },
+  {
+    "seed": 100295,
+    "outcome": 0,
+    "return": 0.15181109309196472,
+    "length": 256
+  },
+  {
+    "seed": 100296,
+    "outcome": 0,
+    "return": 0.15258321166038513,
+    "length": 256
+  },
+  {
+    "seed": 100297,
+    "outcome": 0,
+    "return": 0.15205815434455872,
+    "length": 256
+  },
+  {
+    "seed": 100298,
+    "outcome": 0,
+    "return": 0.1521376073360443,
+    "length": 256
+  },
+  {
+    "seed": 100299,
+    "outcome": 0,
+    "return": 0.15175142884254456,
+    "length": 256
+  },
+  {
+    "seed": 100300,
+    "outcome": 0,
+    "return": 0.15197981894016266,
+    "length": 256
+  },
+  {
+    "seed": 100301,
+    "outcome": 0,
+    "return": 0.1519414782524109,
+    "length": 256
+  },
+  {
+    "seed": 100302,
+    "outcome": 0,
+    "return": 0.15209190547466278,
+    "length": 256
+  },
+  {
+    "seed": 100303,
+    "outcome": 0,
+    "return": 0.15189185738563538,
+    "length": 256
+  },
+  {
+    "seed": 100304,
+    "outcome": 0,
+    "return": 0.1519704908132553,
+    "length": 256
+  },
+  {
+    "seed": 100305,
+    "outcome": 0,
+    "return": 0.15201281011104584,
+    "length": 256
+  },
+  {
+    "seed": 100306,
+    "outcome": 0,
+    "return": 0.15206797420978546,
+    "length": 256
+  },
+  {
+    "seed": 100307,
+    "outcome": 0,
+    "return": 0.15200288593769073,
+    "length": 256
+  },
+  {
+    "seed": 100308,
+    "outcome": 0,
+    "return": 0.15184299647808075,
+    "length": 256
+  },
+  {
+    "seed": 100309,
+    "outcome": 0,
+    "return": 0.15203365683555603,
+    "length": 256
+  },
+  {
+    "seed": 100310,
+    "outcome": 0,
+    "return": 0.15207083523273468,
+    "length": 256
+  },
+  {
+    "seed": 100311,
+    "outcome": 0,
+    "return": 0.1518682837486267,
+    "length": 256
+  },
+  {
+    "seed": 100312,
+    "outcome": 0,
+    "return": 0.1518389880657196,
+    "length": 256
+  },
+  {
+    "seed": 100313,
+    "outcome": 0,
+    "return": 0.15198639035224915,
+    "length": 256
+  },
+  {
+    "seed": 100314,
+    "outcome": 0,
+    "return": 0.1519584208726883,
+    "length": 256
+  },
+  {
+    "seed": 100315,
+    "outcome": 0,
+    "return": 0.1518908143043518,
+    "length": 256
+  },
+  {
+    "seed": 100316,
+    "outcome": 0,
+    "return": 0.1517123281955719,
+    "length": 256
+  },
+  {
+    "seed": 100317,
+    "outcome": 0,
+    "return": 0.15196287631988525,
+    "length": 256
+  },
+  {
+    "seed": 100318,
+    "outcome": 0,
+    "return": 0.15200231969356537,
+    "length": 256
+  },
+  {
+    "seed": 100319,
+    "outcome": 0,
+    "return": 0.15258842706680298,
+    "length": 256
+  },
+  {
+    "seed": 100320,
+    "outcome": 0,
+    "return": 0.15206949412822723,
+    "length": 256
+  },
+  {
+    "seed": 100321,
+    "outcome": 0,
+    "return": 0.15202318131923676,
+    "length": 256
+  },
+  {
+    "seed": 100322,
+    "outcome": 0,
+    "return": 0.15218089520931244,
+    "length": 256
+  },
+  {
+    "seed": 100323,
+    "outcome": 0,
+    "return": 0.1521313190460205,
+    "length": 256
+  },
+  {
+    "seed": 100324,
+    "outcome": 0,
+    "return": 0.1516469269990921,
+    "length": 256
+  },
+  {
+    "seed": 100325,
+    "outcome": 0,
+    "return": 0.15206079185009003,
+    "length": 256
+  },
+  {
+    "seed": 100326,
+    "outcome": 0,
+    "return": 0.1521003097295761,
+    "length": 256
+  },
+  {
+    "seed": 100327,
+    "outcome": 0,
+    "return": 0.15201020240783691,
+    "length": 256
+  },
+  {
+    "seed": 100328,
+    "outcome": 0,
+    "return": 0.1520511507987976,
+    "length": 256
+  },
+  {
+    "seed": 100329,
+    "outcome": 0,
+    "return": 0.15202264487743378,
+    "length": 256
+  },
+  {
+    "seed": 100330,
+    "outcome": 0,
+    "return": 0.15197645127773285,
+    "length": 256
+  },
+  {
+    "seed": 100331,
+    "outcome": 0,
+    "return": 0.1518206000328064,
+    "length": 256
+  },
+  {
+    "seed": 100332,
+    "outcome": 0,
+    "return": 0.15204446017742157,
+    "length": 256
+  },
+  {
+    "seed": 100333,
+    "outcome": 0,
+    "return": 0.15214501321315765,
+    "length": 256
+  },
+  {
+    "seed": 100334,
+    "outcome": 0,
+    "return": 0.15199068188667297,
+    "length": 256
+  },
+  {
+    "seed": 100335,
+    "outcome": 0,
+    "return": 0.1464463770389557,
+    "length": 256
+  },
+  {
+    "seed": 100336,
+    "outcome": 0,
+    "return": 0.152134507894516,
+    "length": 256
+  },
+  {
+    "seed": 100337,
+    "outcome": 0,
+    "return": 0.15183112025260925,
+    "length": 256
+  },
+  {
+    "seed": 100338,
+    "outcome": 0,
+    "return": 0.15203113853931427,
+    "length": 256
+  },
+  {
+    "seed": 100339,
+    "outcome": 0,
+    "return": 0.15197336673736572,
+    "length": 256
+  },
+  {
+    "seed": 100340,
+    "outcome": 0,
+    "return": 0.1518368422985077,
+    "length": 256
+  },
+  {
+    "seed": 100341,
+    "outcome": 0,
+    "return": 0.15218572318553925,
+    "length": 256
+  },
+  {
+    "seed": 100342,
+    "outcome": 0,
+    "return": 0.15207567811012268,
+    "length": 256
+  },
+  {
+    "seed": 100343,
+    "outcome": 0,
+    "return": 0.15201833844184875,
+    "length": 256
+  },
+  {
+    "seed": 100344,
+    "outcome": 0,
+    "return": 0.14471913874149323,
+    "length": 256
+  },
+  {
+    "seed": 100345,
+    "outcome": 0,
+    "return": 0.15152627229690552,
+    "length": 256
+  },
+  {
+    "seed": 100346,
+    "outcome": 0,
+    "return": 0.15185292065143585,
+    "length": 256
+  },
+  {
+    "seed": 100347,
+    "outcome": 0,
+    "return": 0.15203365683555603,
+    "length": 256
+  },
+  {
+    "seed": 100348,
+    "outcome": 0,
+    "return": 0.15194222331047058,
+    "length": 256
+  },
+  {
+    "seed": 100349,
+    "outcome": 0,
+    "return": 0.1520797312259674,
+    "length": 256
+  },
+  {
+    "seed": 100350,
+    "outcome": 0,
+    "return": 0.15201540291309357,
+    "length": 256
+  },
+  {
+    "seed": 100351,
+    "outcome": 0,
+    "return": 0.15202249586582184,
+    "length": 256
+  },
+  {
+    "seed": 100352,
+    "outcome": 0,
+    "return": 0.15191864967346191,
+    "length": 256
+  },
+  {
+    "seed": 100353,
+    "outcome": 0,
+    "return": 0.14478978514671326,
+    "length": 256
+  },
+  {
+    "seed": 100354,
+    "outcome": 0,
+    "return": 0.15193775296211243,
+    "length": 256
+  },
+  {
+    "seed": 100355,
+    "outcome": 0,
+    "return": 0.1521245390176773,
+    "length": 256
+  },
+  {
+    "seed": 100356,
+    "outcome": 0,
+    "return": 0.15201863646507263,
+    "length": 256
+  },
+  {
+    "seed": 100357,
+    "outcome": 0,
+    "return": 0.15173131227493286,
+    "length": 256
+  },
+  {
+    "seed": 100358,
+    "outcome": 0,
+    "return": 0.15202036499977112,
+    "length": 256
+  },
+  {
+    "seed": 100359,
+    "outcome": 0,
+    "return": 0.15203267335891724,
+    "length": 256
+  },
+  {
+    "seed": 100360,
+    "outcome": 0,
+    "return": 0.15202489495277405,
+    "length": 256
+  },
+  {
+    "seed": 100361,
+    "outcome": 0,
+    "return": 0.15198975801467896,
+    "length": 256
+  },
+  {
+    "seed": 100362,
+    "outcome": 0,
+    "return": 0.1519199162721634,
+    "length": 256
+  },
+  {
+    "seed": 100363,
+    "outcome": 0,
+    "return": 0.15201961994171143,
+    "length": 256
+  },
+  {
+    "seed": 100364,
+    "outcome": 0,
+    "return": 0.15175649523735046,
+    "length": 256
+  },
+  {
+    "seed": 100365,
+    "outcome": 0,
+    "return": 0.15210770070552826,
+    "length": 256
+  },
+  {
+    "seed": 100366,
+    "outcome": 0,
+    "return": 0.1519857496023178,
+    "length": 256
+  },
+  {
+    "seed": 100367,
+    "outcome": 0,
+    "return": 0.15198758244514465,
+    "length": 256
+  },
+  {
+    "seed": 100368,
+    "outcome": 0,
+    "return": 0.15192078053951263,
+    "length": 256
+  },
+  {
+    "seed": 100369,
+    "outcome": 0,
+    "return": 0.15183858573436737,
+    "length": 256
+  },
+  {
+    "seed": 100370,
+    "outcome": 0,
+    "return": 0.15175582468509674,
+    "length": 256
+  },
+  {
+    "seed": 100371,
+    "outcome": 0,
+    "return": 0.15196305513381958,
+    "length": 256
+  },
+  {
+    "seed": 100372,
+    "outcome": 0,
+    "return": 0.15203705430030823,
+    "length": 256
+  },
+  {
+    "seed": 100373,
+    "outcome": 0,
+    "return": 0.15200188755989075,
+    "length": 256
+  },
+  {
+    "seed": 100374,
+    "outcome": 0,
+    "return": 0.15251493453979492,
+    "length": 256
+  },
+  {
+    "seed": 100375,
+    "outcome": 0,
+    "return": 0.1517864465713501,
+    "length": 256
+  },
+  {
+    "seed": 100376,
+    "outcome": 0,
+    "return": 0.1520039141178131,
+    "length": 256
+  },
+  {
+    "seed": 100377,
+    "outcome": 0,
+    "return": 0.15251551568508148,
+    "length": 256
+  },
+  {
+    "seed": 100378,
+    "outcome": 0,
+    "return": 0.15197011828422546,
+    "length": 256
+  },
+  {
+    "seed": 100379,
+    "outcome": 0,
+    "return": 0.1520318239927292,
+    "length": 256
+  },
+  {
+    "seed": 100380,
+    "outcome": 0,
+    "return": 0.15194450318813324,
+    "length": 256
+  },
+  {
+    "seed": 100381,
+    "outcome": 0,
+    "return": 0.15208232402801514,
+    "length": 256
+  },
+  {
+    "seed": 100382,
+    "outcome": 0,
+    "return": 0.15176810324192047,
+    "length": 256
+  },
+  {
+    "seed": 100383,
+    "outcome": 0,
+    "return": 0.15206076204776764,
+    "length": 256
+  },
+  {
+    "seed": 100384,
+    "outcome": 0,
+    "return": 0.15195058286190033,
+    "length": 256
+  },
+  {
+    "seed": 100385,
+    "outcome": 0,
+    "return": 0.15183669328689575,
+    "length": 256
+  },
+  {
+    "seed": 100386,
+    "outcome": 0,
+    "return": 0.15173526108264923,
+    "length": 256
+  },
+  {
+    "seed": 100387,
+    "outcome": 0,
+    "return": 0.15212704241275787,
+    "length": 256
+  },
+  {
+    "seed": 100388,
+    "outcome": 0,
+    "return": 0.1521778404712677,
+    "length": 256
+  },
+  {
+    "seed": 100389,
+    "outcome": 0,
+    "return": 0.15190015733242035,
+    "length": 256
+  },
+  {
+    "seed": 100390,
+    "outcome": 0,
+    "return": 0.1520019769668579,
+    "length": 256
+  },
+  {
+    "seed": 100391,
+    "outcome": 0,
+    "return": 0.1519528180360794,
+    "length": 256
+  },
+  {
+    "seed": 100392,
+    "outcome": 0,
+    "return": 0.15192463994026184,
+    "length": 256
+  },
+  {
+    "seed": 100393,
+    "outcome": 0,
+    "return": 0.15212495625019073,
+    "length": 256
+  },
+  {
+    "seed": 100394,
+    "outcome": 0,
+    "return": 0.15183348953723907,
+    "length": 256
+  },
+  {
+    "seed": 100395,
+    "outcome": 0,
+    "return": 0.15200020372867584,
+    "length": 256
+  },
+  {
+    "seed": 100396,
+    "outcome": 0,
+    "return": 0.1520758420228958,
+    "length": 256
+  },
+  {
+    "seed": 100397,
+    "outcome": 0,
+    "return": 0.15207581222057343,
+    "length": 256
+  },
+  {
+    "seed": 100398,
+    "outcome": 0,
+    "return": 0.15196120738983154,
+    "length": 256
+  },
+  {
+    "seed": 100399,
+    "outcome": 0,
+    "return": 0.15221327543258667,
+    "length": 256
+  },
+  {
+    "seed": 100400,
+    "outcome": 0,
+    "return": 0.1524731069803238,
+    "length": 256
+  },
+  {
+    "seed": 100401,
+    "outcome": 0,
+    "return": 0.1524687558412552,
+    "length": 256
+  },
+  {
+    "seed": 100402,
+    "outcome": 0,
+    "return": 0.15213194489479065,
+    "length": 256
+  },
+  {
+    "seed": 100403,
+    "outcome": 0,
+    "return": 0.152146115899086,
+    "length": 256
+  },
+  {
+    "seed": 100404,
+    "outcome": 0,
+    "return": 0.15174637734889984,
+    "length": 256
+  },
+  {
+    "seed": 100405,
+    "outcome": 0,
+    "return": 0.1518077552318573,
+    "length": 256
+  },
+  {
+    "seed": 100406,
+    "outcome": 0,
+    "return": 0.15195995569229126,
+    "length": 256
+  },
+  {
+    "seed": 100407,
+    "outcome": 0,
+    "return": 0.1521146148443222,
+    "length": 256
+  },
+  {
+    "seed": 100408,
+    "outcome": 0,
+    "return": 0.15201450884342194,
+    "length": 256
+  },
+  {
+    "seed": 100409,
+    "outcome": 0,
+    "return": 0.152368426322937,
+    "length": 256
+  },
+  {
+    "seed": 100410,
+    "outcome": 0,
+    "return": 0.15209685266017914,
+    "length": 256
+  },
+  {
+    "seed": 100411,
+    "outcome": 0,
+    "return": 0.15178118646144867,
+    "length": 256
+  },
+  {
+    "seed": 100412,
+    "outcome": 0,
+    "return": 0.15212930738925934,
+    "length": 256
+  },
+  {
+    "seed": 100413,
+    "outcome": 0,
+    "return": 0.15190713107585907,
+    "length": 256
+  },
+  {
+    "seed": 100414,
+    "outcome": 0,
+    "return": 0.15211521089076996,
+    "length": 256
+  },
+  {
+    "seed": 100415,
+    "outcome": 0,
+    "return": 0.15205949544906616,
+    "length": 256
+  },
+  {
+    "seed": 100416,
+    "outcome": 0,
+    "return": 0.1519068479537964,
+    "length": 256
+  },
+  {
+    "seed": 100417,
+    "outcome": 0,
+    "return": 0.15194816887378693,
+    "length": 256
+  },
+  {
+    "seed": 100418,
+    "outcome": 0,
+    "return": 0.15189573168754578,
+    "length": 256
+  },
+  {
+    "seed": 100419,
+    "outcome": 0,
+    "return": 0.15191712975502014,
+    "length": 256
+  },
+  {
+    "seed": 100420,
+    "outcome": 0,
+    "return": 0.15209659934043884,
+    "length": 256
+  },
+  {
+    "seed": 100421,
+    "outcome": 0,
+    "return": 0.15175865590572357,
+    "length": 256
+  },
+  {
+    "seed": 100422,
+    "outcome": 0,
+    "return": 0.15219146013259888,
+    "length": 256
+  },
+  {
+    "seed": 100423,
+    "outcome": 0,
+    "return": 0.1520427167415619,
+    "length": 256
+  },
+  {
+    "seed": 100424,
+    "outcome": 0,
+    "return": 0.1520116925239563,
+    "length": 256
+  },
+  {
+    "seed": 100425,
+    "outcome": 0,
+    "return": 0.15189410746097565,
+    "length": 256
+  },
+  {
+    "seed": 100426,
+    "outcome": 0,
+    "return": 0.15206283330917358,
+    "length": 256
+  },
+  {
+    "seed": 100427,
+    "outcome": 0,
+    "return": 0.15203002095222473,
+    "length": 256
+  },
+  {
+    "seed": 100428,
+    "outcome": 0,
+    "return": 0.1521047204732895,
+    "length": 256
+  },
+  {
+    "seed": 100429,
+    "outcome": 0,
+    "return": 0.15201470255851746,
+    "length": 256
+  },
+  {
+    "seed": 100430,
+    "outcome": 0,
+    "return": 0.15201394259929657,
+    "length": 256
+  },
+  {
+    "seed": 100431,
+    "outcome": 0,
+    "return": 0.15189583599567413,
+    "length": 256
+  },
+  {
+    "seed": 100432,
+    "outcome": 0,
+    "return": 0.15186402201652527,
+    "length": 256
+  },
+  {
+    "seed": 100433,
+    "outcome": 0,
+    "return": 0.1517886221408844,
+    "length": 256
+  },
+  {
+    "seed": 100434,
+    "outcome": 0,
+    "return": 0.1452893167734146,
+    "length": 256
+  },
+  {
+    "seed": 100435,
+    "outcome": 0,
+    "return": 0.1520826518535614,
+    "length": 256
+  },
+  {
+    "seed": 100436,
+    "outcome": 0,
+    "return": 0.15204598009586334,
+    "length": 256
+  },
+  {
+    "seed": 100437,
+    "outcome": 0,
+    "return": 0.15194936096668243,
+    "length": 256
+  },
+  {
+    "seed": 100438,
+    "outcome": 0,
+    "return": 0.15162356197834015,
+    "length": 256
+  },
+  {
+    "seed": 100439,
+    "outcome": 0,
+    "return": 0.1519923210144043,
+    "length": 256
+  },
+  {
+    "seed": 100440,
+    "outcome": 0,
+    "return": 0.1520814746618271,
+    "length": 256
+  },
+  {
+    "seed": 100441,
+    "outcome": 0,
+    "return": 0.15244248509407043,
+    "length": 256
+  },
+  {
+    "seed": 100442,
+    "outcome": 0,
+    "return": 0.15256758034229279,
+    "length": 256
+  },
+  {
+    "seed": 100443,
+    "outcome": 0,
+    "return": 0.15213488042354584,
+    "length": 256
+  },
+  {
+    "seed": 100444,
+    "outcome": 0,
+    "return": 0.15205562114715576,
+    "length": 256
+  },
+  {
+    "seed": 100445,
+    "outcome": 0,
+    "return": 0.15167070925235748,
+    "length": 256
+  },
+  {
+    "seed": 100446,
+    "outcome": 0,
+    "return": 0.1519158035516739,
+    "length": 256
+  },
+  {
+    "seed": 100447,
+    "outcome": 0,
+    "return": 0.15176960825920105,
+    "length": 256
+  },
+  {
+    "seed": 100448,
+    "outcome": 0,
+    "return": 0.15202724933624268,
+    "length": 256
+  },
+  {
+    "seed": 100449,
+    "outcome": 0,
+    "return": 0.15205979347229004,
+    "length": 256
+  },
+  {
+    "seed": 100450,
+    "outcome": 0,
+    "return": 0.15190406143665314,
+    "length": 256
+  },
+  {
+    "seed": 100451,
+    "outcome": 0,
+    "return": 0.15215305984020233,
+    "length": 256
+  },
+  {
+    "seed": 100452,
+    "outcome": 0,
+    "return": 0.15254949033260345,
+    "length": 256
+  },
+  {
+    "seed": 100453,
+    "outcome": 0,
+    "return": 0.1518755555152893,
+    "length": 256
+  },
+  {
+    "seed": 100454,
+    "outcome": 0,
+    "return": 0.15176492929458618,
+    "length": 256
+  },
+  {
+    "seed": 100455,
+    "outcome": 0,
+    "return": 0.15214376151561737,
+    "length": 256
+  },
+  {
+    "seed": 100456,
+    "outcome": 0,
+    "return": 0.15210288763046265,
+    "length": 256
+  },
+  {
+    "seed": 100457,
+    "outcome": 0,
+    "return": 0.15202561020851135,
+    "length": 256
+  },
+  {
+    "seed": 100458,
+    "outcome": 0,
+    "return": 0.1518152356147766,
+    "length": 256
+  },
+  {
+    "seed": 100459,
+    "outcome": 0,
+    "return": 0.15193329751491547,
+    "length": 256
+  },
+  {
+    "seed": 100460,
+    "outcome": 0,
+    "return": 0.15201187133789062,
+    "length": 256
+  },
+  {
+    "seed": 100461,
+    "outcome": 0,
+    "return": 0.15200740098953247,
+    "length": 256
+  },
+  {
+    "seed": 100462,
+    "outcome": 0,
+    "return": 0.1520402729511261,
+    "length": 256
+  },
+  {
+    "seed": 100463,
+    "outcome": 0,
+    "return": 0.14423488080501556,
+    "length": 256
+  },
+  {
+    "seed": 100464,
+    "outcome": 0,
+    "return": 0.1521025002002716,
+    "length": 256
+  },
+  {
+    "seed": 100465,
+    "outcome": 0,
+    "return": 0.1520129293203354,
+    "length": 256
+  },
+  {
+    "seed": 100466,
+    "outcome": 0,
+    "return": 0.15202473104000092,
+    "length": 256
+  },
+  {
+    "seed": 100467,
+    "outcome": 0,
+    "return": 0.15190140902996063,
+    "length": 256
+  },
+  {
+    "seed": 100468,
+    "outcome": 0,
+    "return": 0.1518273949623108,
+    "length": 256
+  },
+  {
+    "seed": 100469,
+    "outcome": 0,
+    "return": 0.1517767608165741,
+    "length": 256
+  },
+  {
+    "seed": 100470,
+    "outcome": 0,
+    "return": 0.1516532152891159,
+    "length": 256
+  },
+  {
+    "seed": 100471,
+    "outcome": 0,
+    "return": 0.15218912065029144,
+    "length": 256
+  },
+  {
+    "seed": 100472,
+    "outcome": 0,
+    "return": 0.15207144618034363,
+    "length": 256
+  },
+  {
+    "seed": 100473,
+    "outcome": 0,
+    "return": 0.15206970274448395,
+    "length": 256
+  },
+  {
+    "seed": 100474,
+    "outcome": 0,
+    "return": 0.152190700173378,
+    "length": 256
+  },
+  {
+    "seed": 100475,
+    "outcome": 0,
+    "return": 0.15198804438114166,
+    "length": 256
+  },
+  {
+    "seed": 100476,
+    "outcome": 0,
+    "return": 0.15179316699504852,
+    "length": 256
+  },
+  {
+    "seed": 100477,
+    "outcome": 0,
+    "return": 0.1519920974969864,
+    "length": 256
+  },
+  {
+    "seed": 100478,
+    "outcome": 0,
+    "return": 0.15211695432662964,
+    "length": 256
+  },
+  {
+    "seed": 100479,
+    "outcome": 0,
+    "return": 0.1520153284072876,
+    "length": 256
+  },
+  {
+    "seed": 100480,
+    "outcome": 0,
+    "return": 0.15206357836723328,
+    "length": 256
+  },
+  {
+    "seed": 100481,
+    "outcome": 0,
+    "return": 0.15198570489883423,
+    "length": 256
+  },
+  {
+    "seed": 100482,
+    "outcome": 0,
+    "return": 0.15190550684928894,
+    "length": 256
+  },
+  {
+    "seed": 100483,
+    "outcome": 0,
+    "return": 0.15208552777767181,
+    "length": 256
+  },
+  {
+    "seed": 100484,
+    "outcome": 0,
+    "return": 0.1518981009721756,
+    "length": 256
+  },
+  {
+    "seed": 100485,
+    "outcome": 0,
+    "return": 0.1520339399576187,
+    "length": 256
+  },
+  {
+    "seed": 100486,
+    "outcome": 0,
+    "return": 0.1518806666135788,
+    "length": 256
+  },
+  {
+    "seed": 100487,
+    "outcome": 0,
+    "return": 0.15224897861480713,
+    "length": 256
+  },
+  {
+    "seed": 100488,
+    "outcome": 0,
+    "return": 0.15195469558238983,
+    "length": 256
+  },
+  {
+    "seed": 100489,
+    "outcome": 0,
+    "return": 0.15198063850402832,
+    "length": 256
+  },
+  {
+    "seed": 100490,
+    "outcome": 0,
+    "return": 0.1521412879228592,
+    "length": 256
+  },
+  {
+    "seed": 100491,
+    "outcome": 0,
+    "return": 0.15208874642848969,
+    "length": 256
+  },
+  {
+    "seed": 100492,
+    "outcome": 0,
+    "return": 0.15200172364711761,
+    "length": 256
+  },
+  {
+    "seed": 100493,
+    "outcome": 0,
+    "return": 0.152222141623497,
+    "length": 256
+  },
+  {
+    "seed": 100494,
+    "outcome": 0,
+    "return": 0.15205344557762146,
+    "length": 256
+  },
+  {
+    "seed": 100495,
+    "outcome": 0,
+    "return": 0.15193183720111847,
+    "length": 256
+  },
+  {
+    "seed": 100496,
+    "outcome": 0,
+    "return": 0.15163560211658478,
+    "length": 256
+  },
+  {
+    "seed": 100497,
+    "outcome": 0,
+    "return": 0.15199081599712372,
+    "length": 256
+  },
+  {
+    "seed": 100498,
+    "outcome": 0,
+    "return": 0.1514982134103775,
+    "length": 256
+  },
+  {
+    "seed": 100499,
+    "outcome": 0,
+    "return": 0.1445666253566742,
+    "length": 256
+  },
+  {
+    "seed": 100500,
+    "outcome": 0,
+    "return": 0.15221479535102844,
+    "length": 256
+  },
+  {
+    "seed": 100501,
+    "outcome": 0,
+    "return": 0.15189935266971588,
+    "length": 256
+  },
+  {
+    "seed": 100502,
+    "outcome": 0,
+    "return": 0.15206381678581238,
+    "length": 256
+  },
+  {
+    "seed": 100503,
+    "outcome": 0,
+    "return": 0.15199048817157745,
+    "length": 256
+  },
+  {
+    "seed": 100504,
+    "outcome": 0,
+    "return": 0.15199171006679535,
+    "length": 256
+  },
+  {
+    "seed": 100505,
+    "outcome": 0,
+    "return": 0.15210600197315216,
+    "length": 256
+  },
+  {
+    "seed": 100506,
+    "outcome": 0,
+    "return": 0.1519879698753357,
+    "length": 256
+  },
+  {
+    "seed": 100507,
+    "outcome": 0,
+    "return": 0.15201911330223083,
+    "length": 256
+  },
+  {
+    "seed": 100508,
+    "outcome": 0,
+    "return": 0.15196165442466736,
+    "length": 256
+  },
+  {
+    "seed": 100509,
+    "outcome": 0,
+    "return": 0.15208807587623596,
+    "length": 256
+  },
+  {
+    "seed": 100510,
+    "outcome": 0,
+    "return": 0.15183967351913452,
+    "length": 256
+  },
+  {
+    "seed": 100511,
+    "outcome": 0,
+    "return": 0.15200263261795044,
+    "length": 256
+  },
+  {
+    "seed": 100512,
+    "outcome": 0,
+    "return": 0.15172883868217468,
+    "length": 256
+  },
+  {
+    "seed": 100513,
+    "outcome": 0,
+    "return": 0.15190286934375763,
+    "length": 256
+  },
+  {
+    "seed": 100514,
+    "outcome": 0,
+    "return": 0.15200264751911163,
+    "length": 256
+  },
+  {
+    "seed": 100515,
+    "outcome": 0,
+    "return": 0.1518561989068985,
+    "length": 256
+  },
+  {
+    "seed": 100516,
+    "outcome": 0,
+    "return": 0.1519756019115448,
+    "length": 256
+  },
+  {
+    "seed": 100517,
+    "outcome": 0,
+    "return": 0.15189985930919647,
+    "length": 256
+  },
+  {
+    "seed": 100518,
+    "outcome": 0,
+    "return": 0.1519157886505127,
+    "length": 256
+  },
+  {
+    "seed": 100519,
+    "outcome": 0,
+    "return": 0.1518763303756714,
+    "length": 256
+  },
+  {
+    "seed": 100520,
+    "outcome": 0,
+    "return": 0.1520993709564209,
+    "length": 256
+  },
+  {
+    "seed": 100521,
+    "outcome": 0,
+    "return": 0.15221278369426727,
+    "length": 256
+  },
+  {
+    "seed": 100522,
+    "outcome": 0,
+    "return": 0.15154863893985748,
+    "length": 256
+  },
+  {
+    "seed": 100523,
+    "outcome": 0,
+    "return": 0.15191225707530975,
+    "length": 256
+  },
+  {
+    "seed": 100524,
+    "outcome": 0,
+    "return": 0.15204854309558868,
+    "length": 256
+  },
+  {
+    "seed": 100525,
+    "outcome": 0,
+    "return": 0.15209698677062988,
+    "length": 256
+  },
+  {
+    "seed": 100526,
+    "outcome": 0,
+    "return": 0.15207181870937347,
+    "length": 256
+  },
+  {
+    "seed": 100527,
+    "outcome": 0,
+    "return": 0.15198396146297455,
+    "length": 256
+  },
+  {
+    "seed": 100528,
+    "outcome": 0,
+    "return": 0.15207280218601227,
+    "length": 256
+  },
+  {
+    "seed": 100529,
+    "outcome": 0,
+    "return": 0.15200257301330566,
+    "length": 256
+  },
+  {
+    "seed": 100530,
+    "outcome": 0,
+    "return": 0.15166638791561127,
+    "length": 256
+  },
+  {
+    "seed": 100531,
+    "outcome": 0,
+    "return": 0.15198928117752075,
+    "length": 256
+  },
+  {
+    "seed": 100532,
+    "outcome": 0,
+    "return": 0.15199361741542816,
+    "length": 256
+  },
+  {
+    "seed": 100533,
+    "outcome": 0,
+    "return": 0.1524779200553894,
+    "length": 256
+  },
+  {
+    "seed": 100534,
+    "outcome": 0,
+    "return": 0.15173810720443726,
+    "length": 256
+  },
+  {
+    "seed": 100535,
+    "outcome": 0,
+    "return": 0.15233273804187775,
+    "length": 256
+  },
+  {
+    "seed": 100536,
+    "outcome": 0,
+    "return": 0.15206366777420044,
+    "length": 256
+  },
+  {
+    "seed": 100537,
+    "outcome": 0,
+    "return": 0.15195779502391815,
+    "length": 256
+  },
+  {
+    "seed": 100538,
+    "outcome": 0,
+    "return": 0.15191327035427094,
+    "length": 256
+  },
+  {
+    "seed": 100539,
+    "outcome": 0,
+    "return": 0.15205949544906616,
+    "length": 256
+  },
+  {
+    "seed": 100540,
+    "outcome": 0,
+    "return": 0.1520218849182129,
+    "length": 256
+  },
+  {
+    "seed": 100541,
+    "outcome": 0,
+    "return": 0.15189410746097565,
+    "length": 256
+  },
+  {
+    "seed": 100542,
+    "outcome": 0,
+    "return": 0.15194563567638397,
+    "length": 256
+  },
+  {
+    "seed": 100543,
+    "outcome": 0,
+    "return": 0.1521482765674591,
+    "length": 256
+  },
+  {
+    "seed": 100544,
+    "outcome": 0,
+    "return": 0.15242791175842285,
+    "length": 256
+  },
+  {
+    "seed": 100545,
+    "outcome": 0,
+    "return": 0.151971697807312,
+    "length": 256
+  },
+  {
+    "seed": 100546,
+    "outcome": 0,
+    "return": 0.15188905596733093,
+    "length": 256
+  },
+  {
+    "seed": 100547,
+    "outcome": 0,
+    "return": 0.15202759206295013,
+    "length": 256
+  },
+  {
+    "seed": 100548,
+    "outcome": 0,
+    "return": 0.15197719633579254,
+    "length": 256
+  },
+  {
+    "seed": 100549,
+    "outcome": 0,
+    "return": 0.151992067694664,
+    "length": 256
+  },
+  {
+    "seed": 100550,
+    "outcome": 0,
+    "return": 0.1514536589384079,
+    "length": 256
+  },
+  {
+    "seed": 100551,
+    "outcome": 0,
+    "return": 0.15207742154598236,
+    "length": 256
+  },
+  {
+    "seed": 100552,
+    "outcome": 0,
+    "return": 0.1519087255001068,
+    "length": 256
+  },
+  {
+    "seed": 100553,
+    "outcome": 0,
+    "return": 0.15207232534885406,
+    "length": 256
+  },
+  {
+    "seed": 100554,
+    "outcome": 0,
+    "return": 0.15188075602054596,
+    "length": 256
+  },
+  {
+    "seed": 100555,
+    "outcome": 0,
+    "return": 0.15175631642341614,
+    "length": 256
+  },
+  {
+    "seed": 100556,
+    "outcome": 0,
+    "return": 0.15225690603256226,
+    "length": 256
+  },
+  {
+    "seed": 100557,
+    "outcome": 0,
+    "return": 0.15198779106140137,
+    "length": 256
+  },
+  {
+    "seed": 100558,
+    "outcome": 0,
+    "return": 0.152012899518013,
+    "length": 256
+  },
+  {
+    "seed": 100559,
+    "outcome": 0,
+    "return": 0.15161532163619995,
+    "length": 256
+  },
+  {
+    "seed": 100560,
+    "outcome": 0,
+    "return": 0.15212716162204742,
+    "length": 256
+  },
+  {
+    "seed": 100561,
+    "outcome": 0,
+    "return": 0.1520412415266037,
+    "length": 256
+  },
+  {
+    "seed": 100562,
+    "outcome": 0,
+    "return": 0.15206056833267212,
+    "length": 256
+  },
+  {
+    "seed": 100563,
+    "outcome": 0,
+    "return": 0.15196813642978668,
+    "length": 256
+  },
+  {
+    "seed": 100564,
+    "outcome": 0,
+    "return": 0.15201720595359802,
+    "length": 256
+  },
+  {
+    "seed": 100565,
+    "outcome": 0,
+    "return": 0.15204881131649017,
+    "length": 256
+  },
+  {
+    "seed": 100566,
+    "outcome": 0,
+    "return": 0.15205936133861542,
+    "length": 256
+  },
+  {
+    "seed": 100567,
+    "outcome": 0,
+    "return": 0.15189678966999054,
+    "length": 256
+  },
+  {
+    "seed": 100568,
+    "outcome": 0,
+    "return": 0.15213344991207123,
+    "length": 256
+  },
+  {
+    "seed": 100569,
+    "outcome": 0,
+    "return": 0.15183709561824799,
+    "length": 256
+  },
+  {
+    "seed": 100570,
+    "outcome": 0,
+    "return": 0.15190570056438446,
+    "length": 256
+  },
+  {
+    "seed": 100571,
+    "outcome": 0,
+    "return": 0.1519927829504013,
+    "length": 256
+  },
+  {
+    "seed": 100572,
+    "outcome": 0,
+    "return": 0.1517707109451294,
+    "length": 256
+  },
+  {
+    "seed": 100573,
+    "outcome": 0,
+    "return": 0.1520610749721527,
+    "length": 256
+  },
+  {
+    "seed": 100574,
+    "outcome": 0,
+    "return": 0.1519865244626999,
+    "length": 256
+  },
+  {
+    "seed": 100575,
+    "outcome": 0,
+    "return": 0.15209589898586273,
+    "length": 256
+  },
+  {
+    "seed": 100576,
+    "outcome": 0,
+    "return": 0.15196406841278076,
+    "length": 256
+  },
+  {
+    "seed": 100577,
+    "outcome": 0,
+    "return": 0.15250012278556824,
+    "length": 256
+  },
+  {
+    "seed": 100578,
+    "outcome": 0,
+    "return": 0.15192173421382904,
+    "length": 256
+  },
+  {
+    "seed": 100579,
+    "outcome": 0,
+    "return": 0.1525510549545288,
+    "length": 256
+  },
+  {
+    "seed": 100580,
+    "outcome": 0,
+    "return": 0.1522333025932312,
+    "length": 256
+  },
+  {
+    "seed": 100581,
+    "outcome": 0,
+    "return": 0.1519661247730255,
+    "length": 256
+  },
+  {
+    "seed": 100582,
+    "outcome": 0,
+    "return": 0.15206751227378845,
+    "length": 256
+  },
+  {
+    "seed": 100583,
+    "outcome": 0,
+    "return": 0.14585085213184357,
+    "length": 256
+  },
+  {
+    "seed": 100584,
+    "outcome": 0,
+    "return": 0.15182243287563324,
+    "length": 256
+  },
+  {
+    "seed": 100585,
+    "outcome": 0,
+    "return": 0.15205009281635284,
+    "length": 256
+  },
+  {
+    "seed": 100586,
+    "outcome": 0,
+    "return": 0.15196219086647034,
+    "length": 256
+  },
+  {
+    "seed": 100587,
+    "outcome": 0,
+    "return": 0.1520770639181137,
+    "length": 256
+  },
+  {
+    "seed": 100588,
+    "outcome": 0,
+    "return": 0.15209519863128662,
+    "length": 256
+  },
+  {
+    "seed": 100589,
+    "outcome": 0,
+    "return": 0.15188491344451904,
+    "length": 256
+  },
+  {
+    "seed": 100590,
+    "outcome": 0,
+    "return": 0.15168069303035736,
+    "length": 256
+  },
+  {
+    "seed": 100591,
+    "outcome": 0,
+    "return": 0.1519027203321457,
+    "length": 256
+  },
+  {
+    "seed": 100592,
+    "outcome": 0,
+    "return": 0.15199467539787292,
+    "length": 256
+  },
+  {
+    "seed": 100593,
+    "outcome": 0,
+    "return": 0.15196962654590607,
+    "length": 256
+  },
+  {
+    "seed": 100594,
+    "outcome": 0,
+    "return": 0.15206842124462128,
+    "length": 256
+  },
+  {
+    "seed": 100595,
+    "outcome": 0,
+    "return": 0.15206487476825714,
+    "length": 256
+  },
+  {
+    "seed": 100596,
+    "outcome": 0,
+    "return": 0.15195107460021973,
+    "length": 256
+  },
+  {
+    "seed": 100597,
+    "outcome": 0,
+    "return": 0.15192250907421112,
+    "length": 256
+  },
+  {
+    "seed": 100598,
+    "outcome": 0,
+    "return": 0.15201811492443085,
+    "length": 256
+  },
+  {
+    "seed": 100599,
+    "outcome": 0,
+    "return": 0.1518457680940628,
+    "length": 256
+  },
+  {
+    "seed": 100600,
+    "outcome": 0,
+    "return": 0.1520577073097229,
+    "length": 256
+  },
+  {
+    "seed": 100601,
+    "outcome": 0,
+    "return": 0.1519675850868225,
+    "length": 256
+  },
+  {
+    "seed": 100602,
+    "outcome": 0,
+    "return": 0.15201976895332336,
+    "length": 256
+  },
+  {
+    "seed": 100603,
+    "outcome": 0,
+    "return": 0.15205566585063934,
+    "length": 256
+  },
+  {
+    "seed": 100604,
+    "outcome": 0,
+    "return": 0.151848703622818,
+    "length": 256
+  },
+  {
+    "seed": 100605,
+    "outcome": 0,
+    "return": 0.152031809091568,
+    "length": 256
+  },
+  {
+    "seed": 100606,
+    "outcome": 0,
+    "return": 0.1517031192779541,
+    "length": 256
+  },
+  {
+    "seed": 100607,
+    "outcome": 0,
+    "return": 0.15198799967765808,
+    "length": 256
+  },
+  {
+    "seed": 100608,
+    "outcome": 0,
+    "return": 0.15192054212093353,
+    "length": 256
+  },
+  {
+    "seed": 100609,
+    "outcome": 0,
+    "return": 0.15200063586235046,
+    "length": 256
+  },
+  {
+    "seed": 100610,
+    "outcome": 0,
+    "return": 0.15203818678855896,
+    "length": 256
+  },
+  {
+    "seed": 100611,
+    "outcome": 0,
+    "return": 0.1519995927810669,
+    "length": 256
+  },
+  {
+    "seed": 100612,
+    "outcome": 0,
+    "return": 0.15199778974056244,
+    "length": 256
+  },
+  {
+    "seed": 100613,
+    "outcome": 0,
+    "return": 0.15202811360359192,
+    "length": 256
+  },
+  {
+    "seed": 100614,
+    "outcome": 0,
+    "return": 0.15205435454845428,
+    "length": 256
+  },
+  {
+    "seed": 100615,
+    "outcome": 0,
+    "return": 0.15216578543186188,
+    "length": 256
+  },
+  {
+    "seed": 100616,
+    "outcome": 0,
+    "return": 0.15203802287578583,
+    "length": 256
+  },
+  {
+    "seed": 100617,
+    "outcome": 0,
+    "return": 0.14424702525138855,
+    "length": 256
+  },
+  {
+    "seed": 100618,
+    "outcome": 0,
+    "return": 0.15188799798488617,
+    "length": 256
+  },
+  {
+    "seed": 100619,
+    "outcome": 0,
+    "return": 0.15217852592468262,
+    "length": 256
+  },
+  {
+    "seed": 100620,
+    "outcome": 0,
+    "return": 0.15220008790493011,
+    "length": 256
+  },
+  {
+    "seed": 100621,
+    "outcome": 0,
+    "return": 0.14565356075763702,
+    "length": 256
+  },
+  {
+    "seed": 100622,
+    "outcome": 0,
+    "return": 0.15201829373836517,
+    "length": 256
+  },
+  {
+    "seed": 100623,
+    "outcome": 0,
+    "return": 0.15199263393878937,
+    "length": 256
+  },
+  {
+    "seed": 100624,
+    "outcome": 0,
+    "return": 0.15199871361255646,
+    "length": 256
+  },
+  {
+    "seed": 100625,
+    "outcome": 0,
+    "return": 0.15183734893798828,
+    "length": 256
+  },
+  {
+    "seed": 100626,
+    "outcome": 0,
+    "return": 0.15178042650222778,
+    "length": 256
+  },
+  {
+    "seed": 100627,
+    "outcome": 0,
+    "return": 0.1519925594329834,
+    "length": 256
+  },
+  {
+    "seed": 100628,
+    "outcome": 0,
+    "return": 0.1518770009279251,
+    "length": 256
+  },
+  {
+    "seed": 100629,
+    "outcome": 0,
+    "return": 0.15195751190185547,
+    "length": 256
+  },
+  {
+    "seed": 100630,
+    "outcome": 0,
+    "return": 0.15187972784042358,
+    "length": 256
+  },
+  {
+    "seed": 100631,
+    "outcome": 0,
+    "return": 0.15187028050422668,
+    "length": 256
+  },
+  {
+    "seed": 100632,
+    "outcome": 0,
+    "return": 0.15175023674964905,
+    "length": 256
+  },
+  {
+    "seed": 100633,
+    "outcome": 0,
+    "return": 0.15201976895332336,
+    "length": 256
+  },
+  {
+    "seed": 100634,
+    "outcome": 0,
+    "return": 0.15216532349586487,
+    "length": 256
+  },
+  {
+    "seed": 100635,
+    "outcome": 0,
+    "return": 0.15201802551746368,
+    "length": 256
+  },
+  {
+    "seed": 100636,
+    "outcome": 0,
+    "return": 0.1515902876853943,
+    "length": 256
+  },
+  {
+    "seed": 100637,
+    "outcome": 0,
+    "return": 0.15190137922763824,
+    "length": 256
+  },
+  {
+    "seed": 100638,
+    "outcome": 0,
+    "return": 0.15199188888072968,
+    "length": 256
+  },
+  {
+    "seed": 100639,
+    "outcome": 0,
+    "return": 0.15210232138633728,
+    "length": 256
+  },
+  {
+    "seed": 100640,
+    "outcome": 0,
+    "return": 0.15180443227291107,
+    "length": 256
+  },
+  {
+    "seed": 100641,
+    "outcome": 0,
+    "return": 0.15190711617469788,
+    "length": 256
+  },
+  {
+    "seed": 100642,
+    "outcome": 0,
+    "return": 0.15189822018146515,
+    "length": 256
+  },
+  {
+    "seed": 100643,
+    "outcome": 0,
+    "return": 0.15191704034805298,
+    "length": 256
+  },
+  {
+    "seed": 100644,
+    "outcome": 0,
+    "return": 0.15212155878543854,
+    "length": 256
+  },
+  {
+    "seed": 100645,
+    "outcome": 0,
+    "return": 0.15178872644901276,
+    "length": 256
+  },
+  {
+    "seed": 100646,
+    "outcome": 0,
+    "return": 0.15210671722888947,
+    "length": 256
+  },
+  {
+    "seed": 100647,
+    "outcome": 0,
+    "return": 0.15195904672145844,
+    "length": 256
+  },
+  {
+    "seed": 100648,
+    "outcome": 0,
+    "return": 0.1519099920988083,
+    "length": 256
+  },
+  {
+    "seed": 100649,
+    "outcome": 0,
+    "return": 0.15249548852443695,
+    "length": 256
+  },
+  {
+    "seed": 100650,
+    "outcome": 0,
+    "return": 0.15195517241954803,
+    "length": 256
+  },
+  {
+    "seed": 100651,
+    "outcome": 0,
+    "return": 0.1542167067527771,
+    "length": 256
+  },
+  {
+    "seed": 100652,
+    "outcome": 0,
+    "return": 0.15202265977859497,
+    "length": 256
+  },
+  {
+    "seed": 100653,
+    "outcome": 0,
+    "return": 0.15190964937210083,
+    "length": 256
+  },
+  {
+    "seed": 100654,
+    "outcome": 0,
+    "return": 0.15193171799182892,
+    "length": 256
+  },
+  {
+    "seed": 100655,
+    "outcome": 0,
+    "return": 0.15186674892902374,
+    "length": 256
+  },
+  {
+    "seed": 100656,
+    "outcome": 0,
+    "return": 0.15202906727790833,
+    "length": 256
+  },
+  {
+    "seed": 100657,
+    "outcome": 0,
+    "return": 0.1522570103406906,
+    "length": 256
+  },
+  {
+    "seed": 100658,
+    "outcome": 0,
+    "return": 0.15199384093284607,
+    "length": 256
+  },
+  {
+    "seed": 100659,
+    "outcome": 0,
+    "return": 0.1520916372537613,
+    "length": 256
+  },
+  {
+    "seed": 100660,
+    "outcome": 0,
+    "return": 0.15145531296730042,
+    "length": 256
+  },
+  {
+    "seed": 100661,
+    "outcome": 0,
+    "return": 0.15194906294345856,
+    "length": 256
+  },
+  {
+    "seed": 100662,
+    "outcome": 0,
+    "return": 0.15218034386634827,
+    "length": 256
+  },
+  {
+    "seed": 100663,
+    "outcome": 0,
+    "return": 0.1522112339735031,
+    "length": 256
+  },
+  {
+    "seed": 100664,
+    "outcome": 0,
+    "return": 0.15191607177257538,
+    "length": 256
+  },
+  {
+    "seed": 100665,
+    "outcome": 0,
+    "return": 0.15163768827915192,
+    "length": 256
+  },
+  {
+    "seed": 100666,
+    "outcome": 0,
+    "return": 0.15183201432228088,
+    "length": 256
+  },
+  {
+    "seed": 100667,
+    "outcome": 0,
+    "return": 0.15200629830360413,
+    "length": 256
+  },
+  {
+    "seed": 100668,
+    "outcome": 0,
+    "return": 0.15201686322689056,
+    "length": 256
+  },
+  {
+    "seed": 100669,
+    "outcome": 0,
+    "return": 0.15196627378463745,
+    "length": 256
+  },
+  {
+    "seed": 100670,
+    "outcome": 0,
+    "return": 0.15204747021198273,
+    "length": 256
+  },
+  {
+    "seed": 100671,
+    "outcome": 0,
+    "return": 0.15177156031131744,
+    "length": 256
+  },
+  {
+    "seed": 100672,
+    "outcome": 0,
+    "return": 0.1520179957151413,
+    "length": 256
+  },
+  {
+    "seed": 100673,
+    "outcome": 0,
+    "return": 0.15192236006259918,
+    "length": 256
+  },
+  {
+    "seed": 100674,
+    "outcome": 0,
+    "return": 0.15198424458503723,
+    "length": 256
+  },
+  {
+    "seed": 100675,
+    "outcome": 0,
+    "return": 0.15198802947998047,
+    "length": 256
+  },
+  {
+    "seed": 100676,
+    "outcome": 0,
+    "return": 0.15202341973781586,
+    "length": 256
+  },
+  {
+    "seed": 100677,
+    "outcome": 0,
+    "return": 0.15191268920898438,
+    "length": 256
+  },
+  {
+    "seed": 100678,
+    "outcome": 0,
+    "return": 0.15197613835334778,
+    "length": 256
+  },
+  {
+    "seed": 100679,
+    "outcome": 0,
+    "return": 0.15200401842594147,
+    "length": 256
+  },
+  {
+    "seed": 100680,
+    "outcome": 0,
+    "return": 0.15213151276111603,
+    "length": 256
+  },
+  {
+    "seed": 100681,
+    "outcome": 0,
+    "return": 0.15199553966522217,
+    "length": 256
+  },
+  {
+    "seed": 100682,
+    "outcome": 0,
+    "return": 0.15193817019462585,
+    "length": 256
+  },
+  {
+    "seed": 100683,
+    "outcome": 0,
+    "return": 0.15190908312797546,
+    "length": 256
+  },
+  {
+    "seed": 100684,
+    "outcome": 0,
+    "return": 0.1518266797065735,
+    "length": 256
+  },
+  {
+    "seed": 100685,
+    "outcome": 0,
+    "return": 0.15201464295387268,
+    "length": 256
+  },
+  {
+    "seed": 100686,
+    "outcome": 0,
+    "return": 0.1525590568780899,
+    "length": 256
+  },
+  {
+    "seed": 100687,
+    "outcome": 0,
+    "return": 0.15200139582157135,
+    "length": 256
+  },
+  {
+    "seed": 100688,
+    "outcome": 0,
+    "return": 0.15183895826339722,
+    "length": 256
+  },
+  {
+    "seed": 100689,
+    "outcome": 0,
+    "return": 0.15258680284023285,
+    "length": 256
+  },
+  {
+    "seed": 100690,
+    "outcome": 0,
+    "return": 0.15227404236793518,
+    "length": 256
+  },
+  {
+    "seed": 100691,
+    "outcome": 0,
+    "return": 0.15259160101413727,
+    "length": 256
+  },
+  {
+    "seed": 100692,
+    "outcome": 0,
+    "return": 0.15172579884529114,
+    "length": 256
+  },
+  {
+    "seed": 100693,
+    "outcome": 0,
+    "return": 0.15225592255592346,
+    "length": 256
+  },
+  {
+    "seed": 100694,
+    "outcome": 0,
+    "return": 0.15204787254333496,
+    "length": 256
+  },
+  {
+    "seed": 100695,
+    "outcome": 0,
+    "return": 0.15193848311901093,
+    "length": 256
+  },
+  {
+    "seed": 100696,
+    "outcome": 0,
+    "return": 0.15204046666622162,
+    "length": 256
+  },
+  {
+    "seed": 100697,
+    "outcome": 0,
+    "return": 0.1521063894033432,
+    "length": 256
+  },
+  {
+    "seed": 100698,
+    "outcome": 0,
+    "return": 0.15204790234565735,
+    "length": 256
+  },
+  {
+    "seed": 100699,
+    "outcome": 0,
+    "return": 0.1517658829689026,
+    "length": 256
+  },
+  {
+    "seed": 100700,
+    "outcome": 0,
+    "return": 0.15191492438316345,
+    "length": 256
+  },
+  {
+    "seed": 100701,
+    "outcome": 0,
+    "return": 0.1520179808139801,
+    "length": 256
+  },
+  {
+    "seed": 100702,
+    "outcome": 0,
+    "return": 0.15205517411231995,
+    "length": 256
+  },
+  {
+    "seed": 100703,
+    "outcome": 0,
+    "return": 0.15183721482753754,
+    "length": 256
+  },
+  {
+    "seed": 100704,
+    "outcome": 0,
+    "return": 0.1519240289926529,
+    "length": 256
+  },
+  {
+    "seed": 100705,
+    "outcome": 0,
+    "return": 0.15208585560321808,
+    "length": 256
+  },
+  {
+    "seed": 100706,
+    "outcome": 0,
+    "return": 0.15219271183013916,
+    "length": 256
+  },
+  {
+    "seed": 100707,
+    "outcome": 0,
+    "return": 0.15204834938049316,
+    "length": 256
+  },
+  {
+    "seed": 100708,
+    "outcome": 0,
+    "return": 0.1520196497440338,
+    "length": 256
+  },
+  {
+    "seed": 100709,
+    "outcome": 0,
+    "return": 0.15199998021125793,
+    "length": 256
+  },
+  {
+    "seed": 100710,
+    "outcome": 0,
+    "return": 0.15200366079807281,
+    "length": 256
+  },
+  {
+    "seed": 100711,
+    "outcome": 0,
+    "return": 0.15191622078418732,
+    "length": 256
+  },
+  {
+    "seed": 100712,
+    "outcome": 0,
+    "return": 0.15201085805892944,
+    "length": 256
+  },
+  {
+    "seed": 100713,
+    "outcome": 0,
+    "return": 0.15206089615821838,
+    "length": 256
+  },
+  {
+    "seed": 100714,
+    "outcome": 0,
+    "return": 0.15203918516635895,
+    "length": 256
+  },
+  {
+    "seed": 100715,
+    "outcome": 0,
+    "return": 0.15194115042686462,
+    "length": 256
+  },
+  {
+    "seed": 100716,
+    "outcome": 0,
+    "return": 0.15201005339622498,
+    "length": 256
+  },
+  {
+    "seed": 100717,
+    "outcome": 0,
+    "return": 0.15211665630340576,
+    "length": 256
+  },
+  {
+    "seed": 100718,
+    "outcome": 0,
+    "return": 0.15206556022167206,
+    "length": 256
+  },
+  {
+    "seed": 100719,
+    "outcome": 0,
+    "return": 0.15206953883171082,
+    "length": 256
+  },
+  {
+    "seed": 100720,
+    "outcome": 0,
+    "return": 0.15380136668682098,
+    "length": 256
+  },
+  {
+    "seed": 100721,
+    "outcome": 0,
+    "return": 0.15201595425605774,
+    "length": 256
+  },
+  {
+    "seed": 100722,
+    "outcome": 0,
+    "return": 0.15207965672016144,
+    "length": 256
+  },
+  {
+    "seed": 100723,
+    "outcome": 0,
+    "return": 0.15185467898845673,
+    "length": 256
+  },
+  {
+    "seed": 100724,
+    "outcome": 0,
+    "return": 0.15194740891456604,
+    "length": 256
+  },
+  {
+    "seed": 100725,
+    "outcome": 0,
+    "return": 0.15171678364276886,
+    "length": 256
+  },
+  {
+    "seed": 100726,
+    "outcome": 0,
+    "return": 0.15210367739200592,
+    "length": 256
+  },
+  {
+    "seed": 100727,
+    "outcome": 0,
+    "return": 0.15206731855869293,
+    "length": 256
+  },
+  {
+    "seed": 100728,
+    "outcome": 0,
+    "return": 0.1516844779253006,
+    "length": 256
+  },
+  {
+    "seed": 100729,
+    "outcome": 0,
+    "return": 0.1521274298429489,
+    "length": 256
+  },
+  {
+    "seed": 100730,
+    "outcome": 0,
+    "return": 0.15187925100326538,
+    "length": 256
+  },
+  {
+    "seed": 100731,
+    "outcome": 0,
+    "return": 0.15203040838241577,
+    "length": 256
+  },
+  {
+    "seed": 100732,
+    "outcome": 0,
+    "return": 0.15209241211414337,
+    "length": 256
+  },
+  {
+    "seed": 100733,
+    "outcome": 0,
+    "return": 0.1521236151456833,
+    "length": 256
+  },
+  {
+    "seed": 100734,
+    "outcome": 0,
+    "return": 0.1520080417394638,
+    "length": 256
+  },
+  {
+    "seed": 100735,
+    "outcome": 0,
+    "return": 0.1520092785358429,
+    "length": 256
+  },
+  {
+    "seed": 100736,
+    "outcome": 0,
+    "return": 0.15197135508060455,
+    "length": 256
+  },
+  {
+    "seed": 100737,
+    "outcome": 0,
+    "return": 0.15200062096118927,
+    "length": 256
+  },
+  {
+    "seed": 100738,
+    "outcome": 0,
+    "return": 0.15189692378044128,
+    "length": 256
+  },
+  {
+    "seed": 100739,
+    "outcome": 0,
+    "return": 0.1517137885093689,
+    "length": 256
+  },
+  {
+    "seed": 100740,
+    "outcome": 0,
+    "return": 0.15219470858573914,
+    "length": 256
+  },
+  {
+    "seed": 100741,
+    "outcome": 0,
+    "return": 0.15202735364437103,
+    "length": 256
+  },
+  {
+    "seed": 100742,
+    "outcome": 0,
+    "return": 0.15201953053474426,
+    "length": 256
+  },
+  {
+    "seed": 100743,
+    "outcome": 0,
+    "return": 0.15205040574073792,
+    "length": 256
+  },
+  {
+    "seed": 100744,
+    "outcome": 0,
+    "return": 0.15209227800369263,
+    "length": 256
+  },
+  {
+    "seed": 100745,
+    "outcome": 0,
+    "return": 0.15209601819515228,
+    "length": 256
+  },
+  {
+    "seed": 100746,
+    "outcome": 0,
+    "return": 0.1519862860441208,
+    "length": 256
+  },
+  {
+    "seed": 100747,
+    "outcome": 0,
+    "return": 0.1519719660282135,
+    "length": 256
+  },
+  {
+    "seed": 100748,
+    "outcome": 0,
+    "return": 0.15186521410942078,
+    "length": 256
+  },
+  {
+    "seed": 100749,
+    "outcome": 0,
+    "return": 0.15184147655963898,
+    "length": 256
+  },
+  {
+    "seed": 100750,
+    "outcome": 0,
+    "return": 0.15179237723350525,
+    "length": 256
+  },
+  {
+    "seed": 100751,
+    "outcome": 0,
+    "return": 0.1520290970802307,
+    "length": 256
+  },
+  {
+    "seed": 100752,
+    "outcome": 0,
+    "return": 0.15199388563632965,
+    "length": 256
+  },
+  {
+    "seed": 100753,
+    "outcome": 0,
+    "return": 0.15205368399620056,
+    "length": 256
+  },
+  {
+    "seed": 100754,
+    "outcome": 0,
+    "return": 0.15177465975284576,
+    "length": 256
+  },
+  {
+    "seed": 100755,
+    "outcome": 0,
+    "return": 0.15172703564167023,
+    "length": 256
+  },
+  {
+    "seed": 100756,
+    "outcome": 0,
+    "return": 0.15191447734832764,
+    "length": 256
+  },
+  {
+    "seed": 100757,
+    "outcome": 0,
+    "return": 0.15192237496376038,
+    "length": 256
+  },
+  {
+    "seed": 100758,
+    "outcome": 0,
+    "return": 0.15177257359027863,
+    "length": 256
+  },
+  {
+    "seed": 100759,
+    "outcome": 0,
+    "return": 0.15192094445228577,
+    "length": 256
+  },
+  {
+    "seed": 100760,
+    "outcome": 0,
+    "return": 0.15197789669036865,
+    "length": 256
+  },
+  {
+    "seed": 100761,
+    "outcome": 0,
+    "return": 0.15201780200004578,
+    "length": 256
+  },
+  {
+    "seed": 100762,
+    "outcome": 0,
+    "return": 0.15203158557415009,
+    "length": 256
+  },
+  {
+    "seed": 100763,
+    "outcome": 0,
+    "return": 0.15217839181423187,
+    "length": 256
+  },
+  {
+    "seed": 100764,
+    "outcome": 0,
+    "return": 0.1520807445049286,
+    "length": 256
+  },
+  {
+    "seed": 100765,
+    "outcome": 0,
+    "return": 0.15204395353794098,
+    "length": 256
+  },
+  {
+    "seed": 100766,
+    "outcome": 0,
+    "return": 0.15196570754051208,
+    "length": 256
+  },
+  {
+    "seed": 100767,
+    "outcome": 0,
+    "return": 0.15205997228622437,
+    "length": 256
+  },
+  {
+    "seed": 100768,
+    "outcome": 0,
+    "return": 0.151421457529068,
+    "length": 256
+  },
+  {
+    "seed": 100769,
+    "outcome": 0,
+    "return": 0.15203002095222473,
+    "length": 256
+  },
+  {
+    "seed": 100770,
+    "outcome": 0,
+    "return": 0.15208885073661804,
+    "length": 256
+  },
+  {
+    "seed": 100771,
+    "outcome": 0,
+    "return": 0.1520376056432724,
+    "length": 256
+  },
+  {
+    "seed": 100772,
+    "outcome": 0,
+    "return": 0.15187716484069824,
+    "length": 256
+  },
+  {
+    "seed": 100773,
+    "outcome": 0,
+    "return": 0.15196511149406433,
+    "length": 256
+  },
+  {
+    "seed": 100774,
+    "outcome": 0,
+    "return": 0.15207915008068085,
+    "length": 256
+  },
+  {
+    "seed": 100775,
+    "outcome": 0,
+    "return": 0.15197579562664032,
+    "length": 256
+  },
+  {
+    "seed": 100776,
+    "outcome": 0,
+    "return": 0.151899516582489,
+    "length": 256
+  },
+  {
+    "seed": 100777,
+    "outcome": 0,
+    "return": 0.1519944816827774,
+    "length": 256
+  },
+  {
+    "seed": 100778,
+    "outcome": 0,
+    "return": 0.1520470678806305,
+    "length": 256
+  },
+  {
+    "seed": 100779,
+    "outcome": 0,
+    "return": 0.15164098143577576,
+    "length": 256
+  },
+  {
+    "seed": 100780,
+    "outcome": 0,
+    "return": 0.15197505056858063,
+    "length": 256
+  },
+  {
+    "seed": 100781,
+    "outcome": 0,
+    "return": 0.15205587446689606,
+    "length": 256
+  },
+  {
+    "seed": 100782,
+    "outcome": 0,
+    "return": 0.15184925496578217,
+    "length": 256
+  },
+  {
+    "seed": 100783,
+    "outcome": 0,
+    "return": 0.15201781690120697,
+    "length": 256
+  },
+  {
+    "seed": 100784,
+    "outcome": 0,
+    "return": 0.15165473520755768,
+    "length": 256
+  },
+  {
+    "seed": 100785,
+    "outcome": 0,
+    "return": 0.15177473425865173,
+    "length": 256
+  },
+  {
+    "seed": 100786,
+    "outcome": 0,
+    "return": 0.15194125473499298,
+    "length": 256
+  },
+  {
+    "seed": 100787,
+    "outcome": 0,
+    "return": 0.1443231850862503,
+    "length": 256
+  },
+  {
+    "seed": 100788,
+    "outcome": 0,
+    "return": 0.1522226333618164,
+    "length": 256
+  },
+  {
+    "seed": 100789,
+    "outcome": 0,
+    "return": 0.15209734439849854,
+    "length": 256
+  },
+  {
+    "seed": 100790,
+    "outcome": 0,
+    "return": 0.15199673175811768,
+    "length": 256
+  },
+  {
+    "seed": 100791,
+    "outcome": 0,
+    "return": 0.15203125774860382,
+    "length": 256
+  },
+  {
+    "seed": 100792,
+    "outcome": 0,
+    "return": 0.15197953581809998,
+    "length": 256
+  },
+  {
+    "seed": 100793,
+    "outcome": 0,
+    "return": 0.1520283967256546,
+    "length": 256
+  },
+  {
+    "seed": 100794,
+    "outcome": 0,
+    "return": 0.1517333984375,
+    "length": 256
+  },
+  {
+    "seed": 100795,
+    "outcome": 0,
+    "return": 0.1518966257572174,
+    "length": 256
+  },
+  {
+    "seed": 100796,
+    "outcome": 0,
+    "return": 0.15184588730335236,
+    "length": 256
+  },
+  {
+    "seed": 100797,
+    "outcome": 0,
+    "return": 0.1517983227968216,
+    "length": 256
+  },
+  {
+    "seed": 100798,
+    "outcome": 0,
+    "return": 0.1519818753004074,
+    "length": 256
+  },
+  {
+    "seed": 100799,
+    "outcome": 0,
+    "return": 0.15189142525196075,
+    "length": 256
+  },
+  {
+    "seed": 100800,
+    "outcome": 0,
+    "return": 0.15192386507987976,
+    "length": 256
+  },
+  {
+    "seed": 100801,
+    "outcome": 0,
+    "return": 0.1520473062992096,
+    "length": 256
+  },
+  {
+    "seed": 100802,
+    "outcome": 0,
+    "return": 0.15188467502593994,
+    "length": 256
+  },
+  {
+    "seed": 100803,
+    "outcome": 0,
+    "return": 0.15210466086864471,
+    "length": 256
+  },
+  {
+    "seed": 100804,
+    "outcome": 0,
+    "return": 0.15183620154857635,
+    "length": 256
+  },
+  {
+    "seed": 100805,
+    "outcome": 0,
+    "return": 0.152023583650589,
+    "length": 256
+  },
+  {
+    "seed": 100806,
+    "outcome": 0,
+    "return": 0.15205051004886627,
+    "length": 256
+  },
+  {
+    "seed": 100807,
+    "outcome": 0,
+    "return": 0.15215636789798737,
+    "length": 256
+  },
+  {
+    "seed": 100808,
+    "outcome": 0,
+    "return": 0.15177839994430542,
+    "length": 256
+  },
+  {
+    "seed": 100809,
+    "outcome": 0,
+    "return": 0.15212294459342957,
+    "length": 256
+  },
+  {
+    "seed": 100810,
+    "outcome": 0,
+    "return": 0.15215760469436646,
+    "length": 256
+  },
+  {
+    "seed": 100811,
+    "outcome": 0,
+    "return": 0.15184234082698822,
+    "length": 256
+  },
+  {
+    "seed": 100812,
+    "outcome": 0,
+    "return": 0.15193791687488556,
+    "length": 256
+  },
+  {
+    "seed": 100813,
+    "outcome": 0,
+    "return": 0.15178076922893524,
+    "length": 256
+  },
+  {
+    "seed": 100814,
+    "outcome": 0,
+    "return": 0.15193046629428864,
+    "length": 256
+  },
+  {
+    "seed": 100815,
+    "outcome": 0,
+    "return": 0.15198709070682526,
+    "length": 256
+  },
+  {
+    "seed": 100816,
+    "outcome": 0,
+    "return": 0.15182025730609894,
+    "length": 256
+  },
+  {
+    "seed": 100817,
+    "outcome": 0,
+    "return": 0.15193350613117218,
+    "length": 256
+  },
+  {
+    "seed": 100818,
+    "outcome": 0,
+    "return": 0.1521204560995102,
+    "length": 256
+  },
+  {
+    "seed": 100819,
+    "outcome": 0,
+    "return": 0.15206784009933472,
+    "length": 256
+  },
+  {
+    "seed": 100820,
+    "outcome": 0,
+    "return": 0.15198840200901031,
+    "length": 256
+  },
+  {
+    "seed": 100821,
+    "outcome": 0,
+    "return": 0.15207520127296448,
+    "length": 256
+  },
+  {
+    "seed": 100822,
+    "outcome": 0,
+    "return": 0.15213042497634888,
+    "length": 256
+  },
+  {
+    "seed": 100823,
+    "outcome": 0,
+    "return": 0.15189121663570404,
+    "length": 256
+  },
+  {
+    "seed": 100824,
+    "outcome": 0,
+    "return": 0.15183058381080627,
+    "length": 256
+  },
+  {
+    "seed": 100825,
+    "outcome": 0,
+    "return": 0.15214647352695465,
+    "length": 256
+  },
+  {
+    "seed": 100826,
+    "outcome": 0,
+    "return": 0.15209323167800903,
+    "length": 256
+  },
+  {
+    "seed": 100827,
+    "outcome": 0,
+    "return": 0.15205885469913483,
+    "length": 256
+  },
+  {
+    "seed": 100828,
+    "outcome": 0,
+    "return": 0.15189409255981445,
+    "length": 256
+  },
+  {
+    "seed": 100829,
+    "outcome": 0,
+    "return": 0.15199342370033264,
+    "length": 256
+  },
+  {
+    "seed": 100830,
+    "outcome": 0,
+    "return": 0.15211589634418488,
+    "length": 256
+  },
+  {
+    "seed": 100831,
+    "outcome": 0,
+    "return": 0.15209421515464783,
+    "length": 256
+  },
+  {
+    "seed": 100832,
+    "outcome": 0,
+    "return": 0.15208938717842102,
+    "length": 256
+  },
+  {
+    "seed": 100833,
+    "outcome": 0,
+    "return": 0.15197527408599854,
+    "length": 256
+  },
+  {
+    "seed": 100834,
+    "outcome": 0,
+    "return": 0.15203163027763367,
+    "length": 256
+  },
+  {
+    "seed": 100835,
+    "outcome": 0,
+    "return": 0.1520654410123825,
+    "length": 256
+  },
+  {
+    "seed": 100836,
+    "outcome": 0,
+    "return": 0.15195462107658386,
+    "length": 256
+  },
+  {
+    "seed": 100837,
+    "outcome": 0,
+    "return": 0.15199629962444305,
+    "length": 256
+  },
+  {
+    "seed": 100838,
+    "outcome": 0,
+    "return": 0.15182168781757355,
+    "length": 256
+  },
+  {
+    "seed": 100839,
+    "outcome": 0,
+    "return": 0.15196245908737183,
+    "length": 256
+  },
+  {
+    "seed": 100840,
+    "outcome": 0,
+    "return": 0.15146854519844055,
+    "length": 256
+  },
+  {
+    "seed": 100841,
+    "outcome": 0,
+    "return": 0.15202651917934418,
+    "length": 256
+  },
+  {
+    "seed": 100842,
+    "outcome": 0,
+    "return": 0.15219496190547943,
+    "length": 256
+  },
+  {
+    "seed": 100843,
+    "outcome": 0,
+    "return": 0.15201686322689056,
+    "length": 256
+  },
+  {
+    "seed": 100844,
+    "outcome": 0,
+    "return": 0.15211424231529236,
+    "length": 256
+  },
+  {
+    "seed": 100845,
+    "outcome": 0,
+    "return": 0.15208180248737335,
+    "length": 256
+  },
+  {
+    "seed": 100846,
+    "outcome": 0,
+    "return": 0.1520167887210846,
+    "length": 256
+  },
+  {
+    "seed": 100847,
+    "outcome": 0,
+    "return": 0.15206392109394073,
+    "length": 256
+  },
+  {
+    "seed": 100848,
+    "outcome": 0,
+    "return": 0.15195554494857788,
+    "length": 256
+  },
+  {
+    "seed": 100849,
+    "outcome": 0,
+    "return": 0.15194237232208252,
+    "length": 256
+  },
+  {
+    "seed": 100850,
+    "outcome": 0,
+    "return": 0.15195554494857788,
+    "length": 256
+  },
+  {
+    "seed": 100851,
+    "outcome": 0,
+    "return": 0.1521395593881607,
+    "length": 256
+  },
+  {
+    "seed": 100852,
+    "outcome": 0,
+    "return": 0.15209639072418213,
+    "length": 256
+  },
+  {
+    "seed": 100853,
+    "outcome": 0,
+    "return": 0.15150727331638336,
+    "length": 256
+  },
+  {
+    "seed": 100854,
+    "outcome": 0,
+    "return": 0.1519649624824524,
+    "length": 256
+  },
+  {
+    "seed": 100855,
+    "outcome": 0,
+    "return": 0.15217825770378113,
+    "length": 256
+  },
+  {
+    "seed": 100856,
+    "outcome": 0,
+    "return": 0.1542312502861023,
+    "length": 256
+  },
+  {
+    "seed": 100857,
+    "outcome": 0,
+    "return": 0.1520140916109085,
+    "length": 256
+  },
+  {
+    "seed": 100858,
+    "outcome": 0,
+    "return": 0.15193483233451843,
+    "length": 256
+  },
+  {
+    "seed": 100859,
+    "outcome": 0,
+    "return": 0.15190806984901428,
+    "length": 256
+  },
+  {
+    "seed": 100860,
+    "outcome": 0,
+    "return": 0.15190528333187103,
+    "length": 256
+  },
+  {
+    "seed": 100861,
+    "outcome": 0,
+    "return": 0.1519903540611267,
+    "length": 256
+  },
+  {
+    "seed": 100862,
+    "outcome": 0,
+    "return": 0.15190012753009796,
+    "length": 256
+  },
+  {
+    "seed": 100863,
+    "outcome": 0,
+    "return": 0.15204869210720062,
+    "length": 256
+  },
+  {
+    "seed": 100864,
+    "outcome": 0,
+    "return": 0.1521313190460205,
+    "length": 256
+  },
+  {
+    "seed": 100865,
+    "outcome": 0,
+    "return": 0.15208423137664795,
+    "length": 256
+  },
+  {
+    "seed": 100866,
+    "outcome": 0,
+    "return": 0.14615090191364288,
+    "length": 256
+  },
+  {
+    "seed": 100867,
+    "outcome": 0,
+    "return": 0.15196645259857178,
+    "length": 256
+  },
+  {
+    "seed": 100868,
+    "outcome": 0,
+    "return": 0.15200260281562805,
+    "length": 256
+  },
+  {
+    "seed": 100869,
+    "outcome": 0,
+    "return": 0.15206414461135864,
+    "length": 256
+  },
+  {
+    "seed": 100870,
+    "outcome": 0,
+    "return": 0.1519770622253418,
+    "length": 256
+  },
+  {
+    "seed": 100871,
+    "outcome": 0,
+    "return": 0.15187393128871918,
+    "length": 256
+  },
+  {
+    "seed": 100872,
+    "outcome": 0,
+    "return": 0.15206274390220642,
+    "length": 256
+  },
+  {
+    "seed": 100873,
+    "outcome": 0,
+    "return": 0.1522088646888733,
+    "length": 256
+  },
+  {
+    "seed": 100874,
+    "outcome": 0,
+    "return": 0.15173698961734772,
+    "length": 256
+  },
+  {
+    "seed": 100875,
+    "outcome": 0,
+    "return": 0.15207195281982422,
+    "length": 256
+  },
+  {
+    "seed": 100876,
+    "outcome": 0,
+    "return": 0.15187205374240875,
+    "length": 256
+  },
+  {
+    "seed": 100877,
+    "outcome": 0,
+    "return": 0.15208910405635834,
+    "length": 256
+  },
+  {
+    "seed": 100878,
+    "outcome": 0,
+    "return": 0.15167571604251862,
+    "length": 256
+  },
+  {
+    "seed": 100879,
+    "outcome": 0,
+    "return": 0.15190933644771576,
+    "length": 256
+  },
+  {
+    "seed": 100880,
+    "outcome": 0,
+    "return": 0.15190252661705017,
+    "length": 256
+  },
+  {
+    "seed": 100881,
+    "outcome": 0,
+    "return": 0.15199583768844604,
+    "length": 256
+  },
+  {
+    "seed": 100882,
+    "outcome": 0,
+    "return": 0.15197373926639557,
+    "length": 256
+  },
+  {
+    "seed": 100883,
+    "outcome": 0,
+    "return": 0.1520610898733139,
+    "length": 256
+  },
+  {
+    "seed": 100884,
+    "outcome": 0,
+    "return": 0.1519448161125183,
+    "length": 256
+  },
+  {
+    "seed": 100885,
+    "outcome": 0,
+    "return": 0.15250326693058014,
+    "length": 256
+  },
+  {
+    "seed": 100886,
+    "outcome": 0,
+    "return": 0.15208175778388977,
+    "length": 256
+  },
+  {
+    "seed": 100887,
+    "outcome": 0,
+    "return": 0.1520184874534607,
+    "length": 256
+  },
+  {
+    "seed": 100888,
+    "outcome": 0,
+    "return": 0.15178197622299194,
+    "length": 256
+  },
+  {
+    "seed": 100889,
+    "outcome": 0,
+    "return": 0.15201666951179504,
+    "length": 256
+  },
+  {
+    "seed": 100890,
+    "outcome": 0,
+    "return": 0.15204185247421265,
+    "length": 256
+  },
+  {
+    "seed": 100891,
+    "outcome": 0,
+    "return": 0.15218192338943481,
+    "length": 256
+  },
+  {
+    "seed": 100892,
+    "outcome": 0,
+    "return": 0.15209239721298218,
+    "length": 256
+  },
+  {
+    "seed": 100893,
+    "outcome": 0,
+    "return": 0.1519721895456314,
+    "length": 256
+  },
+  {
+    "seed": 100894,
+    "outcome": 0,
+    "return": 0.15184807777404785,
+    "length": 256
+  },
+  {
+    "seed": 100895,
+    "outcome": 0,
+    "return": 0.15206952393054962,
+    "length": 256
+  },
+  {
+    "seed": 100896,
+    "outcome": 0,
+    "return": 0.15203554928302765,
+    "length": 256
+  },
+  {
+    "seed": 100897,
+    "outcome": 0,
+    "return": 0.1519569307565689,
+    "length": 256
+  },
+  {
+    "seed": 100898,
+    "outcome": 0,
+    "return": 0.15179947018623352,
+    "length": 256
+  },
+  {
+    "seed": 100899,
+    "outcome": 0,
+    "return": 0.1520249843597412,
+    "length": 256
+  },
+  {
+    "seed": 100900,
+    "outcome": 0,
+    "return": 0.15227922797203064,
+    "length": 256
+  },
+  {
+    "seed": 100901,
+    "outcome": 0,
+    "return": 0.15212716162204742,
+    "length": 256
+  },
+  {
+    "seed": 100902,
+    "outcome": 0,
+    "return": 0.15209780633449554,
+    "length": 256
+  },
+  {
+    "seed": 100903,
+    "outcome": 0,
+    "return": 0.15189728140830994,
+    "length": 256
+  },
+  {
+    "seed": 100904,
+    "outcome": 0,
+    "return": 0.15206500887870789,
+    "length": 256
+  },
+  {
+    "seed": 100905,
+    "outcome": 0,
+    "return": 0.152114138007164,
+    "length": 256
+  },
+  {
+    "seed": 100906,
+    "outcome": 0,
+    "return": 0.15209020674228668,
+    "length": 256
+  },
+  {
+    "seed": 100907,
+    "outcome": 0,
+    "return": 0.1519814133644104,
+    "length": 256
+  },
+  {
+    "seed": 100908,
+    "outcome": 0,
+    "return": 0.1521124243736267,
+    "length": 256
+  },
+  {
+    "seed": 100909,
+    "outcome": 0,
+    "return": 0.15185995399951935,
+    "length": 256
+  },
+  {
+    "seed": 100910,
+    "outcome": 0,
+    "return": 0.15184392035007477,
+    "length": 256
+  },
+  {
+    "seed": 100911,
+    "outcome": 0,
+    "return": 0.15200677514076233,
+    "length": 256
+  },
+  {
+    "seed": 100912,
+    "outcome": 0,
+    "return": 0.15177185833454132,
+    "length": 256
+  },
+  {
+    "seed": 100913,
+    "outcome": 0,
+    "return": 0.15214508771896362,
+    "length": 256
+  },
+  {
+    "seed": 100914,
+    "outcome": 0,
+    "return": 0.15216997265815735,
+    "length": 256
+  },
+  {
+    "seed": 100915,
+    "outcome": 0,
+    "return": 0.15184007585048676,
+    "length": 256
+  },
+  {
+    "seed": 100916,
+    "outcome": 0,
+    "return": 0.15207765996456146,
+    "length": 256
+  },
+  {
+    "seed": 100917,
+    "outcome": 0,
+    "return": 0.15202119946479797,
+    "length": 256
+  },
+  {
+    "seed": 100918,
+    "outcome": 0,
+    "return": 0.15211501717567444,
+    "length": 256
+  },
+  {
+    "seed": 100919,
+    "outcome": 0,
+    "return": 0.1518588364124298,
+    "length": 256
+  },
+  {
+    "seed": 100920,
+    "outcome": 0,
+    "return": 0.15188410878181458,
+    "length": 256
+  },
+  {
+    "seed": 100921,
+    "outcome": 0,
+    "return": 0.15136440098285675,
+    "length": 256
+  },
+  {
+    "seed": 100922,
+    "outcome": 0,
+    "return": 0.15219323337078094,
+    "length": 256
+  },
+  {
+    "seed": 100923,
+    "outcome": 0,
+    "return": 0.1520700454711914,
+    "length": 256
+  },
+  {
+    "seed": 100924,
+    "outcome": 0,
+    "return": 0.15213605761528015,
+    "length": 256
+  },
+  {
+    "seed": 100925,
+    "outcome": 0,
+    "return": 0.1522335261106491,
+    "length": 256
+  },
+  {
+    "seed": 100926,
+    "outcome": 0,
+    "return": 0.15205880999565125,
+    "length": 256
+  },
+  {
+    "seed": 100927,
+    "outcome": 0,
+    "return": 0.1519450694322586,
+    "length": 256
+  },
+  {
+    "seed": 100928,
+    "outcome": 0,
+    "return": 0.15205225348472595,
+    "length": 256
+  },
+  {
+    "seed": 100929,
+    "outcome": 0,
+    "return": 0.15208245813846588,
+    "length": 256
+  },
+  {
+    "seed": 100930,
+    "outcome": 0,
+    "return": 0.1520240306854248,
+    "length": 256
+  },
+  {
+    "seed": 100931,
+    "outcome": 0,
+    "return": 0.15190941095352173,
+    "length": 256
+  },
+  {
+    "seed": 100932,
+    "outcome": 0,
+    "return": 0.15206819772720337,
+    "length": 256
+  },
+  {
+    "seed": 100933,
+    "outcome": 0,
+    "return": 0.1518213450908661,
+    "length": 256
+  },
+  {
+    "seed": 100934,
+    "outcome": 0,
+    "return": 0.1519036591053009,
+    "length": 256
+  },
+  {
+    "seed": 100935,
+    "outcome": 0,
+    "return": 0.15201544761657715,
+    "length": 256
+  },
+  {
+    "seed": 100936,
+    "outcome": 0,
+    "return": 0.1518358439207077,
+    "length": 256
+  },
+  {
+    "seed": 100937,
+    "outcome": 0,
+    "return": 0.15208494663238525,
+    "length": 256
+  },
+  {
+    "seed": 100938,
+    "outcome": 0,
+    "return": 0.1517232060432434,
+    "length": 256
+  },
+  {
+    "seed": 100939,
+    "outcome": 0,
+    "return": 0.15206977725028992,
+    "length": 256
+  },
+  {
+    "seed": 100940,
+    "outcome": 0,
+    "return": 0.15199214220046997,
+    "length": 256
+  },
+  {
+    "seed": 100941,
+    "outcome": 0,
+    "return": 0.15179012715816498,
+    "length": 256
+  },
+  {
+    "seed": 100942,
+    "outcome": 0,
+    "return": 0.15214903652668,
+    "length": 256
+  },
+  {
+    "seed": 100943,
+    "outcome": 0,
+    "return": 0.15202882885932922,
+    "length": 256
+  },
+  {
+    "seed": 100944,
+    "outcome": 0,
+    "return": 0.15202128887176514,
+    "length": 256
+  },
+  {
+    "seed": 100945,
+    "outcome": 0,
+    "return": 0.15202957391738892,
+    "length": 256
+  },
+  {
+    "seed": 100946,
+    "outcome": 0,
+    "return": 0.15201428532600403,
+    "length": 256
+  },
+  {
+    "seed": 100947,
+    "outcome": 0,
+    "return": 0.15197862684726715,
+    "length": 256
+  },
+  {
+    "seed": 100948,
+    "outcome": 0,
+    "return": 0.15198950469493866,
+    "length": 256
+  },
+  {
+    "seed": 100949,
+    "outcome": 0,
+    "return": 0.15186263620853424,
+    "length": 256
+  },
+  {
+    "seed": 100950,
+    "outcome": 0,
+    "return": 0.15196917951107025,
+    "length": 256
+  },
+  {
+    "seed": 100951,
+    "outcome": 0,
+    "return": 0.15254825353622437,
+    "length": 256
+  },
+  {
+    "seed": 100952,
+    "outcome": 0,
+    "return": 0.15198442339897156,
+    "length": 256
+  },
+  {
+    "seed": 100953,
+    "outcome": 0,
+    "return": 0.15194594860076904,
+    "length": 256
+  },
+  {
+    "seed": 100954,
+    "outcome": 0,
+    "return": 0.151593416929245,
+    "length": 256
+  },
+  {
+    "seed": 100955,
+    "outcome": 0,
+    "return": 0.15208004415035248,
+    "length": 256
+  },
+  {
+    "seed": 100956,
+    "outcome": 0,
+    "return": 0.15206775069236755,
+    "length": 256
+  },
+  {
+    "seed": 100957,
+    "outcome": 0,
+    "return": 0.15203957259655,
+    "length": 256
+  },
+  {
+    "seed": 100958,
+    "outcome": 0,
+    "return": 0.15199781954288483,
+    "length": 256
+  },
+  {
+    "seed": 100959,
+    "outcome": 0,
+    "return": 0.15204410254955292,
+    "length": 256
+  },
+  {
+    "seed": 100960,
+    "outcome": 0,
+    "return": 0.15220490097999573,
+    "length": 256
+  },
+  {
+    "seed": 100961,
+    "outcome": 0,
+    "return": 0.15184874832630157,
+    "length": 256
+  },
+  {
+    "seed": 100962,
+    "outcome": 0,
+    "return": 0.1518947035074234,
+    "length": 256
+  },
+  {
+    "seed": 100963,
+    "outcome": 0,
+    "return": 0.15216697752475739,
+    "length": 256
+  },
+  {
+    "seed": 100964,
+    "outcome": 0,
+    "return": 0.15204572677612305,
+    "length": 256
+  },
+  {
+    "seed": 100965,
+    "outcome": 0,
+    "return": 0.15183348953723907,
+    "length": 256
+  },
+  {
+    "seed": 100966,
+    "outcome": 0,
+    "return": 0.15200893580913544,
+    "length": 256
+  },
+  {
+    "seed": 100967,
+    "outcome": 0,
+    "return": 0.15210705995559692,
+    "length": 256
+  },
+  {
+    "seed": 100968,
+    "outcome": 0,
+    "return": 0.15249325335025787,
+    "length": 256
+  },
+  {
+    "seed": 100969,
+    "outcome": 0,
+    "return": 0.15204615890979767,
+    "length": 256
+  },
+  {
+    "seed": 100970,
+    "outcome": 0,
+    "return": 0.1520664095878601,
+    "length": 256
+  },
+  {
+    "seed": 100971,
+    "outcome": 0,
+    "return": 0.15210556983947754,
+    "length": 256
+  },
+  {
+    "seed": 100972,
+    "outcome": 0,
+    "return": 0.15193814039230347,
+    "length": 256
+  },
+  {
+    "seed": 100973,
+    "outcome": 0,
+    "return": 0.15155453979969025,
+    "length": 256
+  },
+  {
+    "seed": 100974,
+    "outcome": 0,
+    "return": 0.15208220481872559,
+    "length": 256
+  },
+  {
+    "seed": 100975,
+    "outcome": 0,
+    "return": 0.15210874378681183,
+    "length": 256
+  },
+  {
+    "seed": 100976,
+    "outcome": 0,
+    "return": 0.1519075334072113,
+    "length": 256
+  },
+  {
+    "seed": 100977,
+    "outcome": 0,
+    "return": 0.15201830863952637,
+    "length": 256
+  },
+  {
+    "seed": 100978,
+    "outcome": 0,
+    "return": 0.15197712182998657,
+    "length": 256
+  },
+  {
+    "seed": 100979,
+    "outcome": 0,
+    "return": 0.15199097990989685,
+    "length": 256
+  },
+  {
+    "seed": 100980,
+    "outcome": 0,
+    "return": 0.1520482897758484,
+    "length": 256
+  },
+  {
+    "seed": 100981,
+    "outcome": 0,
+    "return": 0.15196570754051208,
+    "length": 256
+  },
+  {
+    "seed": 100982,
+    "outcome": 0,
+    "return": 0.15205898880958557,
+    "length": 256
+  },
+  {
+    "seed": 100983,
+    "outcome": 0,
+    "return": 0.15211769938468933,
+    "length": 256
+  },
+  {
+    "seed": 100984,
+    "outcome": 0,
+    "return": 0.15202875435352325,
+    "length": 256
+  },
+  {
+    "seed": 100985,
+    "outcome": 0,
+    "return": 0.15198621153831482,
+    "length": 256
+  },
+  {
+    "seed": 100986,
+    "outcome": 0,
+    "return": 0.15192542970180511,
+    "length": 256
+  },
+  {
+    "seed": 100987,
+    "outcome": 0,
+    "return": 0.15195757150650024,
+    "length": 256
+  },
+  {
+    "seed": 100988,
+    "outcome": 0,
+    "return": 0.1519746035337448,
+    "length": 256
+  },
+  {
+    "seed": 100989,
+    "outcome": 0,
+    "return": 0.15187998116016388,
+    "length": 256
+  },
+  {
+    "seed": 100990,
+    "outcome": 0,
+    "return": 0.15196019411087036,
+    "length": 256
+  },
+  {
+    "seed": 100991,
+    "outcome": 0,
+    "return": 0.15181100368499756,
+    "length": 256
+  },
+  {
+    "seed": 100992,
+    "outcome": 0,
+    "return": 0.15199093520641327,
+    "length": 256
+  },
+  {
+    "seed": 100993,
+    "outcome": 0,
+    "return": 0.15174278616905212,
+    "length": 256
+  },
+  {
+    "seed": 100994,
+    "outcome": 0,
+    "return": 0.1519891917705536,
+    "length": 256
+  },
+  {
+    "seed": 100995,
+    "outcome": 0,
+    "return": 0.15195052325725555,
+    "length": 256
+  },
+  {
+    "seed": 100996,
+    "outcome": 0,
+    "return": 0.15209424495697021,
+    "length": 256
+  },
+  {
+    "seed": 100997,
+    "outcome": 0,
+    "return": 0.1520654708147049,
+    "length": 256
+  },
+  {
+    "seed": 100998,
+    "outcome": 0,
+    "return": 0.15204201638698578,
+    "length": 256
+  },
+  {
+    "seed": 100999,
+    "outcome": 0,
+    "return": 0.15197381377220154,
+    "length": 256
+  },
+  {
+    "seed": 101000,
+    "outcome": 0,
+    "return": 0.15204563736915588,
+    "length": 256
+  },
+  {
+    "seed": 101001,
+    "outcome": 0,
+    "return": 0.1520613431930542,
+    "length": 256
+  },
+  {
+    "seed": 101002,
+    "outcome": 0,
+    "return": 0.15199202299118042,
+    "length": 256
+  },
+  {
+    "seed": 101003,
+    "outcome": 0,
+    "return": 0.1521119624376297,
+    "length": 256
+  },
+  {
+    "seed": 101004,
+    "outcome": 0,
+    "return": 0.15186619758605957,
+    "length": 256
+  },
+  {
+    "seed": 101005,
+    "outcome": 0,
+    "return": 0.15208354592323303,
+    "length": 256
+  },
+  {
+    "seed": 101006,
+    "outcome": 0,
+    "return": 0.15142406523227692,
+    "length": 256
+  },
+  {
+    "seed": 101007,
+    "outcome": 0,
+    "return": 0.1518845409154892,
+    "length": 256
+  },
+  {
+    "seed": 101008,
+    "outcome": 0,
+    "return": 0.1521165668964386,
+    "length": 256
+  },
+  {
+    "seed": 101009,
+    "outcome": 0,
+    "return": 0.1455283761024475,
+    "length": 256
+  },
+  {
+    "seed": 101010,
+    "outcome": 0,
+    "return": 0.1519283503293991,
+    "length": 256
+  },
+  {
+    "seed": 101011,
+    "outcome": 0,
+    "return": 0.15245819091796875,
+    "length": 256
+  },
+  {
+    "seed": 101012,
+    "outcome": 0,
+    "return": 0.15210607647895813,
+    "length": 256
+  },
+  {
+    "seed": 101013,
+    "outcome": 0,
+    "return": 0.15208567678928375,
+    "length": 256
+  },
+  {
+    "seed": 101014,
+    "outcome": 0,
+    "return": 0.15199200809001923,
+    "length": 256
+  },
+  {
+    "seed": 101015,
+    "outcome": 0,
+    "return": 0.15213541686534882,
+    "length": 256
+  },
+  {
+    "seed": 101016,
+    "outcome": 0,
+    "return": 0.1520240604877472,
+    "length": 256
+  },
+  {
+    "seed": 101017,
+    "outcome": 0,
+    "return": 0.15175525844097137,
+    "length": 256
+  },
+  {
+    "seed": 101018,
+    "outcome": 0,
+    "return": 0.1520521193742752,
+    "length": 256
+  },
+  {
+    "seed": 101019,
+    "outcome": 0,
+    "return": 0.15187983214855194,
+    "length": 256
+  },
+  {
+    "seed": 101020,
+    "outcome": 0,
+    "return": 0.15192195773124695,
+    "length": 256
+  },
+  {
+    "seed": 101021,
+    "outcome": 0,
+    "return": 0.15195004642009735,
+    "length": 256
+  },
+  {
+    "seed": 101022,
+    "outcome": 0,
+    "return": 0.15169011056423187,
+    "length": 256
+  },
+  {
+    "seed": 101023,
+    "outcome": 0,
+    "return": 0.15206864476203918,
+    "length": 256
+  }
+]

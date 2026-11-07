@@ -1,0 +1,13 @@
+{
+  "episodes": 1000,
+  "mean": 416.797,
+  "standard_error": 6.900934044148059,
+  "mean_steps": 6836.91,
+  "wall_s": 47.13112520799041,
+  "minatar_version": "1.0.15",
+  "sticky": 0.1,
+  "max_steps": 10000,
+  "actions": "sampled softmax",
+  "seed": 0,
+  "batch": 32
+}

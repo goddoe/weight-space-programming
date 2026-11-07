@@ -1,0 +1,15 @@
+{
+  "episodes": 1024,
+  "success": 0.0,
+  "red": 85,
+  "invalid": 0,
+  "timeout": 939,
+  "mean_return": 0.030435246037086472,
+  "mean_length": 237.900390625,
+  "wall_s": 77.63935308298096,
+  "seed_start": 100000,
+  "frame_skip": 2,
+  "dense_reward_scale": 0.2,
+  "jax": "0.9.0",
+  "platform": "cpu"
+}

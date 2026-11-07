@@ -1,0 +1,424 @@
+[
+  {
+    "path": "games/scripts/edits.py",
+    "origin": "ours",
+    "source": "games/scripts/edits.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/breakout.py",
+    "origin": "ours",
+    "source": "games/scripts/breakout.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/car.py",
+    "origin": "ours",
+    "source": "games/scripts/car.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/car_video.py",
+    "origin": "ours",
+    "source": "games/scripts/car_video.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/log_card.py",
+    "origin": "ours",
+    "source": "games/scripts/log_card.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/ask_astra.py",
+    "origin": "ours",
+    "source": "games/scripts/ask_astra.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "games/scripts/car_repeats.py",
+    "origin": "ours",
+    "source": "games/scripts/car_repeats.py",
+    "license": "MIT (LICENSE)",
+    "export_changes": "See README public-export changes; source behavior of evaluators preserved."
+  },
+  {
+    "path": "lm_understand-logs/exp4_fix_car/runs/oneshot_repair/reply/prompt.txt",
+    "origin": "upstream unchanged",
+    "source": "lm_understand-logs/exp4_fix_car/runs/oneshot_repair/reply/prompt.txt",
+    "license": "CC BY 4.0"
+  },
+  {
+    "path": "lm_understand-logs/harness/codex_config.toml",
+    "origin": "upstream unchanged",
+    "source": "lm_understand-logs/harness/codex_config.toml",
+    "license": "CC BY 4.0 per upstream LICENSE category 1"
+  },
+  {
+    "path": "third_party/LICENSE-lm_understand-logs",
+    "origin": "upstream unchanged",
+    "source": "lm_understand-logs/LICENSE",
+    "license": "Upstream license notice"
+  },
+  {
+    "path": "third_party/LICENSE-MinAtar",
+    "origin": "upstream unchanged",
+    "source": "lm_understand-logs/exp5_write_from_scratch/LICENSE-MinAtar",
+    "license": "GPL-3.0 license text"
+  },
+  {
+    "path": "config/codex_config.toml",
+    "origin": "upstream unchanged",
+    "source": "lm_understand-logs/harness/codex_config.toml",
+    "license": "CC BY 4.0 per upstream LICENSE category 1"
+  },
+  {
+    "path": "games/runs/breakout/answer.md",
+    "origin": "new Astra final answer",
+    "source": "games/runs/breakout/answer.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/breakout/eval/scores.json",
+    "origin": "ours",
+    "source": "games/runs/breakout/eval/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/breakout/eval/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/breakout/eval/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/breakout/eval/apply.json",
+    "origin": "ours",
+    "source": "games/runs/breakout/eval/apply.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/prompt.txt",
+    "origin": "upstream prompt unchanged",
+    "source": "games/runs/car/prompt.txt",
+    "license": "See original prompt attribution"
+  },
+  {
+    "path": "games/runs/car/answer.md",
+    "origin": "new Astra final answer",
+    "source": "games/runs/car/answer.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/search/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car/search/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/search/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car/search/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/search/apply.json",
+    "origin": "ours",
+    "source": "games/runs/car/search/apply.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/search/trajectory.json",
+    "origin": "ours",
+    "source": "games/runs/car/search/trajectory.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/test/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car/test/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/test/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car/test/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/base_search/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car/base_search/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/base_search/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car/base_search/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/base_search/trajectory.json",
+    "origin": "ours",
+    "source": "games/runs/car/base_search/trajectory.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/base_test/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car/base_test/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/base_test/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car/base_test/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/prompt.txt",
+    "origin": "upstream prompt unchanged",
+    "source": "games/runs/car_repeat1/prompt.txt",
+    "license": "See original prompt attribution"
+  },
+  {
+    "path": "games/runs/car_repeat1/answer.md",
+    "origin": "new Astra final answer",
+    "source": "games/runs/car_repeat1/answer.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/search/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/search/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/search/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/search/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/search/apply.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/search/apply.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/search/trajectory.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/search/trajectory.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/test/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/test/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/test/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat1/test/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/prompt.txt",
+    "origin": "upstream prompt unchanged",
+    "source": "games/runs/car_repeat2/prompt.txt",
+    "license": "See original prompt attribution"
+  },
+  {
+    "path": "games/runs/car_repeat2/answer.md",
+    "origin": "new Astra final answer",
+    "source": "games/runs/car_repeat2/answer.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/search/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/search/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/search/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/search/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/search/apply.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/search/apply.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/search/trajectory.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/search/trajectory.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/test/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/test/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/test/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat2/test/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/prompt.txt",
+    "origin": "upstream prompt unchanged",
+    "source": "games/runs/car_repeat3/prompt.txt",
+    "license": "See original prompt attribution"
+  },
+  {
+    "path": "games/runs/car_repeat3/answer.md",
+    "origin": "new Astra final answer",
+    "source": "games/runs/car_repeat3/answer.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/search/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/search/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/search/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/search/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/search/apply.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/search/apply.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/search/trajectory.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/search/trajectory.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/test/scores.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/test/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/test/episodes.json",
+    "origin": "ours",
+    "source": "games/runs/car_repeat3/test/episodes.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/reference_breakout_eval/scores.json",
+    "origin": "ours",
+    "source": "games/runs/reference_breakout_eval/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/reference_car_base_smoke/scores.json",
+    "origin": "ours",
+    "source": "games/runs/reference_car_base_smoke/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/reference_car_edited_smoke/scores.json",
+    "origin": "ours",
+    "source": "games/runs/reference_car_edited_smoke/scores.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "results/HANDOFF.md",
+    "origin": "ours",
+    "source": "games/deliverables/HANDOFF.md",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "results/car_four_attempts.csv",
+    "origin": "ours",
+    "source": "games/deliverables/car_four_attempts.csv",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "results/car_four_attempts.json",
+    "origin": "ours",
+    "source": "games/deliverables/car_four_attempts.json",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "results/scores.csv",
+    "origin": "ours",
+    "source": "games/deliverables/scores.csv",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "requirements-resolved.txt",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "docs/REPRODUCTION.md",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": ".gitignore",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "FILE_ORIGINS.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "config/instructions_neutral.md",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/scripts/fetch_breakout_prompt.py",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat1/run.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car/run.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat2/run.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/car_repeat3/run.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  },
+  {
+    "path": "games/runs/breakout/run.json",
+    "origin": "new documentation, export helper, or sanitized measurement metadata",
+    "license": "MIT (LICENSE)"
+  }
+]

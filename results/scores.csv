@@ -1,0 +1,11 @@
+experiment,policy,episodes,metric,value,standard_error
+breakout,published PPO,,mean_score,25.3,
+breakout,published Astra,1000,mean_score,517.4,
+breakout,released Astra weights local evaluation,1000,mean_score,502.88,7.747379136423071
+breakout,fresh Astra,1000,mean_score,416.797,6.900934044148059
+car,rounded PPO local evaluation,256,success_count,0,
+car,fresh Astra search,256,success_count,0,
+car,fresh Astra test,1024,success_count,0,
+car,published Astra,1024,success_count,1024,
+car,released Astra weights local check,32,success_count,32,
+car,rounded PPO matched test seeds,1024,success_count,0,

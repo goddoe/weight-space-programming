@@ -1,0 +1,47 @@
+{
+  "model": "gpt-6-astra",
+  "effort": "high",
+  "game": "car",
+  "run_name": "car_repeat1",
+  "cmd": [
+    "codex",
+    "exec",
+    "--strict-config",
+    "--skip-git-repo-check",
+    "--json",
+    "-m",
+    "gpt-6-astra",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "-c",
+    "model_context_window=872000",
+    "-c",
+    "model_auto_compact_token_limit=1000000",
+    "-o",
+    "${REPO_ROOT}/games/runs/car_repeat1/answer.md",
+    "-"
+  ],
+  "prompt_sha256": "2ed66051f4fa554d43d0163eb48e4256dc80aef78d875a218826beefeb7d0559",
+  "started_at": 1794038586.0656772,
+  "status": "complete",
+  "tools_config_source": "lm_understand-logs/harness/codex_config.toml",
+  "returncode": 0,
+  "wall_s": 504.08293080329895,
+  "item_types": {
+    "error": 1,
+    "agent_message": 1
+  },
+  "tool_free": true,
+  "unexpected_items": [],
+  "turn_completed": true,
+  "usage": [
+    {
+      "input_tokens": 355407,
+      "cached_input_tokens": 355200,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 13370,
+      "reasoning_output_tokens": 12256
+    }
+  ],
+  "export_note": "Absolute workspace paths replaced with ${REPO_ROOT}; raw private reasoning/event stream excluded."
+}

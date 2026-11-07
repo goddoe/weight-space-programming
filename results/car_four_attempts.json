@@ -1,0 +1,54 @@
+[
+  {
+    "attempt": 1,
+    "edit_statements": 1,
+    "applied_statements": 1,
+    "changed_weights": 1,
+    "search_successes": 0,
+    "test_successes": 0,
+    "test_red": 85,
+    "test_timeout": 939,
+    "output_tokens": 3914,
+    "reasoning_tokens": 3624,
+    "wall_seconds": 199.9
+  },
+  {
+    "attempt": 2,
+    "edit_statements": 55,
+    "applied_statements": 55,
+    "changed_weights": 6958,
+    "search_successes": 0,
+    "test_successes": 0,
+    "test_red": 1024,
+    "test_timeout": 0,
+    "output_tokens": 13370,
+    "reasoning_tokens": 12256,
+    "wall_seconds": 504.1
+  },
+  {
+    "attempt": 3,
+    "edit_statements": 55,
+    "applied_statements": 55,
+    "changed_weights": 6703,
+    "search_successes": 256,
+    "test_successes": 1024,
+    "test_red": 0,
+    "test_timeout": 0,
+    "output_tokens": 16095,
+    "reasoning_tokens": 15020,
+    "wall_seconds": 642.0
+  },
+  {
+    "attempt": 4,
+    "edit_statements": 24,
+    "applied_statements": 24,
+    "changed_weights": 1912,
+    "search_successes": 0,
+    "test_successes": 0,
+    "test_red": 1024,
+    "test_timeout": 0,
+    "output_tokens": 3513,
+    "reasoning_tokens": 2933,
+    "wall_seconds": 174.9
+  }
+]

@@ -1,0 +1,13 @@
+.cache/
+.venv*/
+__pycache__/
+*.pyc
+games/Kinetix/
+games/isolated_*/
+*.npz
+*.mp4
+lm_understand-logs/exp5_write_from_scratch/runs/breakout/reply/prompt.txt
+games/runs/breakout/prompt.txt
+
+# result media in results/media are part of the repo
+!results/media/*.mp4

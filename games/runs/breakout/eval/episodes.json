@@ -1,0 +1,6002 @@
+[
+  {
+    "episode": 0,
+    "seed": 0,
+    "score": 71.0,
+    "steps": 1174
+  },
+  {
+    "episode": 1,
+    "seed": 1,
+    "score": 275.0,
+    "steps": 4324
+  },
+  {
+    "episode": 2,
+    "seed": 2,
+    "score": 37.0,
+    "steps": 488
+  },
+  {
+    "episode": 3,
+    "seed": 3,
+    "score": 588.0,
+    "steps": 10000
+  },
+  {
+    "episode": 4,
+    "seed": 4,
+    "score": 125.0,
+    "steps": 2012
+  },
+  {
+    "episode": 5,
+    "seed": 5,
+    "score": 606.0,
+    "steps": 10000
+  },
+  {
+    "episode": 6,
+    "seed": 6,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 7,
+    "seed": 7,
+    "score": 427.0,
+    "steps": 7024
+  },
+  {
+    "episode": 8,
+    "seed": 8,
+    "score": 127.0,
+    "steps": 2060
+  },
+  {
+    "episode": 9,
+    "seed": 9,
+    "score": 470.0,
+    "steps": 10000
+  },
+  {
+    "episode": 10,
+    "seed": 10,
+    "score": 630.0,
+    "steps": 10000
+  },
+  {
+    "episode": 11,
+    "seed": 11,
+    "score": 651.0,
+    "steps": 10000
+  },
+  {
+    "episode": 12,
+    "seed": 12,
+    "score": 94.0,
+    "steps": 1364
+  },
+  {
+    "episode": 13,
+    "seed": 13,
+    "score": 549.0,
+    "steps": 8830
+  },
+  {
+    "episode": 14,
+    "seed": 14,
+    "score": 606.0,
+    "steps": 10000
+  },
+  {
+    "episode": 15,
+    "seed": 15,
+    "score": 216.0,
+    "steps": 3750
+  },
+  {
+    "episode": 16,
+    "seed": 16,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 17,
+    "seed": 17,
+    "score": 74.0,
+    "steps": 1132
+  },
+  {
+    "episode": 18,
+    "seed": 18,
+    "score": 606.0,
+    "steps": 10000
+  },
+  {
+    "episode": 19,
+    "seed": 19,
+    "score": 632.0,
+    "steps": 10000
+  },
+  {
+    "episode": 20,
+    "seed": 20,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 21,
+    "seed": 21,
+    "score": 622.0,
+    "steps": 10000
+  },
+  {
+    "episode": 22,
+    "seed": 22,
+    "score": 600.0,
+    "steps": 10000
+  },
+  {
+    "episode": 23,
+    "seed": 23,
+    "score": 575.0,
+    "steps": 10000
+  },
+  {
+    "episode": 24,
+    "seed": 24,
+    "score": 57.0,
+    "steps": 784
+  },
+  {
+    "episode": 25,
+    "seed": 25,
+    "score": 451.0,
+    "steps": 6946
+  },
+  {
+    "episode": 26,
+    "seed": 26,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 27,
+    "seed": 27,
+    "score": 500.0,
+    "steps": 10000
+  },
+  {
+    "episode": 28,
+    "seed": 28,
+    "score": 419.0,
+    "steps": 6454
+  },
+  {
+    "episode": 29,
+    "seed": 29,
+    "score": 387.0,
+    "steps": 6136
+  },
+  {
+    "episode": 30,
+    "seed": 30,
+    "score": 204.0,
+    "steps": 2878
+  },
+  {
+    "episode": 31,
+    "seed": 31,
+    "score": 10.0,
+    "steps": 114
+  },
+  {
+    "episode": 32,
+    "seed": 32,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 33,
+    "seed": 33,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 34,
+    "seed": 34,
+    "score": 224.0,
+    "steps": 3818
+  },
+  {
+    "episode": 35,
+    "seed": 35,
+    "score": 611.0,
+    "steps": 10000
+  },
+  {
+    "episode": 36,
+    "seed": 36,
+    "score": 480.0,
+    "steps": 10000
+  },
+  {
+    "episode": 37,
+    "seed": 37,
+    "score": 644.0,
+    "steps": 10000
+  },
+  {
+    "episode": 38,
+    "seed": 38,
+    "score": 7.0,
+    "steps": 82
+  },
+  {
+    "episode": 39,
+    "seed": 39,
+    "score": 640.0,
+    "steps": 9750
+  },
+  {
+    "episode": 40,
+    "seed": 40,
+    "score": 68.0,
+    "steps": 1126
+  },
+  {
+    "episode": 41,
+    "seed": 41,
+    "score": 146.0,
+    "steps": 2102
+  },
+  {
+    "episode": 42,
+    "seed": 42,
+    "score": 463.0,
+    "steps": 7974
+  },
+  {
+    "episode": 43,
+    "seed": 43,
+    "score": 234.0,
+    "steps": 3394
+  },
+  {
+    "episode": 44,
+    "seed": 44,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 45,
+    "seed": 45,
+    "score": 538.0,
+    "steps": 9124
+  },
+  {
+    "episode": 46,
+    "seed": 46,
+    "score": 592.0,
+    "steps": 10000
+  },
+  {
+    "episode": 47,
+    "seed": 47,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 48,
+    "seed": 48,
+    "score": 299.0,
+    "steps": 5296
+  },
+  {
+    "episode": 49,
+    "seed": 49,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 50,
+    "seed": 50,
+    "score": 124.0,
+    "steps": 2296
+  },
+  {
+    "episode": 51,
+    "seed": 51,
+    "score": 655.0,
+    "steps": 10000
+  },
+  {
+    "episode": 52,
+    "seed": 52,
+    "score": 299.0,
+    "steps": 6014
+  },
+  {
+    "episode": 53,
+    "seed": 53,
+    "score": 6.0,
+    "steps": 70
+  },
+  {
+    "episode": 54,
+    "seed": 54,
+    "score": 46.0,
+    "steps": 556
+  },
+  {
+    "episode": 55,
+    "seed": 55,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 56,
+    "seed": 56,
+    "score": 614.0,
+    "steps": 10000
+  },
+  {
+    "episode": 57,
+    "seed": 57,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 58,
+    "seed": 58,
+    "score": 524.0,
+    "steps": 9020
+  },
+  {
+    "episode": 59,
+    "seed": 59,
+    "score": 247.0,
+    "steps": 3980
+  },
+  {
+    "episode": 60,
+    "seed": 60,
+    "score": 152.0,
+    "steps": 2452
+  },
+  {
+    "episode": 61,
+    "seed": 61,
+    "score": 277.0,
+    "steps": 5196
+  },
+  {
+    "episode": 62,
+    "seed": 62,
+    "score": 239.0,
+    "steps": 3908
+  },
+  {
+    "episode": 63,
+    "seed": 63,
+    "score": 285.0,
+    "steps": 4698
+  },
+  {
+    "episode": 64,
+    "seed": 64,
+    "score": 78.0,
+    "steps": 1366
+  },
+  {
+    "episode": 65,
+    "seed": 65,
+    "score": 576.0,
+    "steps": 10000
+  },
+  {
+    "episode": 66,
+    "seed": 66,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 67,
+    "seed": 67,
+    "score": 359.0,
+    "steps": 6016
+  },
+  {
+    "episode": 68,
+    "seed": 68,
+    "score": 507.0,
+    "steps": 8076
+  },
+  {
+    "episode": 69,
+    "seed": 69,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 70,
+    "seed": 70,
+    "score": 567.0,
+    "steps": 10000
+  },
+  {
+    "episode": 71,
+    "seed": 71,
+    "score": 588.0,
+    "steps": 10000
+  },
+  {
+    "episode": 72,
+    "seed": 72,
+    "score": 556.0,
+    "steps": 10000
+  },
+  {
+    "episode": 73,
+    "seed": 73,
+    "score": 43.0,
+    "steps": 518
+  },
+  {
+    "episode": 74,
+    "seed": 74,
+    "score": 92.0,
+    "steps": 1354
+  },
+  {
+    "episode": 75,
+    "seed": 75,
+    "score": 621.0,
+    "steps": 9474
+  },
+  {
+    "episode": 76,
+    "seed": 76,
+    "score": 189.0,
+    "steps": 3440
+  },
+  {
+    "episode": 77,
+    "seed": 77,
+    "score": 398.0,
+    "steps": 6712
+  },
+  {
+    "episode": 78,
+    "seed": 78,
+    "score": 188.0,
+    "steps": 3352
+  },
+  {
+    "episode": 79,
+    "seed": 79,
+    "score": 188.0,
+    "steps": 3504
+  },
+  {
+    "episode": 80,
+    "seed": 80,
+    "score": 576.0,
+    "steps": 9016
+  },
+  {
+    "episode": 81,
+    "seed": 81,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 82,
+    "seed": 82,
+    "score": 85.0,
+    "steps": 1236
+  },
+  {
+    "episode": 83,
+    "seed": 83,
+    "score": 128.0,
+    "steps": 1936
+  },
+  {
+    "episode": 84,
+    "seed": 84,
+    "score": 159.0,
+    "steps": 2182
+  },
+  {
+    "episode": 85,
+    "seed": 85,
+    "score": 132.0,
+    "steps": 2230
+  },
+  {
+    "episode": 86,
+    "seed": 86,
+    "score": 537.0,
+    "steps": 10000
+  },
+  {
+    "episode": 87,
+    "seed": 87,
+    "score": 182.0,
+    "steps": 2884
+  },
+  {
+    "episode": 88,
+    "seed": 88,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 89,
+    "seed": 89,
+    "score": 58.0,
+    "steps": 654
+  },
+  {
+    "episode": 90,
+    "seed": 90,
+    "score": 548.0,
+    "steps": 8826
+  },
+  {
+    "episode": 91,
+    "seed": 91,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 92,
+    "seed": 92,
+    "score": 584.0,
+    "steps": 10000
+  },
+  {
+    "episode": 93,
+    "seed": 93,
+    "score": 658.0,
+    "steps": 10000
+  },
+  {
+    "episode": 94,
+    "seed": 94,
+    "score": 364.0,
+    "steps": 6320
+  },
+  {
+    "episode": 95,
+    "seed": 95,
+    "score": 566.0,
+    "steps": 10000
+  },
+  {
+    "episode": 96,
+    "seed": 96,
+    "score": 554.0,
+    "steps": 8844
+  },
+  {
+    "episode": 97,
+    "seed": 97,
+    "score": 683.0,
+    "steps": 10000
+  },
+  {
+    "episode": 98,
+    "seed": 98,
+    "score": 704.0,
+    "steps": 10000
+  },
+  {
+    "episode": 99,
+    "seed": 99,
+    "score": 580.0,
+    "steps": 10000
+  },
+  {
+    "episode": 100,
+    "seed": 100,
+    "score": 597.0,
+    "steps": 10000
+  },
+  {
+    "episode": 101,
+    "seed": 101,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 102,
+    "seed": 102,
+    "score": 596.0,
+    "steps": 10000
+  },
+  {
+    "episode": 103,
+    "seed": 103,
+    "score": 607.0,
+    "steps": 10000
+  },
+  {
+    "episode": 104,
+    "seed": 104,
+    "score": 654.0,
+    "steps": 10000
+  },
+  {
+    "episode": 105,
+    "seed": 105,
+    "score": 258.0,
+    "steps": 4020
+  },
+  {
+    "episode": 106,
+    "seed": 106,
+    "score": 649.0,
+    "steps": 9698
+  },
+  {
+    "episode": 107,
+    "seed": 107,
+    "score": 630.0,
+    "steps": 10000
+  },
+  {
+    "episode": 108,
+    "seed": 108,
+    "score": 418.0,
+    "steps": 6714
+  },
+  {
+    "episode": 109,
+    "seed": 109,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 110,
+    "seed": 110,
+    "score": 403.0,
+    "steps": 6126
+  },
+  {
+    "episode": 111,
+    "seed": 111,
+    "score": 565.0,
+    "steps": 10000
+  },
+  {
+    "episode": 112,
+    "seed": 112,
+    "score": 389.0,
+    "steps": 6836
+  },
+  {
+    "episode": 113,
+    "seed": 113,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 114,
+    "seed": 114,
+    "score": 0.0,
+    "steps": 6
+  },
+  {
+    "episode": 115,
+    "seed": 115,
+    "score": 544.0,
+    "steps": 8546
+  },
+  {
+    "episode": 116,
+    "seed": 116,
+    "score": 106.0,
+    "steps": 1602
+  },
+  {
+    "episode": 117,
+    "seed": 117,
+    "score": 592.0,
+    "steps": 10000
+  },
+  {
+    "episode": 118,
+    "seed": 118,
+    "score": 579.0,
+    "steps": 10000
+  },
+  {
+    "episode": 119,
+    "seed": 119,
+    "score": 38.0,
+    "steps": 554
+  },
+  {
+    "episode": 120,
+    "seed": 120,
+    "score": 190.0,
+    "steps": 3058
+  },
+  {
+    "episode": 121,
+    "seed": 121,
+    "score": 575.0,
+    "steps": 8598
+  },
+  {
+    "episode": 122,
+    "seed": 122,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 123,
+    "seed": 123,
+    "score": 179.0,
+    "steps": 3574
+  },
+  {
+    "episode": 124,
+    "seed": 124,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 125,
+    "seed": 125,
+    "score": 532.0,
+    "steps": 10000
+  },
+  {
+    "episode": 126,
+    "seed": 126,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 127,
+    "seed": 127,
+    "score": 601.0,
+    "steps": 10000
+  },
+  {
+    "episode": 128,
+    "seed": 128,
+    "score": 91.0,
+    "steps": 1326
+  },
+  {
+    "episode": 129,
+    "seed": 129,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 130,
+    "seed": 130,
+    "score": 108.0,
+    "steps": 1856
+  },
+  {
+    "episode": 131,
+    "seed": 131,
+    "score": 341.0,
+    "steps": 5844
+  },
+  {
+    "episode": 132,
+    "seed": 132,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 133,
+    "seed": 133,
+    "score": 655.0,
+    "steps": 10000
+  },
+  {
+    "episode": 134,
+    "seed": 134,
+    "score": 8.0,
+    "steps": 90
+  },
+  {
+    "episode": 135,
+    "seed": 135,
+    "score": 269.0,
+    "steps": 4116
+  },
+  {
+    "episode": 136,
+    "seed": 136,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 137,
+    "seed": 137,
+    "score": 79.0,
+    "steps": 1244
+  },
+  {
+    "episode": 138,
+    "seed": 138,
+    "score": 321.0,
+    "steps": 5214
+  },
+  {
+    "episode": 139,
+    "seed": 139,
+    "score": 10.0,
+    "steps": 112
+  },
+  {
+    "episode": 140,
+    "seed": 140,
+    "score": 310.0,
+    "steps": 4514
+  },
+  {
+    "episode": 141,
+    "seed": 141,
+    "score": 33.0,
+    "steps": 506
+  },
+  {
+    "episode": 142,
+    "seed": 142,
+    "score": 191.0,
+    "steps": 3082
+  },
+  {
+    "episode": 143,
+    "seed": 143,
+    "score": 593.0,
+    "steps": 10000
+  },
+  {
+    "episode": 144,
+    "seed": 144,
+    "score": 663.0,
+    "steps": 10000
+  },
+  {
+    "episode": 145,
+    "seed": 145,
+    "score": 329.0,
+    "steps": 8610
+  },
+  {
+    "episode": 146,
+    "seed": 146,
+    "score": 559.0,
+    "steps": 10000
+  },
+  {
+    "episode": 147,
+    "seed": 147,
+    "score": 647.0,
+    "steps": 10000
+  },
+  {
+    "episode": 148,
+    "seed": 148,
+    "score": 635.0,
+    "steps": 10000
+  },
+  {
+    "episode": 149,
+    "seed": 149,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 150,
+    "seed": 150,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 151,
+    "seed": 151,
+    "score": 186.0,
+    "steps": 3052
+  },
+  {
+    "episode": 152,
+    "seed": 152,
+    "score": 392.0,
+    "steps": 6198
+  },
+  {
+    "episode": 153,
+    "seed": 153,
+    "score": 321.0,
+    "steps": 4850
+  },
+  {
+    "episode": 154,
+    "seed": 154,
+    "score": 198.0,
+    "steps": 3218
+  },
+  {
+    "episode": 155,
+    "seed": 155,
+    "score": 362.0,
+    "steps": 5636
+  },
+  {
+    "episode": 156,
+    "seed": 156,
+    "score": 353.0,
+    "steps": 6016
+  },
+  {
+    "episode": 157,
+    "seed": 157,
+    "score": 228.0,
+    "steps": 3814
+  },
+  {
+    "episode": 158,
+    "seed": 158,
+    "score": 630.0,
+    "steps": 10000
+  },
+  {
+    "episode": 159,
+    "seed": 159,
+    "score": 449.0,
+    "steps": 7550
+  },
+  {
+    "episode": 160,
+    "seed": 160,
+    "score": 207.0,
+    "steps": 3972
+  },
+  {
+    "episode": 161,
+    "seed": 161,
+    "score": 128.0,
+    "steps": 1956
+  },
+  {
+    "episode": 162,
+    "seed": 162,
+    "score": 416.0,
+    "steps": 6490
+  },
+  {
+    "episode": 163,
+    "seed": 163,
+    "score": 198.0,
+    "steps": 3560
+  },
+  {
+    "episode": 164,
+    "seed": 164,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 165,
+    "seed": 165,
+    "score": 411.0,
+    "steps": 6574
+  },
+  {
+    "episode": 166,
+    "seed": 166,
+    "score": 36.0,
+    "steps": 570
+  },
+  {
+    "episode": 167,
+    "seed": 167,
+    "score": 185.0,
+    "steps": 3172
+  },
+  {
+    "episode": 168,
+    "seed": 168,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 169,
+    "seed": 169,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 170,
+    "seed": 170,
+    "score": 537.0,
+    "steps": 10000
+  },
+  {
+    "episode": 171,
+    "seed": 171,
+    "score": 457.0,
+    "steps": 8260
+  },
+  {
+    "episode": 172,
+    "seed": 172,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 173,
+    "seed": 173,
+    "score": 344.0,
+    "steps": 6228
+  },
+  {
+    "episode": 174,
+    "seed": 174,
+    "score": 214.0,
+    "steps": 3732
+  },
+  {
+    "episode": 175,
+    "seed": 175,
+    "score": 603.0,
+    "steps": 10000
+  },
+  {
+    "episode": 176,
+    "seed": 176,
+    "score": 482.0,
+    "steps": 8148
+  },
+  {
+    "episode": 177,
+    "seed": 177,
+    "score": 15.0,
+    "steps": 172
+  },
+  {
+    "episode": 178,
+    "seed": 178,
+    "score": 566.0,
+    "steps": 10000
+  },
+  {
+    "episode": 179,
+    "seed": 179,
+    "score": 485.0,
+    "steps": 8080
+  },
+  {
+    "episode": 180,
+    "seed": 180,
+    "score": 486.0,
+    "steps": 8348
+  },
+  {
+    "episode": 181,
+    "seed": 181,
+    "score": 17.0,
+    "steps": 202
+  },
+  {
+    "episode": 182,
+    "seed": 182,
+    "score": 329.0,
+    "steps": 6018
+  },
+  {
+    "episode": 183,
+    "seed": 183,
+    "score": 80.0,
+    "steps": 1188
+  },
+  {
+    "episode": 184,
+    "seed": 184,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 185,
+    "seed": 185,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 186,
+    "seed": 186,
+    "score": 18.0,
+    "steps": 210
+  },
+  {
+    "episode": 187,
+    "seed": 187,
+    "score": 568.0,
+    "steps": 9548
+  },
+  {
+    "episode": 188,
+    "seed": 188,
+    "score": 57.0,
+    "steps": 818
+  },
+  {
+    "episode": 189,
+    "seed": 189,
+    "score": 239.0,
+    "steps": 3748
+  },
+  {
+    "episode": 190,
+    "seed": 190,
+    "score": 619.0,
+    "steps": 10000
+  },
+  {
+    "episode": 191,
+    "seed": 191,
+    "score": 627.0,
+    "steps": 9760
+  },
+  {
+    "episode": 192,
+    "seed": 192,
+    "score": 65.0,
+    "steps": 870
+  },
+  {
+    "episode": 193,
+    "seed": 193,
+    "score": 603.0,
+    "steps": 10000
+  },
+  {
+    "episode": 194,
+    "seed": 194,
+    "score": 10.0,
+    "steps": 118
+  },
+  {
+    "episode": 195,
+    "seed": 195,
+    "score": 399.0,
+    "steps": 6992
+  },
+  {
+    "episode": 196,
+    "seed": 196,
+    "score": 94.0,
+    "steps": 1528
+  },
+  {
+    "episode": 197,
+    "seed": 197,
+    "score": 612.0,
+    "steps": 10000
+  },
+  {
+    "episode": 198,
+    "seed": 198,
+    "score": 566.0,
+    "steps": 10000
+  },
+  {
+    "episode": 199,
+    "seed": 199,
+    "score": 612.0,
+    "steps": 10000
+  },
+  {
+    "episode": 200,
+    "seed": 200,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 201,
+    "seed": 201,
+    "score": 636.0,
+    "steps": 10000
+  },
+  {
+    "episode": 202,
+    "seed": 202,
+    "score": 605.0,
+    "steps": 10000
+  },
+  {
+    "episode": 203,
+    "seed": 203,
+    "score": 44.0,
+    "steps": 592
+  },
+  {
+    "episode": 204,
+    "seed": 204,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 205,
+    "seed": 205,
+    "score": 252.0,
+    "steps": 3344
+  },
+  {
+    "episode": 206,
+    "seed": 206,
+    "score": 57.0,
+    "steps": 1010
+  },
+  {
+    "episode": 207,
+    "seed": 207,
+    "score": 387.0,
+    "steps": 6730
+  },
+  {
+    "episode": 208,
+    "seed": 208,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 209,
+    "seed": 209,
+    "score": 364.0,
+    "steps": 6438
+  },
+  {
+    "episode": 210,
+    "seed": 210,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 211,
+    "seed": 211,
+    "score": 29.0,
+    "steps": 472
+  },
+  {
+    "episode": 212,
+    "seed": 212,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 213,
+    "seed": 213,
+    "score": 640.0,
+    "steps": 10000
+  },
+  {
+    "episode": 214,
+    "seed": 214,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 215,
+    "seed": 215,
+    "score": 564.0,
+    "steps": 10000
+  },
+  {
+    "episode": 216,
+    "seed": 216,
+    "score": 151.0,
+    "steps": 2856
+  },
+  {
+    "episode": 217,
+    "seed": 217,
+    "score": 2.0,
+    "steps": 26
+  },
+  {
+    "episode": 218,
+    "seed": 218,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 219,
+    "seed": 219,
+    "score": 583.0,
+    "steps": 9120
+  },
+  {
+    "episode": 220,
+    "seed": 220,
+    "score": 618.0,
+    "steps": 10000
+  },
+  {
+    "episode": 221,
+    "seed": 221,
+    "score": 299.0,
+    "steps": 5872
+  },
+  {
+    "episode": 222,
+    "seed": 222,
+    "score": 588.0,
+    "steps": 10000
+  },
+  {
+    "episode": 223,
+    "seed": 223,
+    "score": 148.0,
+    "steps": 2118
+  },
+  {
+    "episode": 224,
+    "seed": 224,
+    "score": 66.0,
+    "steps": 976
+  },
+  {
+    "episode": 225,
+    "seed": 225,
+    "score": 385.0,
+    "steps": 6228
+  },
+  {
+    "episode": 226,
+    "seed": 226,
+    "score": 188.0,
+    "steps": 3282
+  },
+  {
+    "episode": 227,
+    "seed": 227,
+    "score": 308.0,
+    "steps": 4682
+  },
+  {
+    "episode": 228,
+    "seed": 228,
+    "score": 385.0,
+    "steps": 6282
+  },
+  {
+    "episode": 229,
+    "seed": 229,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 230,
+    "seed": 230,
+    "score": 200.0,
+    "steps": 3116
+  },
+  {
+    "episode": 231,
+    "seed": 231,
+    "score": 351.0,
+    "steps": 5574
+  },
+  {
+    "episode": 232,
+    "seed": 232,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 233,
+    "seed": 233,
+    "score": 270.0,
+    "steps": 5074
+  },
+  {
+    "episode": 234,
+    "seed": 234,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 235,
+    "seed": 235,
+    "score": 148.0,
+    "steps": 2596
+  },
+  {
+    "episode": 236,
+    "seed": 236,
+    "score": 617.0,
+    "steps": 10000
+  },
+  {
+    "episode": 237,
+    "seed": 237,
+    "score": 58.0,
+    "steps": 1088
+  },
+  {
+    "episode": 238,
+    "seed": 238,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 239,
+    "seed": 239,
+    "score": 324.0,
+    "steps": 4914
+  },
+  {
+    "episode": 240,
+    "seed": 240,
+    "score": 552.0,
+    "steps": 8344
+  },
+  {
+    "episode": 241,
+    "seed": 241,
+    "score": 616.0,
+    "steps": 9880
+  },
+  {
+    "episode": 242,
+    "seed": 242,
+    "score": 406.0,
+    "steps": 6068
+  },
+  {
+    "episode": 243,
+    "seed": 243,
+    "score": 325.0,
+    "steps": 5564
+  },
+  {
+    "episode": 244,
+    "seed": 244,
+    "score": 534.0,
+    "steps": 10000
+  },
+  {
+    "episode": 245,
+    "seed": 245,
+    "score": 152.0,
+    "steps": 2414
+  },
+  {
+    "episode": 246,
+    "seed": 246,
+    "score": 267.0,
+    "steps": 4706
+  },
+  {
+    "episode": 247,
+    "seed": 247,
+    "score": 41.0,
+    "steps": 1372
+  },
+  {
+    "episode": 248,
+    "seed": 248,
+    "score": 650.0,
+    "steps": 10000
+  },
+  {
+    "episode": 249,
+    "seed": 249,
+    "score": 45.0,
+    "steps": 670
+  },
+  {
+    "episode": 250,
+    "seed": 250,
+    "score": 547.0,
+    "steps": 9466
+  },
+  {
+    "episode": 251,
+    "seed": 251,
+    "score": 609.0,
+    "steps": 10000
+  },
+  {
+    "episode": 252,
+    "seed": 252,
+    "score": 484.0,
+    "steps": 7364
+  },
+  {
+    "episode": 253,
+    "seed": 253,
+    "score": 489.0,
+    "steps": 8014
+  },
+  {
+    "episode": 254,
+    "seed": 254,
+    "score": 308.0,
+    "steps": 5294
+  },
+  {
+    "episode": 255,
+    "seed": 255,
+    "score": 463.0,
+    "steps": 7248
+  },
+  {
+    "episode": 256,
+    "seed": 256,
+    "score": 591.0,
+    "steps": 10000
+  },
+  {
+    "episode": 257,
+    "seed": 257,
+    "score": 91.0,
+    "steps": 1398
+  },
+  {
+    "episode": 258,
+    "seed": 258,
+    "score": 572.0,
+    "steps": 10000
+  },
+  {
+    "episode": 259,
+    "seed": 259,
+    "score": 600.0,
+    "steps": 10000
+  },
+  {
+    "episode": 260,
+    "seed": 260,
+    "score": 88.0,
+    "steps": 1338
+  },
+  {
+    "episode": 261,
+    "seed": 261,
+    "score": 601.0,
+    "steps": 10000
+  },
+  {
+    "episode": 262,
+    "seed": 262,
+    "score": 640.0,
+    "steps": 10000
+  },
+  {
+    "episode": 263,
+    "seed": 263,
+    "score": 485.0,
+    "steps": 7618
+  },
+  {
+    "episode": 264,
+    "seed": 264,
+    "score": 365.0,
+    "steps": 6176
+  },
+  {
+    "episode": 265,
+    "seed": 265,
+    "score": 618.0,
+    "steps": 10000
+  },
+  {
+    "episode": 266,
+    "seed": 266,
+    "score": 607.0,
+    "steps": 10000
+  },
+  {
+    "episode": 267,
+    "seed": 267,
+    "score": 616.0,
+    "steps": 10000
+  },
+  {
+    "episode": 268,
+    "seed": 268,
+    "score": 356.0,
+    "steps": 5866
+  },
+  {
+    "episode": 269,
+    "seed": 269,
+    "score": 75.0,
+    "steps": 1086
+  },
+  {
+    "episode": 270,
+    "seed": 270,
+    "score": 68.0,
+    "steps": 994
+  },
+  {
+    "episode": 271,
+    "seed": 271,
+    "score": 478.0,
+    "steps": 7062
+  },
+  {
+    "episode": 272,
+    "seed": 272,
+    "score": 526.0,
+    "steps": 8500
+  },
+  {
+    "episode": 273,
+    "seed": 273,
+    "score": 645.0,
+    "steps": 10000
+  },
+  {
+    "episode": 274,
+    "seed": 274,
+    "score": 560.0,
+    "steps": 10000
+  },
+  {
+    "episode": 275,
+    "seed": 275,
+    "score": 571.0,
+    "steps": 10000
+  },
+  {
+    "episode": 276,
+    "seed": 276,
+    "score": 248.0,
+    "steps": 4036
+  },
+  {
+    "episode": 277,
+    "seed": 277,
+    "score": 249.0,
+    "steps": 3862
+  },
+  {
+    "episode": 278,
+    "seed": 278,
+    "score": 302.0,
+    "steps": 4888
+  },
+  {
+    "episode": 279,
+    "seed": 279,
+    "score": 323.0,
+    "steps": 4780
+  },
+  {
+    "episode": 280,
+    "seed": 280,
+    "score": 505.0,
+    "steps": 8782
+  },
+  {
+    "episode": 281,
+    "seed": 281,
+    "score": 357.0,
+    "steps": 5420
+  },
+  {
+    "episode": 282,
+    "seed": 282,
+    "score": 68.0,
+    "steps": 930
+  },
+  {
+    "episode": 283,
+    "seed": 283,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 284,
+    "seed": 284,
+    "score": 571.0,
+    "steps": 9856
+  },
+  {
+    "episode": 285,
+    "seed": 285,
+    "score": 358.0,
+    "steps": 6078
+  },
+  {
+    "episode": 286,
+    "seed": 286,
+    "score": 594.0,
+    "steps": 10000
+  },
+  {
+    "episode": 287,
+    "seed": 287,
+    "score": 487.0,
+    "steps": 8408
+  },
+  {
+    "episode": 288,
+    "seed": 288,
+    "score": 112.0,
+    "steps": 2092
+  },
+  {
+    "episode": 289,
+    "seed": 289,
+    "score": 252.0,
+    "steps": 4240
+  },
+  {
+    "episode": 290,
+    "seed": 290,
+    "score": 165.0,
+    "steps": 2214
+  },
+  {
+    "episode": 291,
+    "seed": 291,
+    "score": 100.0,
+    "steps": 2162
+  },
+  {
+    "episode": 292,
+    "seed": 292,
+    "score": 252.0,
+    "steps": 4206
+  },
+  {
+    "episode": 293,
+    "seed": 293,
+    "score": 593.0,
+    "steps": 10000
+  },
+  {
+    "episode": 294,
+    "seed": 294,
+    "score": 23.0,
+    "steps": 278
+  },
+  {
+    "episode": 295,
+    "seed": 295,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 296,
+    "seed": 296,
+    "score": 125.0,
+    "steps": 1788
+  },
+  {
+    "episode": 297,
+    "seed": 297,
+    "score": 337.0,
+    "steps": 6240
+  },
+  {
+    "episode": 298,
+    "seed": 298,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 299,
+    "seed": 299,
+    "score": 92.0,
+    "steps": 1486
+  },
+  {
+    "episode": 300,
+    "seed": 300,
+    "score": 681.0,
+    "steps": 10000
+  },
+  {
+    "episode": 301,
+    "seed": 301,
+    "score": 193.0,
+    "steps": 3174
+  },
+  {
+    "episode": 302,
+    "seed": 302,
+    "score": 416.0,
+    "steps": 6260
+  },
+  {
+    "episode": 303,
+    "seed": 303,
+    "score": 390.0,
+    "steps": 6000
+  },
+  {
+    "episode": 304,
+    "seed": 304,
+    "score": 360.0,
+    "steps": 5814
+  },
+  {
+    "episode": 305,
+    "seed": 305,
+    "score": 66.0,
+    "steps": 1030
+  },
+  {
+    "episode": 306,
+    "seed": 306,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 307,
+    "seed": 307,
+    "score": 46.0,
+    "steps": 616
+  },
+  {
+    "episode": 308,
+    "seed": 308,
+    "score": 144.0,
+    "steps": 3662
+  },
+  {
+    "episode": 309,
+    "seed": 309,
+    "score": 586.0,
+    "steps": 10000
+  },
+  {
+    "episode": 310,
+    "seed": 310,
+    "score": 640.0,
+    "steps": 10000
+  },
+  {
+    "episode": 311,
+    "seed": 311,
+    "score": 503.0,
+    "steps": 10000
+  },
+  {
+    "episode": 312,
+    "seed": 312,
+    "score": 535.0,
+    "steps": 10000
+  },
+  {
+    "episode": 313,
+    "seed": 313,
+    "score": 597.0,
+    "steps": 10000
+  },
+  {
+    "episode": 314,
+    "seed": 314,
+    "score": 397.0,
+    "steps": 6094
+  },
+  {
+    "episode": 315,
+    "seed": 315,
+    "score": 631.0,
+    "steps": 10000
+  },
+  {
+    "episode": 316,
+    "seed": 316,
+    "score": 123.0,
+    "steps": 1988
+  },
+  {
+    "episode": 317,
+    "seed": 317,
+    "score": 596.0,
+    "steps": 10000
+  },
+  {
+    "episode": 318,
+    "seed": 318,
+    "score": 107.0,
+    "steps": 2058
+  },
+  {
+    "episode": 319,
+    "seed": 319,
+    "score": 596.0,
+    "steps": 10000
+  },
+  {
+    "episode": 320,
+    "seed": 320,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 321,
+    "seed": 321,
+    "score": 509.0,
+    "steps": 10000
+  },
+  {
+    "episode": 322,
+    "seed": 322,
+    "score": 178.0,
+    "steps": 2616
+  },
+  {
+    "episode": 323,
+    "seed": 323,
+    "score": 609.0,
+    "steps": 10000
+  },
+  {
+    "episode": 324,
+    "seed": 324,
+    "score": 32.0,
+    "steps": 548
+  },
+  {
+    "episode": 325,
+    "seed": 325,
+    "score": 581.0,
+    "steps": 10000
+  },
+  {
+    "episode": 326,
+    "seed": 326,
+    "score": 642.0,
+    "steps": 10000
+  },
+  {
+    "episode": 327,
+    "seed": 327,
+    "score": 663.0,
+    "steps": 10000
+  },
+  {
+    "episode": 328,
+    "seed": 328,
+    "score": 99.0,
+    "steps": 1694
+  },
+  {
+    "episode": 329,
+    "seed": 329,
+    "score": 397.0,
+    "steps": 5904
+  },
+  {
+    "episode": 330,
+    "seed": 330,
+    "score": 403.0,
+    "steps": 6078
+  },
+  {
+    "episode": 331,
+    "seed": 331,
+    "score": 148.0,
+    "steps": 3776
+  },
+  {
+    "episode": 332,
+    "seed": 332,
+    "score": 401.0,
+    "steps": 6528
+  },
+  {
+    "episode": 333,
+    "seed": 333,
+    "score": 536.0,
+    "steps": 8504
+  },
+  {
+    "episode": 334,
+    "seed": 334,
+    "score": 499.0,
+    "steps": 8200
+  },
+  {
+    "episode": 335,
+    "seed": 335,
+    "score": 564.0,
+    "steps": 9306
+  },
+  {
+    "episode": 336,
+    "seed": 336,
+    "score": 62.0,
+    "steps": 848
+  },
+  {
+    "episode": 337,
+    "seed": 337,
+    "score": 219.0,
+    "steps": 3184
+  },
+  {
+    "episode": 338,
+    "seed": 338,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 339,
+    "seed": 339,
+    "score": 433.0,
+    "steps": 7392
+  },
+  {
+    "episode": 340,
+    "seed": 340,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 341,
+    "seed": 341,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 342,
+    "seed": 342,
+    "score": 633.0,
+    "steps": 10000
+  },
+  {
+    "episode": 343,
+    "seed": 343,
+    "score": 676.0,
+    "steps": 10000
+  },
+  {
+    "episode": 344,
+    "seed": 344,
+    "score": 586.0,
+    "steps": 10000
+  },
+  {
+    "episode": 345,
+    "seed": 345,
+    "score": 449.0,
+    "steps": 10000
+  },
+  {
+    "episode": 346,
+    "seed": 346,
+    "score": 268.0,
+    "steps": 4576
+  },
+  {
+    "episode": 347,
+    "seed": 347,
+    "score": 544.0,
+    "steps": 8476
+  },
+  {
+    "episode": 348,
+    "seed": 348,
+    "score": 160.0,
+    "steps": 2468
+  },
+  {
+    "episode": 349,
+    "seed": 349,
+    "score": 69.0,
+    "steps": 1206
+  },
+  {
+    "episode": 350,
+    "seed": 350,
+    "score": 83.0,
+    "steps": 1104
+  },
+  {
+    "episode": 351,
+    "seed": 351,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 352,
+    "seed": 352,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 353,
+    "seed": 353,
+    "score": 5.0,
+    "steps": 58
+  },
+  {
+    "episode": 354,
+    "seed": 354,
+    "score": 215.0,
+    "steps": 3438
+  },
+  {
+    "episode": 355,
+    "seed": 355,
+    "score": 586.0,
+    "steps": 10000
+  },
+  {
+    "episode": 356,
+    "seed": 356,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 357,
+    "seed": 357,
+    "score": 130.0,
+    "steps": 2114
+  },
+  {
+    "episode": 358,
+    "seed": 358,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 359,
+    "seed": 359,
+    "score": 426.0,
+    "steps": 7124
+  },
+  {
+    "episode": 360,
+    "seed": 360,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 361,
+    "seed": 361,
+    "score": 246.0,
+    "steps": 4086
+  },
+  {
+    "episode": 362,
+    "seed": 362,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 363,
+    "seed": 363,
+    "score": 320.0,
+    "steps": 5008
+  },
+  {
+    "episode": 364,
+    "seed": 364,
+    "score": 635.0,
+    "steps": 10000
+  },
+  {
+    "episode": 365,
+    "seed": 365,
+    "score": 643.0,
+    "steps": 10000
+  },
+  {
+    "episode": 366,
+    "seed": 366,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 367,
+    "seed": 367,
+    "score": 466.0,
+    "steps": 7788
+  },
+  {
+    "episode": 368,
+    "seed": 368,
+    "score": 125.0,
+    "steps": 2118
+  },
+  {
+    "episode": 369,
+    "seed": 369,
+    "score": 68.0,
+    "steps": 924
+  },
+  {
+    "episode": 370,
+    "seed": 370,
+    "score": 578.0,
+    "steps": 10000
+  },
+  {
+    "episode": 371,
+    "seed": 371,
+    "score": 91.0,
+    "steps": 1252
+  },
+  {
+    "episode": 372,
+    "seed": 372,
+    "score": 540.0,
+    "steps": 10000
+  },
+  {
+    "episode": 373,
+    "seed": 373,
+    "score": 602.0,
+    "steps": 10000
+  },
+  {
+    "episode": 374,
+    "seed": 374,
+    "score": 269.0,
+    "steps": 4084
+  },
+  {
+    "episode": 375,
+    "seed": 375,
+    "score": 511.0,
+    "steps": 10000
+  },
+  {
+    "episode": 376,
+    "seed": 376,
+    "score": 631.0,
+    "steps": 10000
+  },
+  {
+    "episode": 377,
+    "seed": 377,
+    "score": 95.0,
+    "steps": 1342
+  },
+  {
+    "episode": 378,
+    "seed": 378,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 379,
+    "seed": 379,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 380,
+    "seed": 380,
+    "score": 507.0,
+    "steps": 10000
+  },
+  {
+    "episode": 381,
+    "seed": 381,
+    "score": 162.0,
+    "steps": 2676
+  },
+  {
+    "episode": 382,
+    "seed": 382,
+    "score": 233.0,
+    "steps": 3780
+  },
+  {
+    "episode": 383,
+    "seed": 383,
+    "score": 632.0,
+    "steps": 10000
+  },
+  {
+    "episode": 384,
+    "seed": 384,
+    "score": 613.0,
+    "steps": 10000
+  },
+  {
+    "episode": 385,
+    "seed": 385,
+    "score": 581.0,
+    "steps": 9670
+  },
+  {
+    "episode": 386,
+    "seed": 386,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 387,
+    "seed": 387,
+    "score": 631.0,
+    "steps": 10000
+  },
+  {
+    "episode": 388,
+    "seed": 388,
+    "score": 600.0,
+    "steps": 10000
+  },
+  {
+    "episode": 389,
+    "seed": 389,
+    "score": 668.0,
+    "steps": 10000
+  },
+  {
+    "episode": 390,
+    "seed": 390,
+    "score": 640.0,
+    "steps": 10000
+  },
+  {
+    "episode": 391,
+    "seed": 391,
+    "score": 657.0,
+    "steps": 10000
+  },
+  {
+    "episode": 392,
+    "seed": 392,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 393,
+    "seed": 393,
+    "score": 209.0,
+    "steps": 2962
+  },
+  {
+    "episode": 394,
+    "seed": 394,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 395,
+    "seed": 395,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 396,
+    "seed": 396,
+    "score": 530.0,
+    "steps": 9026
+  },
+  {
+    "episode": 397,
+    "seed": 397,
+    "score": 67.0,
+    "steps": 972
+  },
+  {
+    "episode": 398,
+    "seed": 398,
+    "score": 389.0,
+    "steps": 6464
+  },
+  {
+    "episode": 399,
+    "seed": 399,
+    "score": 317.0,
+    "steps": 4630
+  },
+  {
+    "episode": 400,
+    "seed": 400,
+    "score": 27.0,
+    "steps": 362
+  },
+  {
+    "episode": 401,
+    "seed": 401,
+    "score": 186.0,
+    "steps": 2738
+  },
+  {
+    "episode": 402,
+    "seed": 402,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 403,
+    "seed": 403,
+    "score": 183.0,
+    "steps": 2898
+  },
+  {
+    "episode": 404,
+    "seed": 404,
+    "score": 635.0,
+    "steps": 10000
+  },
+  {
+    "episode": 405,
+    "seed": 405,
+    "score": 152.0,
+    "steps": 2394
+  },
+  {
+    "episode": 406,
+    "seed": 406,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 407,
+    "seed": 407,
+    "score": 83.0,
+    "steps": 1308
+  },
+  {
+    "episode": 408,
+    "seed": 408,
+    "score": 271.0,
+    "steps": 4298
+  },
+  {
+    "episode": 409,
+    "seed": 409,
+    "score": 397.0,
+    "steps": 7322
+  },
+  {
+    "episode": 410,
+    "seed": 410,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 411,
+    "seed": 411,
+    "score": 101.0,
+    "steps": 2140
+  },
+  {
+    "episode": 412,
+    "seed": 412,
+    "score": 130.0,
+    "steps": 2252
+  },
+  {
+    "episode": 413,
+    "seed": 413,
+    "score": 594.0,
+    "steps": 10000
+  },
+  {
+    "episode": 414,
+    "seed": 414,
+    "score": 573.0,
+    "steps": 8948
+  },
+  {
+    "episode": 415,
+    "seed": 415,
+    "score": 634.0,
+    "steps": 10000
+  },
+  {
+    "episode": 416,
+    "seed": 416,
+    "score": 579.0,
+    "steps": 10000
+  },
+  {
+    "episode": 417,
+    "seed": 417,
+    "score": 675.0,
+    "steps": 10000
+  },
+  {
+    "episode": 418,
+    "seed": 418,
+    "score": 204.0,
+    "steps": 3224
+  },
+  {
+    "episode": 419,
+    "seed": 419,
+    "score": 316.0,
+    "steps": 4590
+  },
+  {
+    "episode": 420,
+    "seed": 420,
+    "score": 647.0,
+    "steps": 10000
+  },
+  {
+    "episode": 421,
+    "seed": 421,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 422,
+    "seed": 422,
+    "score": 662.0,
+    "steps": 10000
+  },
+  {
+    "episode": 423,
+    "seed": 423,
+    "score": 487.0,
+    "steps": 8488
+  },
+  {
+    "episode": 424,
+    "seed": 424,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 425,
+    "seed": 425,
+    "score": 585.0,
+    "steps": 10000
+  },
+  {
+    "episode": 426,
+    "seed": 426,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 427,
+    "seed": 427,
+    "score": 186.0,
+    "steps": 3074
+  },
+  {
+    "episode": 428,
+    "seed": 428,
+    "score": 362.0,
+    "steps": 5978
+  },
+  {
+    "episode": 429,
+    "seed": 429,
+    "score": 594.0,
+    "steps": 10000
+  },
+  {
+    "episode": 430,
+    "seed": 430,
+    "score": 306.0,
+    "steps": 4762
+  },
+  {
+    "episode": 431,
+    "seed": 431,
+    "score": 14.0,
+    "steps": 162
+  },
+  {
+    "episode": 432,
+    "seed": 432,
+    "score": 314.0,
+    "steps": 4968
+  },
+  {
+    "episode": 433,
+    "seed": 433,
+    "score": 244.0,
+    "steps": 4150
+  },
+  {
+    "episode": 434,
+    "seed": 434,
+    "score": 591.0,
+    "steps": 10000
+  },
+  {
+    "episode": 435,
+    "seed": 435,
+    "score": 166.0,
+    "steps": 2652
+  },
+  {
+    "episode": 436,
+    "seed": 436,
+    "score": 617.0,
+    "steps": 10000
+  },
+  {
+    "episode": 437,
+    "seed": 437,
+    "score": 656.0,
+    "steps": 10000
+  },
+  {
+    "episode": 438,
+    "seed": 438,
+    "score": 478.0,
+    "steps": 7756
+  },
+  {
+    "episode": 439,
+    "seed": 439,
+    "score": 611.0,
+    "steps": 10000
+  },
+  {
+    "episode": 440,
+    "seed": 440,
+    "score": 64.0,
+    "steps": 1010
+  },
+  {
+    "episode": 441,
+    "seed": 441,
+    "score": 120.0,
+    "steps": 2290
+  },
+  {
+    "episode": 442,
+    "seed": 442,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 443,
+    "seed": 443,
+    "score": 603.0,
+    "steps": 10000
+  },
+  {
+    "episode": 444,
+    "seed": 444,
+    "score": 508.0,
+    "steps": 8404
+  },
+  {
+    "episode": 445,
+    "seed": 445,
+    "score": 343.0,
+    "steps": 5694
+  },
+  {
+    "episode": 446,
+    "seed": 446,
+    "score": 551.0,
+    "steps": 8614
+  },
+  {
+    "episode": 447,
+    "seed": 447,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 448,
+    "seed": 448,
+    "score": 437.0,
+    "steps": 6340
+  },
+  {
+    "episode": 449,
+    "seed": 449,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 450,
+    "seed": 450,
+    "score": 638.0,
+    "steps": 10000
+  },
+  {
+    "episode": 451,
+    "seed": 451,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 452,
+    "seed": 452,
+    "score": 613.0,
+    "steps": 10000
+  },
+  {
+    "episode": 453,
+    "seed": 453,
+    "score": 314.0,
+    "steps": 4952
+  },
+  {
+    "episode": 454,
+    "seed": 454,
+    "score": 564.0,
+    "steps": 10000
+  },
+  {
+    "episode": 455,
+    "seed": 455,
+    "score": 123.0,
+    "steps": 2216
+  },
+  {
+    "episode": 456,
+    "seed": 456,
+    "score": 460.0,
+    "steps": 7106
+  },
+  {
+    "episode": 457,
+    "seed": 457,
+    "score": 622.0,
+    "steps": 10000
+  },
+  {
+    "episode": 458,
+    "seed": 458,
+    "score": 454.0,
+    "steps": 7480
+  },
+  {
+    "episode": 459,
+    "seed": 459,
+    "score": 381.0,
+    "steps": 6108
+  },
+  {
+    "episode": 460,
+    "seed": 460,
+    "score": 600.0,
+    "steps": 10000
+  },
+  {
+    "episode": 461,
+    "seed": 461,
+    "score": 659.0,
+    "steps": 10000
+  },
+  {
+    "episode": 462,
+    "seed": 462,
+    "score": 613.0,
+    "steps": 10000
+  },
+  {
+    "episode": 463,
+    "seed": 463,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 464,
+    "seed": 464,
+    "score": 59.0,
+    "steps": 1058
+  },
+  {
+    "episode": 465,
+    "seed": 465,
+    "score": 217.0,
+    "steps": 3610
+  },
+  {
+    "episode": 466,
+    "seed": 466,
+    "score": 63.0,
+    "steps": 922
+  },
+  {
+    "episode": 467,
+    "seed": 467,
+    "score": 53.0,
+    "steps": 710
+  },
+  {
+    "episode": 468,
+    "seed": 468,
+    "score": 213.0,
+    "steps": 3414
+  },
+  {
+    "episode": 469,
+    "seed": 469,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 470,
+    "seed": 470,
+    "score": 701.0,
+    "steps": 10000
+  },
+  {
+    "episode": 471,
+    "seed": 471,
+    "score": 299.0,
+    "steps": 10000
+  },
+  {
+    "episode": 472,
+    "seed": 472,
+    "score": 639.0,
+    "steps": 9910
+  },
+  {
+    "episode": 473,
+    "seed": 473,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 474,
+    "seed": 474,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 475,
+    "seed": 475,
+    "score": 279.0,
+    "steps": 4480
+  },
+  {
+    "episode": 476,
+    "seed": 476,
+    "score": 159.0,
+    "steps": 2328
+  },
+  {
+    "episode": 477,
+    "seed": 477,
+    "score": 34.0,
+    "steps": 496
+  },
+  {
+    "episode": 478,
+    "seed": 478,
+    "score": 259.0,
+    "steps": 4128
+  },
+  {
+    "episode": 479,
+    "seed": 479,
+    "score": 160.0,
+    "steps": 2404
+  },
+  {
+    "episode": 480,
+    "seed": 480,
+    "score": 610.0,
+    "steps": 10000
+  },
+  {
+    "episode": 481,
+    "seed": 481,
+    "score": 618.0,
+    "steps": 10000
+  },
+  {
+    "episode": 482,
+    "seed": 482,
+    "score": 317.0,
+    "steps": 5298
+  },
+  {
+    "episode": 483,
+    "seed": 483,
+    "score": 642.0,
+    "steps": 10000
+  },
+  {
+    "episode": 484,
+    "seed": 484,
+    "score": 587.0,
+    "steps": 10000
+  },
+  {
+    "episode": 485,
+    "seed": 485,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 486,
+    "seed": 486,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 487,
+    "seed": 487,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 488,
+    "seed": 488,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 489,
+    "seed": 489,
+    "score": 642.0,
+    "steps": 10000
+  },
+  {
+    "episode": 490,
+    "seed": 490,
+    "score": 656.0,
+    "steps": 10000
+  },
+  {
+    "episode": 491,
+    "seed": 491,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 492,
+    "seed": 492,
+    "score": 566.0,
+    "steps": 10000
+  },
+  {
+    "episode": 493,
+    "seed": 493,
+    "score": 539.0,
+    "steps": 9746
+  },
+  {
+    "episode": 494,
+    "seed": 494,
+    "score": 460.0,
+    "steps": 7648
+  },
+  {
+    "episode": 495,
+    "seed": 495,
+    "score": 251.0,
+    "steps": 3958
+  },
+  {
+    "episode": 496,
+    "seed": 496,
+    "score": 48.0,
+    "steps": 590
+  },
+  {
+    "episode": 497,
+    "seed": 497,
+    "score": 372.0,
+    "steps": 6046
+  },
+  {
+    "episode": 498,
+    "seed": 498,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 499,
+    "seed": 499,
+    "score": 191.0,
+    "steps": 2586
+  },
+  {
+    "episode": 500,
+    "seed": 500,
+    "score": 387.0,
+    "steps": 6516
+  },
+  {
+    "episode": 501,
+    "seed": 501,
+    "score": 147.0,
+    "steps": 2230
+  },
+  {
+    "episode": 502,
+    "seed": 502,
+    "score": 658.0,
+    "steps": 10000
+  },
+  {
+    "episode": 503,
+    "seed": 503,
+    "score": 521.0,
+    "steps": 10000
+  },
+  {
+    "episode": 504,
+    "seed": 504,
+    "score": 396.0,
+    "steps": 7112
+  },
+  {
+    "episode": 505,
+    "seed": 505,
+    "score": 272.0,
+    "steps": 3996
+  },
+  {
+    "episode": 506,
+    "seed": 506,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 507,
+    "seed": 507,
+    "score": 659.0,
+    "steps": 10000
+  },
+  {
+    "episode": 508,
+    "seed": 508,
+    "score": 617.0,
+    "steps": 10000
+  },
+  {
+    "episode": 509,
+    "seed": 509,
+    "score": 250.0,
+    "steps": 3882
+  },
+  {
+    "episode": 510,
+    "seed": 510,
+    "score": 645.0,
+    "steps": 10000
+  },
+  {
+    "episode": 511,
+    "seed": 511,
+    "score": 19.0,
+    "steps": 222
+  },
+  {
+    "episode": 512,
+    "seed": 512,
+    "score": 181.0,
+    "steps": 2782
+  },
+  {
+    "episode": 513,
+    "seed": 513,
+    "score": 560.0,
+    "steps": 10000
+  },
+  {
+    "episode": 514,
+    "seed": 514,
+    "score": 543.0,
+    "steps": 9256
+  },
+  {
+    "episode": 515,
+    "seed": 515,
+    "score": 568.0,
+    "steps": 9244
+  },
+  {
+    "episode": 516,
+    "seed": 516,
+    "score": 376.0,
+    "steps": 6420
+  },
+  {
+    "episode": 517,
+    "seed": 517,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 518,
+    "seed": 518,
+    "score": 617.0,
+    "steps": 10000
+  },
+  {
+    "episode": 519,
+    "seed": 519,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 520,
+    "seed": 520,
+    "score": 15.0,
+    "steps": 172
+  },
+  {
+    "episode": 521,
+    "seed": 521,
+    "score": 102.0,
+    "steps": 1488
+  },
+  {
+    "episode": 522,
+    "seed": 522,
+    "score": 665.0,
+    "steps": 10000
+  },
+  {
+    "episode": 523,
+    "seed": 523,
+    "score": 646.0,
+    "steps": 10000
+  },
+  {
+    "episode": 524,
+    "seed": 524,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 525,
+    "seed": 525,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 526,
+    "seed": 526,
+    "score": 10.0,
+    "steps": 114
+  },
+  {
+    "episode": 527,
+    "seed": 527,
+    "score": 659.0,
+    "steps": 10000
+  },
+  {
+    "episode": 528,
+    "seed": 528,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 529,
+    "seed": 529,
+    "score": 589.0,
+    "steps": 10000
+  },
+  {
+    "episode": 530,
+    "seed": 530,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 531,
+    "seed": 531,
+    "score": 152.0,
+    "steps": 2352
+  },
+  {
+    "episode": 532,
+    "seed": 532,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 533,
+    "seed": 533,
+    "score": 345.0,
+    "steps": 4998
+  },
+  {
+    "episode": 534,
+    "seed": 534,
+    "score": 59.0,
+    "steps": 1156
+  },
+  {
+    "episode": 535,
+    "seed": 535,
+    "score": 612.0,
+    "steps": 10000
+  },
+  {
+    "episode": 536,
+    "seed": 536,
+    "score": 381.0,
+    "steps": 5698
+  },
+  {
+    "episode": 537,
+    "seed": 537,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 538,
+    "seed": 538,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 539,
+    "seed": 539,
+    "score": 581.0,
+    "steps": 10000
+  },
+  {
+    "episode": 540,
+    "seed": 540,
+    "score": 567.0,
+    "steps": 10000
+  },
+  {
+    "episode": 541,
+    "seed": 541,
+    "score": 188.0,
+    "steps": 2872
+  },
+  {
+    "episode": 542,
+    "seed": 542,
+    "score": 8.0,
+    "steps": 94
+  },
+  {
+    "episode": 543,
+    "seed": 543,
+    "score": 185.0,
+    "steps": 3464
+  },
+  {
+    "episode": 544,
+    "seed": 544,
+    "score": 543.0,
+    "steps": 8832
+  },
+  {
+    "episode": 545,
+    "seed": 545,
+    "score": 649.0,
+    "steps": 10000
+  },
+  {
+    "episode": 546,
+    "seed": 546,
+    "score": 64.0,
+    "steps": 996
+  },
+  {
+    "episode": 547,
+    "seed": 547,
+    "score": 47.0,
+    "steps": 640
+  },
+  {
+    "episode": 548,
+    "seed": 548,
+    "score": 102.0,
+    "steps": 2232
+  },
+  {
+    "episode": 549,
+    "seed": 549,
+    "score": 56.0,
+    "steps": 728
+  },
+  {
+    "episode": 550,
+    "seed": 550,
+    "score": 311.0,
+    "steps": 4836
+  },
+  {
+    "episode": 551,
+    "seed": 551,
+    "score": 126.0,
+    "steps": 1854
+  },
+  {
+    "episode": 552,
+    "seed": 552,
+    "score": 589.0,
+    "steps": 8714
+  },
+  {
+    "episode": 553,
+    "seed": 553,
+    "score": 654.0,
+    "steps": 10000
+  },
+  {
+    "episode": 554,
+    "seed": 554,
+    "score": 368.0,
+    "steps": 6134
+  },
+  {
+    "episode": 555,
+    "seed": 555,
+    "score": 298.0,
+    "steps": 4626
+  },
+  {
+    "episode": 556,
+    "seed": 556,
+    "score": 598.0,
+    "steps": 9660
+  },
+  {
+    "episode": 557,
+    "seed": 557,
+    "score": 34.0,
+    "steps": 498
+  },
+  {
+    "episode": 558,
+    "seed": 558,
+    "score": 164.0,
+    "steps": 2654
+  },
+  {
+    "episode": 559,
+    "seed": 559,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 560,
+    "seed": 560,
+    "score": 609.0,
+    "steps": 10000
+  },
+  {
+    "episode": 561,
+    "seed": 561,
+    "score": 253.0,
+    "steps": 3814
+  },
+  {
+    "episode": 562,
+    "seed": 562,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 563,
+    "seed": 563,
+    "score": 29.0,
+    "steps": 468
+  },
+  {
+    "episode": 564,
+    "seed": 564,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 565,
+    "seed": 565,
+    "score": 639.0,
+    "steps": 10000
+  },
+  {
+    "episode": 566,
+    "seed": 566,
+    "score": 518.0,
+    "steps": 8572
+  },
+  {
+    "episode": 567,
+    "seed": 567,
+    "score": 346.0,
+    "steps": 5426
+  },
+  {
+    "episode": 568,
+    "seed": 568,
+    "score": 607.0,
+    "steps": 10000
+  },
+  {
+    "episode": 569,
+    "seed": 569,
+    "score": 27.0,
+    "steps": 362
+  },
+  {
+    "episode": 570,
+    "seed": 570,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 571,
+    "seed": 571,
+    "score": 24.0,
+    "steps": 288
+  },
+  {
+    "episode": 572,
+    "seed": 572,
+    "score": 573.0,
+    "steps": 10000
+  },
+  {
+    "episode": 573,
+    "seed": 573,
+    "score": 38.0,
+    "steps": 574
+  },
+  {
+    "episode": 574,
+    "seed": 574,
+    "score": 13.0,
+    "steps": 152
+  },
+  {
+    "episode": 575,
+    "seed": 575,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 576,
+    "seed": 576,
+    "score": 204.0,
+    "steps": 3234
+  },
+  {
+    "episode": 577,
+    "seed": 577,
+    "score": 73.0,
+    "steps": 1102
+  },
+  {
+    "episode": 578,
+    "seed": 578,
+    "score": 215.0,
+    "steps": 3792
+  },
+  {
+    "episode": 579,
+    "seed": 579,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 580,
+    "seed": 580,
+    "score": 86.0,
+    "steps": 1258
+  },
+  {
+    "episode": 581,
+    "seed": 581,
+    "score": 6.0,
+    "steps": 70
+  },
+  {
+    "episode": 582,
+    "seed": 582,
+    "score": 418.0,
+    "steps": 6918
+  },
+  {
+    "episode": 583,
+    "seed": 583,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 584,
+    "seed": 584,
+    "score": 593.0,
+    "steps": 10000
+  },
+  {
+    "episode": 585,
+    "seed": 585,
+    "score": 357.0,
+    "steps": 5294
+  },
+  {
+    "episode": 586,
+    "seed": 586,
+    "score": 99.0,
+    "steps": 1702
+  },
+  {
+    "episode": 587,
+    "seed": 587,
+    "score": 11.0,
+    "steps": 128
+  },
+  {
+    "episode": 588,
+    "seed": 588,
+    "score": 189.0,
+    "steps": 2904
+  },
+  {
+    "episode": 589,
+    "seed": 589,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 590,
+    "seed": 590,
+    "score": 578.0,
+    "steps": 10000
+  },
+  {
+    "episode": 591,
+    "seed": 591,
+    "score": 417.0,
+    "steps": 7124
+  },
+  {
+    "episode": 592,
+    "seed": 592,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 593,
+    "seed": 593,
+    "score": 177.0,
+    "steps": 2768
+  },
+  {
+    "episode": 594,
+    "seed": 594,
+    "score": 607.0,
+    "steps": 10000
+  },
+  {
+    "episode": 595,
+    "seed": 595,
+    "score": 643.0,
+    "steps": 10000
+  },
+  {
+    "episode": 596,
+    "seed": 596,
+    "score": 576.0,
+    "steps": 10000
+  },
+  {
+    "episode": 597,
+    "seed": 597,
+    "score": 193.0,
+    "steps": 2912
+  },
+  {
+    "episode": 598,
+    "seed": 598,
+    "score": 619.0,
+    "steps": 10000
+  },
+  {
+    "episode": 599,
+    "seed": 599,
+    "score": 116.0,
+    "steps": 1900
+  },
+  {
+    "episode": 600,
+    "seed": 600,
+    "score": 653.0,
+    "steps": 10000
+  },
+  {
+    "episode": 601,
+    "seed": 601,
+    "score": 124.0,
+    "steps": 2040
+  },
+  {
+    "episode": 602,
+    "seed": 602,
+    "score": 583.0,
+    "steps": 10000
+  },
+  {
+    "episode": 603,
+    "seed": 603,
+    "score": 335.0,
+    "steps": 5110
+  },
+  {
+    "episode": 604,
+    "seed": 604,
+    "score": 27.0,
+    "steps": 416
+  },
+  {
+    "episode": 605,
+    "seed": 605,
+    "score": 644.0,
+    "steps": 10000
+  },
+  {
+    "episode": 606,
+    "seed": 606,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 607,
+    "seed": 607,
+    "score": 641.0,
+    "steps": 10000
+  },
+  {
+    "episode": 608,
+    "seed": 608,
+    "score": 379.0,
+    "steps": 5960
+  },
+  {
+    "episode": 609,
+    "seed": 609,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 610,
+    "seed": 610,
+    "score": 244.0,
+    "steps": 4020
+  },
+  {
+    "episode": 611,
+    "seed": 611,
+    "score": 616.0,
+    "steps": 10000
+  },
+  {
+    "episode": 612,
+    "seed": 612,
+    "score": 567.0,
+    "steps": 10000
+  },
+  {
+    "episode": 613,
+    "seed": 613,
+    "score": 616.0,
+    "steps": 10000
+  },
+  {
+    "episode": 614,
+    "seed": 614,
+    "score": 660.0,
+    "steps": 10000
+  },
+  {
+    "episode": 615,
+    "seed": 615,
+    "score": 416.0,
+    "steps": 6804
+  },
+  {
+    "episode": 616,
+    "seed": 616,
+    "score": 425.0,
+    "steps": 7260
+  },
+  {
+    "episode": 617,
+    "seed": 617,
+    "score": 617.0,
+    "steps": 10000
+  },
+  {
+    "episode": 618,
+    "seed": 618,
+    "score": 336.0,
+    "steps": 5028
+  },
+  {
+    "episode": 619,
+    "seed": 619,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 620,
+    "seed": 620,
+    "score": 264.0,
+    "steps": 4214
+  },
+  {
+    "episode": 621,
+    "seed": 621,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 622,
+    "seed": 622,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 623,
+    "seed": 623,
+    "score": 651.0,
+    "steps": 10000
+  },
+  {
+    "episode": 624,
+    "seed": 624,
+    "score": 603.0,
+    "steps": 9324
+  },
+  {
+    "episode": 625,
+    "seed": 625,
+    "score": 612.0,
+    "steps": 10000
+  },
+  {
+    "episode": 626,
+    "seed": 626,
+    "score": 208.0,
+    "steps": 3470
+  },
+  {
+    "episode": 627,
+    "seed": 627,
+    "score": 76.0,
+    "steps": 1210
+  },
+  {
+    "episode": 628,
+    "seed": 628,
+    "score": 553.0,
+    "steps": 10000
+  },
+  {
+    "episode": 629,
+    "seed": 629,
+    "score": 182.0,
+    "steps": 3318
+  },
+  {
+    "episode": 630,
+    "seed": 630,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 631,
+    "seed": 631,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 632,
+    "seed": 632,
+    "score": 513.0,
+    "steps": 9186
+  },
+  {
+    "episode": 633,
+    "seed": 633,
+    "score": 142.0,
+    "steps": 2350
+  },
+  {
+    "episode": 634,
+    "seed": 634,
+    "score": 269.0,
+    "steps": 4234
+  },
+  {
+    "episode": 635,
+    "seed": 635,
+    "score": 390.0,
+    "steps": 6288
+  },
+  {
+    "episode": 636,
+    "seed": 636,
+    "score": 594.0,
+    "steps": 10000
+  },
+  {
+    "episode": 637,
+    "seed": 637,
+    "score": 211.0,
+    "steps": 3152
+  },
+  {
+    "episode": 638,
+    "seed": 638,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 639,
+    "seed": 639,
+    "score": 576.0,
+    "steps": 10000
+  },
+  {
+    "episode": 640,
+    "seed": 640,
+    "score": 488.0,
+    "steps": 8546
+  },
+  {
+    "episode": 641,
+    "seed": 641,
+    "score": 509.0,
+    "steps": 10000
+  },
+  {
+    "episode": 642,
+    "seed": 642,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 643,
+    "seed": 643,
+    "score": 119.0,
+    "steps": 1822
+  },
+  {
+    "episode": 644,
+    "seed": 644,
+    "score": 272.0,
+    "steps": 4670
+  },
+  {
+    "episode": 645,
+    "seed": 645,
+    "score": 34.0,
+    "steps": 528
+  },
+  {
+    "episode": 646,
+    "seed": 646,
+    "score": 650.0,
+    "steps": 10000
+  },
+  {
+    "episode": 647,
+    "seed": 647,
+    "score": 427.0,
+    "steps": 6932
+  },
+  {
+    "episode": 648,
+    "seed": 648,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 649,
+    "seed": 649,
+    "score": 102.0,
+    "steps": 1682
+  },
+  {
+    "episode": 650,
+    "seed": 650,
+    "score": 89.0,
+    "steps": 1618
+  },
+  {
+    "episode": 651,
+    "seed": 651,
+    "score": 179.0,
+    "steps": 2770
+  },
+  {
+    "episode": 652,
+    "seed": 652,
+    "score": 99.0,
+    "steps": 1380
+  },
+  {
+    "episode": 653,
+    "seed": 653,
+    "score": 186.0,
+    "steps": 3200
+  },
+  {
+    "episode": 654,
+    "seed": 654,
+    "score": 645.0,
+    "steps": 10000
+  },
+  {
+    "episode": 655,
+    "seed": 655,
+    "score": 307.0,
+    "steps": 5128
+  },
+  {
+    "episode": 656,
+    "seed": 656,
+    "score": 43.0,
+    "steps": 520
+  },
+  {
+    "episode": 657,
+    "seed": 657,
+    "score": 94.0,
+    "steps": 1646
+  },
+  {
+    "episode": 658,
+    "seed": 658,
+    "score": 520.0,
+    "steps": 8108
+  },
+  {
+    "episode": 659,
+    "seed": 659,
+    "score": 36.0,
+    "steps": 736
+  },
+  {
+    "episode": 660,
+    "seed": 660,
+    "score": 619.0,
+    "steps": 10000
+  },
+  {
+    "episode": 661,
+    "seed": 661,
+    "score": 36.0,
+    "steps": 484
+  },
+  {
+    "episode": 662,
+    "seed": 662,
+    "score": 78.0,
+    "steps": 1390
+  },
+  {
+    "episode": 663,
+    "seed": 663,
+    "score": 239.0,
+    "steps": 4280
+  },
+  {
+    "episode": 664,
+    "seed": 664,
+    "score": 667.0,
+    "steps": 10000
+  },
+  {
+    "episode": 665,
+    "seed": 665,
+    "score": 16.0,
+    "steps": 186
+  },
+  {
+    "episode": 666,
+    "seed": 666,
+    "score": 680.0,
+    "steps": 10000
+  },
+  {
+    "episode": 667,
+    "seed": 667,
+    "score": 622.0,
+    "steps": 10000
+  },
+  {
+    "episode": 668,
+    "seed": 668,
+    "score": 218.0,
+    "steps": 3592
+  },
+  {
+    "episode": 669,
+    "seed": 669,
+    "score": 304.0,
+    "steps": 4706
+  },
+  {
+    "episode": 670,
+    "seed": 670,
+    "score": 424.0,
+    "steps": 6644
+  },
+  {
+    "episode": 671,
+    "seed": 671,
+    "score": 605.0,
+    "steps": 10000
+  },
+  {
+    "episode": 672,
+    "seed": 672,
+    "score": 405.0,
+    "steps": 7232
+  },
+  {
+    "episode": 673,
+    "seed": 673,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 674,
+    "seed": 674,
+    "score": 389.0,
+    "steps": 6128
+  },
+  {
+    "episode": 675,
+    "seed": 675,
+    "score": 119.0,
+    "steps": 1788
+  },
+  {
+    "episode": 676,
+    "seed": 676,
+    "score": 238.0,
+    "steps": 3798
+  },
+  {
+    "episode": 677,
+    "seed": 677,
+    "score": 325.0,
+    "steps": 5968
+  },
+  {
+    "episode": 678,
+    "seed": 678,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 679,
+    "seed": 679,
+    "score": 289.0,
+    "steps": 4750
+  },
+  {
+    "episode": 680,
+    "seed": 680,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 681,
+    "seed": 681,
+    "score": 665.0,
+    "steps": 10000
+  },
+  {
+    "episode": 682,
+    "seed": 682,
+    "score": 579.0,
+    "steps": 10000
+  },
+  {
+    "episode": 683,
+    "seed": 683,
+    "score": 437.0,
+    "steps": 7406
+  },
+  {
+    "episode": 684,
+    "seed": 684,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 685,
+    "seed": 685,
+    "score": 242.0,
+    "steps": 3728
+  },
+  {
+    "episode": 686,
+    "seed": 686,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 687,
+    "seed": 687,
+    "score": 4.0,
+    "steps": 48
+  },
+  {
+    "episode": 688,
+    "seed": 688,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 689,
+    "seed": 689,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 690,
+    "seed": 690,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 691,
+    "seed": 691,
+    "score": 644.0,
+    "steps": 10000
+  },
+  {
+    "episode": 692,
+    "seed": 692,
+    "score": 602.0,
+    "steps": 10000
+  },
+  {
+    "episode": 693,
+    "seed": 693,
+    "score": 286.0,
+    "steps": 4752
+  },
+  {
+    "episode": 694,
+    "seed": 694,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 695,
+    "seed": 695,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 696,
+    "seed": 696,
+    "score": 388.0,
+    "steps": 5984
+  },
+  {
+    "episode": 697,
+    "seed": 697,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 698,
+    "seed": 698,
+    "score": 612.0,
+    "steps": 8862
+  },
+  {
+    "episode": 699,
+    "seed": 699,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 700,
+    "seed": 700,
+    "score": 239.0,
+    "steps": 3468
+  },
+  {
+    "episode": 701,
+    "seed": 701,
+    "score": 539.0,
+    "steps": 10000
+  },
+  {
+    "episode": 702,
+    "seed": 702,
+    "score": 105.0,
+    "steps": 1426
+  },
+  {
+    "episode": 703,
+    "seed": 703,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 704,
+    "seed": 704,
+    "score": 606.0,
+    "steps": 10000
+  },
+  {
+    "episode": 705,
+    "seed": 705,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 706,
+    "seed": 706,
+    "score": 655.0,
+    "steps": 10000
+  },
+  {
+    "episode": 707,
+    "seed": 707,
+    "score": 573.0,
+    "steps": 9820
+  },
+  {
+    "episode": 708,
+    "seed": 708,
+    "score": 28.0,
+    "steps": 368
+  },
+  {
+    "episode": 709,
+    "seed": 709,
+    "score": 328.0,
+    "steps": 4872
+  },
+  {
+    "episode": 710,
+    "seed": 710,
+    "score": 88.0,
+    "steps": 1306
+  },
+  {
+    "episode": 711,
+    "seed": 711,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 712,
+    "seed": 712,
+    "score": 412.0,
+    "steps": 6246
+  },
+  {
+    "episode": 713,
+    "seed": 713,
+    "score": 69.0,
+    "steps": 1056
+  },
+  {
+    "episode": 714,
+    "seed": 714,
+    "score": 455.0,
+    "steps": 7102
+  },
+  {
+    "episode": 715,
+    "seed": 715,
+    "score": 597.0,
+    "steps": 10000
+  },
+  {
+    "episode": 716,
+    "seed": 716,
+    "score": 534.0,
+    "steps": 10000
+  },
+  {
+    "episode": 717,
+    "seed": 717,
+    "score": 556.0,
+    "steps": 10000
+  },
+  {
+    "episode": 718,
+    "seed": 718,
+    "score": 634.0,
+    "steps": 10000
+  },
+  {
+    "episode": 719,
+    "seed": 719,
+    "score": 53.0,
+    "steps": 826
+  },
+  {
+    "episode": 720,
+    "seed": 720,
+    "score": 539.0,
+    "steps": 10000
+  },
+  {
+    "episode": 721,
+    "seed": 721,
+    "score": 31.0,
+    "steps": 438
+  },
+  {
+    "episode": 722,
+    "seed": 722,
+    "score": 593.0,
+    "steps": 10000
+  },
+  {
+    "episode": 723,
+    "seed": 723,
+    "score": 560.0,
+    "steps": 10000
+  },
+  {
+    "episode": 724,
+    "seed": 724,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 725,
+    "seed": 725,
+    "score": 225.0,
+    "steps": 3736
+  },
+  {
+    "episode": 726,
+    "seed": 726,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 727,
+    "seed": 727,
+    "score": 576.0,
+    "steps": 10000
+  },
+  {
+    "episode": 728,
+    "seed": 728,
+    "score": 52.0,
+    "steps": 810
+  },
+  {
+    "episode": 729,
+    "seed": 729,
+    "score": 636.0,
+    "steps": 10000
+  },
+  {
+    "episode": 730,
+    "seed": 730,
+    "score": 418.0,
+    "steps": 6492
+  },
+  {
+    "episode": 731,
+    "seed": 731,
+    "score": 298.0,
+    "steps": 5298
+  },
+  {
+    "episode": 732,
+    "seed": 732,
+    "score": 75.0,
+    "steps": 1004
+  },
+  {
+    "episode": 733,
+    "seed": 733,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 734,
+    "seed": 734,
+    "score": 232.0,
+    "steps": 3584
+  },
+  {
+    "episode": 735,
+    "seed": 735,
+    "score": 651.0,
+    "steps": 10000
+  },
+  {
+    "episode": 736,
+    "seed": 736,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 737,
+    "seed": 737,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 738,
+    "seed": 738,
+    "score": 433.0,
+    "steps": 6826
+  },
+  {
+    "episode": 739,
+    "seed": 739,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 740,
+    "seed": 740,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 741,
+    "seed": 741,
+    "score": 342.0,
+    "steps": 5534
+  },
+  {
+    "episode": 742,
+    "seed": 742,
+    "score": 648.0,
+    "steps": 10000
+  },
+  {
+    "episode": 743,
+    "seed": 743,
+    "score": 392.0,
+    "steps": 6478
+  },
+  {
+    "episode": 744,
+    "seed": 744,
+    "score": 143.0,
+    "steps": 2132
+  },
+  {
+    "episode": 745,
+    "seed": 745,
+    "score": 175.0,
+    "steps": 2462
+  },
+  {
+    "episode": 746,
+    "seed": 746,
+    "score": 609.0,
+    "steps": 10000
+  },
+  {
+    "episode": 747,
+    "seed": 747,
+    "score": 155.0,
+    "steps": 2676
+  },
+  {
+    "episode": 748,
+    "seed": 748,
+    "score": 603.0,
+    "steps": 10000
+  },
+  {
+    "episode": 749,
+    "seed": 749,
+    "score": 94.0,
+    "steps": 1470
+  },
+  {
+    "episode": 750,
+    "seed": 750,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 751,
+    "seed": 751,
+    "score": 585.0,
+    "steps": 10000
+  },
+  {
+    "episode": 752,
+    "seed": 752,
+    "score": 482.0,
+    "steps": 8014
+  },
+  {
+    "episode": 753,
+    "seed": 753,
+    "score": 659.0,
+    "steps": 10000
+  },
+  {
+    "episode": 754,
+    "seed": 754,
+    "score": 158.0,
+    "steps": 2486
+  },
+  {
+    "episode": 755,
+    "seed": 755,
+    "score": 171.0,
+    "steps": 2364
+  },
+  {
+    "episode": 756,
+    "seed": 756,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 757,
+    "seed": 757,
+    "score": 520.0,
+    "steps": 8746
+  },
+  {
+    "episode": 758,
+    "seed": 758,
+    "score": 656.0,
+    "steps": 10000
+  },
+  {
+    "episode": 759,
+    "seed": 759,
+    "score": 572.0,
+    "steps": 10000
+  },
+  {
+    "episode": 760,
+    "seed": 760,
+    "score": 11.0,
+    "steps": 128
+  },
+  {
+    "episode": 761,
+    "seed": 761,
+    "score": 120.0,
+    "steps": 1822
+  },
+  {
+    "episode": 762,
+    "seed": 762,
+    "score": 205.0,
+    "steps": 3262
+  },
+  {
+    "episode": 763,
+    "seed": 763,
+    "score": 176.0,
+    "steps": 2732
+  },
+  {
+    "episode": 764,
+    "seed": 764,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 765,
+    "seed": 765,
+    "score": 602.0,
+    "steps": 10000
+  },
+  {
+    "episode": 766,
+    "seed": 766,
+    "score": 622.0,
+    "steps": 10000
+  },
+  {
+    "episode": 767,
+    "seed": 767,
+    "score": 247.0,
+    "steps": 3860
+  },
+  {
+    "episode": 768,
+    "seed": 768,
+    "score": 611.0,
+    "steps": 10000
+  },
+  {
+    "episode": 769,
+    "seed": 769,
+    "score": 332.0,
+    "steps": 5438
+  },
+  {
+    "episode": 770,
+    "seed": 770,
+    "score": 155.0,
+    "steps": 2688
+  },
+  {
+    "episode": 771,
+    "seed": 771,
+    "score": 611.0,
+    "steps": 10000
+  },
+  {
+    "episode": 772,
+    "seed": 772,
+    "score": 138.0,
+    "steps": 2300
+  },
+  {
+    "episode": 773,
+    "seed": 773,
+    "score": 366.0,
+    "steps": 6276
+  },
+  {
+    "episode": 774,
+    "seed": 774,
+    "score": 614.0,
+    "steps": 10000
+  },
+  {
+    "episode": 775,
+    "seed": 775,
+    "score": 64.0,
+    "steps": 1496
+  },
+  {
+    "episode": 776,
+    "seed": 776,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 777,
+    "seed": 777,
+    "score": 568.0,
+    "steps": 9338
+  },
+  {
+    "episode": 778,
+    "seed": 778,
+    "score": 566.0,
+    "steps": 10000
+  },
+  {
+    "episode": 779,
+    "seed": 779,
+    "score": 35.0,
+    "steps": 462
+  },
+  {
+    "episode": 780,
+    "seed": 780,
+    "score": 151.0,
+    "steps": 3010
+  },
+  {
+    "episode": 781,
+    "seed": 781,
+    "score": 293.0,
+    "steps": 4770
+  },
+  {
+    "episode": 782,
+    "seed": 782,
+    "score": 633.0,
+    "steps": 10000
+  },
+  {
+    "episode": 783,
+    "seed": 783,
+    "score": 7.0,
+    "steps": 80
+  },
+  {
+    "episode": 784,
+    "seed": 784,
+    "score": 387.0,
+    "steps": 6212
+  },
+  {
+    "episode": 785,
+    "seed": 785,
+    "score": 365.0,
+    "steps": 6048
+  },
+  {
+    "episode": 786,
+    "seed": 786,
+    "score": 8.0,
+    "steps": 90
+  },
+  {
+    "episode": 787,
+    "seed": 787,
+    "score": 490.0,
+    "steps": 9246
+  },
+  {
+    "episode": 788,
+    "seed": 788,
+    "score": 616.0,
+    "steps": 10000
+  },
+  {
+    "episode": 789,
+    "seed": 789,
+    "score": 153.0,
+    "steps": 2068
+  },
+  {
+    "episode": 790,
+    "seed": 790,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 791,
+    "seed": 791,
+    "score": 541.0,
+    "steps": 8918
+  },
+  {
+    "episode": 792,
+    "seed": 792,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 793,
+    "seed": 793,
+    "score": 553.0,
+    "steps": 10000
+  },
+  {
+    "episode": 794,
+    "seed": 794,
+    "score": 327.0,
+    "steps": 5590
+  },
+  {
+    "episode": 795,
+    "seed": 795,
+    "score": 389.0,
+    "steps": 5798
+  },
+  {
+    "episode": 796,
+    "seed": 796,
+    "score": 268.0,
+    "steps": 4686
+  },
+  {
+    "episode": 797,
+    "seed": 797,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 798,
+    "seed": 798,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 799,
+    "seed": 799,
+    "score": 570.0,
+    "steps": 10000
+  },
+  {
+    "episode": 800,
+    "seed": 800,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 801,
+    "seed": 801,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 802,
+    "seed": 802,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 803,
+    "seed": 803,
+    "score": 585.0,
+    "steps": 10000
+  },
+  {
+    "episode": 804,
+    "seed": 804,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 805,
+    "seed": 805,
+    "score": 662.0,
+    "steps": 10000
+  },
+  {
+    "episode": 806,
+    "seed": 806,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 807,
+    "seed": 807,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 808,
+    "seed": 808,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 809,
+    "seed": 809,
+    "score": 600.0,
+    "steps": 10000
+  },
+  {
+    "episode": 810,
+    "seed": 810,
+    "score": 296.0,
+    "steps": 4466
+  },
+  {
+    "episode": 811,
+    "seed": 811,
+    "score": 154.0,
+    "steps": 2598
+  },
+  {
+    "episode": 812,
+    "seed": 812,
+    "score": 630.0,
+    "steps": 10000
+  },
+  {
+    "episode": 813,
+    "seed": 813,
+    "score": 678.0,
+    "steps": 10000
+  },
+  {
+    "episode": 814,
+    "seed": 814,
+    "score": 219.0,
+    "steps": 3482
+  },
+  {
+    "episode": 815,
+    "seed": 815,
+    "score": 441.0,
+    "steps": 8484
+  },
+  {
+    "episode": 816,
+    "seed": 816,
+    "score": 329.0,
+    "steps": 6570
+  },
+  {
+    "episode": 817,
+    "seed": 817,
+    "score": 315.0,
+    "steps": 4666
+  },
+  {
+    "episode": 818,
+    "seed": 818,
+    "score": 639.0,
+    "steps": 10000
+  },
+  {
+    "episode": 819,
+    "seed": 819,
+    "score": 577.0,
+    "steps": 9566
+  },
+  {
+    "episode": 820,
+    "seed": 820,
+    "score": 142.0,
+    "steps": 2474
+  },
+  {
+    "episode": 821,
+    "seed": 821,
+    "score": 209.0,
+    "steps": 3846
+  },
+  {
+    "episode": 822,
+    "seed": 822,
+    "score": 358.0,
+    "steps": 6260
+  },
+  {
+    "episode": 823,
+    "seed": 823,
+    "score": 173.0,
+    "steps": 2610
+  },
+  {
+    "episode": 824,
+    "seed": 824,
+    "score": 585.0,
+    "steps": 10000
+  },
+  {
+    "episode": 825,
+    "seed": 825,
+    "score": 486.0,
+    "steps": 7666
+  },
+  {
+    "episode": 826,
+    "seed": 826,
+    "score": 128.0,
+    "steps": 2160
+  },
+  {
+    "episode": 827,
+    "seed": 827,
+    "score": 307.0,
+    "steps": 4984
+  },
+  {
+    "episode": 828,
+    "seed": 828,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 829,
+    "seed": 829,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 830,
+    "seed": 830,
+    "score": 101.0,
+    "steps": 1522
+  },
+  {
+    "episode": 831,
+    "seed": 831,
+    "score": 391.0,
+    "steps": 6394
+  },
+  {
+    "episode": 832,
+    "seed": 832,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 833,
+    "seed": 833,
+    "score": 359.0,
+    "steps": 6720
+  },
+  {
+    "episode": 834,
+    "seed": 834,
+    "score": 496.0,
+    "steps": 8652
+  },
+  {
+    "episode": 835,
+    "seed": 835,
+    "score": 178.0,
+    "steps": 2754
+  },
+  {
+    "episode": 836,
+    "seed": 836,
+    "score": 347.0,
+    "steps": 5724
+  },
+  {
+    "episode": 837,
+    "seed": 837,
+    "score": 648.0,
+    "steps": 10000
+  },
+  {
+    "episode": 838,
+    "seed": 838,
+    "score": 586.0,
+    "steps": 10000
+  },
+  {
+    "episode": 839,
+    "seed": 839,
+    "score": 368.0,
+    "steps": 5334
+  },
+  {
+    "episode": 840,
+    "seed": 840,
+    "score": 541.0,
+    "steps": 9448
+  },
+  {
+    "episode": 841,
+    "seed": 841,
+    "score": 584.0,
+    "steps": 10000
+  },
+  {
+    "episode": 842,
+    "seed": 842,
+    "score": 635.0,
+    "steps": 10000
+  },
+  {
+    "episode": 843,
+    "seed": 843,
+    "score": 10.0,
+    "steps": 116
+  },
+  {
+    "episode": 844,
+    "seed": 844,
+    "score": 633.0,
+    "steps": 10000
+  },
+  {
+    "episode": 845,
+    "seed": 845,
+    "score": 616.0,
+    "steps": 10000
+  },
+  {
+    "episode": 846,
+    "seed": 846,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 847,
+    "seed": 847,
+    "score": 94.0,
+    "steps": 1220
+  },
+  {
+    "episode": 848,
+    "seed": 848,
+    "score": 527.0,
+    "steps": 8758
+  },
+  {
+    "episode": 849,
+    "seed": 849,
+    "score": 209.0,
+    "steps": 3120
+  },
+  {
+    "episode": 850,
+    "seed": 850,
+    "score": 606.0,
+    "steps": 9718
+  },
+  {
+    "episode": 851,
+    "seed": 851,
+    "score": 632.0,
+    "steps": 10000
+  },
+  {
+    "episode": 852,
+    "seed": 852,
+    "score": 417.0,
+    "steps": 6456
+  },
+  {
+    "episode": 853,
+    "seed": 853,
+    "score": 516.0,
+    "steps": 10000
+  },
+  {
+    "episode": 854,
+    "seed": 854,
+    "score": 355.0,
+    "steps": 5238
+  },
+  {
+    "episode": 855,
+    "seed": 855,
+    "score": 152.0,
+    "steps": 2462
+  },
+  {
+    "episode": 856,
+    "seed": 856,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 857,
+    "seed": 857,
+    "score": 93.0,
+    "steps": 1514
+  },
+  {
+    "episode": 858,
+    "seed": 858,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 859,
+    "seed": 859,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 860,
+    "seed": 860,
+    "score": 646.0,
+    "steps": 10000
+  },
+  {
+    "episode": 861,
+    "seed": 861,
+    "score": 236.0,
+    "steps": 4108
+  },
+  {
+    "episode": 862,
+    "seed": 862,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 863,
+    "seed": 863,
+    "score": 631.0,
+    "steps": 10000
+  },
+  {
+    "episode": 864,
+    "seed": 864,
+    "score": 89.0,
+    "steps": 1468
+  },
+  {
+    "episode": 865,
+    "seed": 865,
+    "score": 148.0,
+    "steps": 1924
+  },
+  {
+    "episode": 866,
+    "seed": 866,
+    "score": 79.0,
+    "steps": 1354
+  },
+  {
+    "episode": 867,
+    "seed": 867,
+    "score": 630.0,
+    "steps": 10000
+  },
+  {
+    "episode": 868,
+    "seed": 868,
+    "score": 424.0,
+    "steps": 6982
+  },
+  {
+    "episode": 869,
+    "seed": 869,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 870,
+    "seed": 870,
+    "score": 593.0,
+    "steps": 10000
+  },
+  {
+    "episode": 871,
+    "seed": 871,
+    "score": 565.0,
+    "steps": 9028
+  },
+  {
+    "episode": 872,
+    "seed": 872,
+    "score": 258.0,
+    "steps": 4320
+  },
+  {
+    "episode": 873,
+    "seed": 873,
+    "score": 395.0,
+    "steps": 6030
+  },
+  {
+    "episode": 874,
+    "seed": 874,
+    "score": 633.0,
+    "steps": 10000
+  },
+  {
+    "episode": 875,
+    "seed": 875,
+    "score": 176.0,
+    "steps": 2726
+  },
+  {
+    "episode": 876,
+    "seed": 876,
+    "score": 706.0,
+    "steps": 10000
+  },
+  {
+    "episode": 877,
+    "seed": 877,
+    "score": 619.0,
+    "steps": 10000
+  },
+  {
+    "episode": 878,
+    "seed": 878,
+    "score": 354.0,
+    "steps": 5770
+  },
+  {
+    "episode": 879,
+    "seed": 879,
+    "score": 587.0,
+    "steps": 10000
+  },
+  {
+    "episode": 880,
+    "seed": 880,
+    "score": 193.0,
+    "steps": 3234
+  },
+  {
+    "episode": 881,
+    "seed": 881,
+    "score": 637.0,
+    "steps": 10000
+  },
+  {
+    "episode": 882,
+    "seed": 882,
+    "score": 573.0,
+    "steps": 10000
+  },
+  {
+    "episode": 883,
+    "seed": 883,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 884,
+    "seed": 884,
+    "score": 362.0,
+    "steps": 5370
+  },
+  {
+    "episode": 885,
+    "seed": 885,
+    "score": 13.0,
+    "steps": 146
+  },
+  {
+    "episode": 886,
+    "seed": 886,
+    "score": 150.0,
+    "steps": 2456
+  },
+  {
+    "episode": 887,
+    "seed": 887,
+    "score": 449.0,
+    "steps": 7136
+  },
+  {
+    "episode": 888,
+    "seed": 888,
+    "score": 228.0,
+    "steps": 3720
+  },
+  {
+    "episode": 889,
+    "seed": 889,
+    "score": 240.0,
+    "steps": 4056
+  },
+  {
+    "episode": 890,
+    "seed": 890,
+    "score": 650.0,
+    "steps": 10000
+  },
+  {
+    "episode": 891,
+    "seed": 891,
+    "score": 185.0,
+    "steps": 2958
+  },
+  {
+    "episode": 892,
+    "seed": 892,
+    "score": 34.0,
+    "steps": 448
+  },
+  {
+    "episode": 893,
+    "seed": 893,
+    "score": 401.0,
+    "steps": 6350
+  },
+  {
+    "episode": 894,
+    "seed": 894,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 895,
+    "seed": 895,
+    "score": 644.0,
+    "steps": 10000
+  },
+  {
+    "episode": 896,
+    "seed": 896,
+    "score": 127.0,
+    "steps": 2026
+  },
+  {
+    "episode": 897,
+    "seed": 897,
+    "score": 467.0,
+    "steps": 7484
+  },
+  {
+    "episode": 898,
+    "seed": 898,
+    "score": 418.0,
+    "steps": 7434
+  },
+  {
+    "episode": 899,
+    "seed": 899,
+    "score": 568.0,
+    "steps": 10000
+  },
+  {
+    "episode": 900,
+    "seed": 900,
+    "score": 387.0,
+    "steps": 6734
+  },
+  {
+    "episode": 901,
+    "seed": 901,
+    "score": 655.0,
+    "steps": 10000
+  },
+  {
+    "episode": 902,
+    "seed": 902,
+    "score": 8.0,
+    "steps": 92
+  },
+  {
+    "episode": 903,
+    "seed": 903,
+    "score": 577.0,
+    "steps": 10000
+  },
+  {
+    "episode": 904,
+    "seed": 904,
+    "score": 419.0,
+    "steps": 6872
+  },
+  {
+    "episode": 905,
+    "seed": 905,
+    "score": 625.0,
+    "steps": 10000
+  },
+  {
+    "episode": 906,
+    "seed": 906,
+    "score": 328.0,
+    "steps": 5916
+  },
+  {
+    "episode": 907,
+    "seed": 907,
+    "score": 428.0,
+    "steps": 6630
+  },
+  {
+    "episode": 908,
+    "seed": 908,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 909,
+    "seed": 909,
+    "score": 158.0,
+    "steps": 2268
+  },
+  {
+    "episode": 910,
+    "seed": 910,
+    "score": 618.0,
+    "steps": 10000
+  },
+  {
+    "episode": 911,
+    "seed": 911,
+    "score": 619.0,
+    "steps": 10000
+  },
+  {
+    "episode": 912,
+    "seed": 912,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 913,
+    "seed": 913,
+    "score": 629.0,
+    "steps": 10000
+  },
+  {
+    "episode": 914,
+    "seed": 914,
+    "score": 542.0,
+    "steps": 9148
+  },
+  {
+    "episode": 915,
+    "seed": 915,
+    "score": 482.0,
+    "steps": 8398
+  },
+  {
+    "episode": 916,
+    "seed": 916,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 917,
+    "seed": 917,
+    "score": 26.0,
+    "steps": 300
+  },
+  {
+    "episode": 918,
+    "seed": 918,
+    "score": 122.0,
+    "steps": 2002
+  },
+  {
+    "episode": 919,
+    "seed": 919,
+    "score": 558.0,
+    "steps": 10000
+  },
+  {
+    "episode": 920,
+    "seed": 920,
+    "score": 31.0,
+    "steps": 544
+  },
+  {
+    "episode": 921,
+    "seed": 921,
+    "score": 195.0,
+    "steps": 3268
+  },
+  {
+    "episode": 922,
+    "seed": 922,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 923,
+    "seed": 923,
+    "score": 608.0,
+    "steps": 10000
+  },
+  {
+    "episode": 924,
+    "seed": 924,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 925,
+    "seed": 925,
+    "score": 121.0,
+    "steps": 2124
+  },
+  {
+    "episode": 926,
+    "seed": 926,
+    "score": 12.0,
+    "steps": 138
+  },
+  {
+    "episode": 927,
+    "seed": 927,
+    "score": 650.0,
+    "steps": 10000
+  },
+  {
+    "episode": 928,
+    "seed": 928,
+    "score": 628.0,
+    "steps": 10000
+  },
+  {
+    "episode": 929,
+    "seed": 929,
+    "score": 31.0,
+    "steps": 544
+  },
+  {
+    "episode": 930,
+    "seed": 930,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 931,
+    "seed": 931,
+    "score": 624.0,
+    "steps": 10000
+  },
+  {
+    "episode": 932,
+    "seed": 932,
+    "score": 549.0,
+    "steps": 10000
+  },
+  {
+    "episode": 933,
+    "seed": 933,
+    "score": 595.0,
+    "steps": 10000
+  },
+  {
+    "episode": 934,
+    "seed": 934,
+    "score": 531.0,
+    "steps": 8542
+  },
+  {
+    "episode": 935,
+    "seed": 935,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 936,
+    "seed": 936,
+    "score": 444.0,
+    "steps": 7686
+  },
+  {
+    "episode": 937,
+    "seed": 937,
+    "score": 626.0,
+    "steps": 10000
+  },
+  {
+    "episode": 938,
+    "seed": 938,
+    "score": 126.0,
+    "steps": 1996
+  },
+  {
+    "episode": 939,
+    "seed": 939,
+    "score": 15.0,
+    "steps": 172
+  },
+  {
+    "episode": 940,
+    "seed": 940,
+    "score": 170.0,
+    "steps": 2666
+  },
+  {
+    "episode": 941,
+    "seed": 941,
+    "score": 162.0,
+    "steps": 2440
+  },
+  {
+    "episode": 942,
+    "seed": 942,
+    "score": 578.0,
+    "steps": 9072
+  },
+  {
+    "episode": 943,
+    "seed": 943,
+    "score": 32.0,
+    "steps": 358
+  },
+  {
+    "episode": 944,
+    "seed": 944,
+    "score": 364.0,
+    "steps": 6266
+  },
+  {
+    "episode": 945,
+    "seed": 945,
+    "score": 658.0,
+    "steps": 10000
+  },
+  {
+    "episode": 946,
+    "seed": 946,
+    "score": 569.0,
+    "steps": 10000
+  },
+  {
+    "episode": 947,
+    "seed": 947,
+    "score": 21.0,
+    "steps": 242
+  },
+  {
+    "episode": 948,
+    "seed": 948,
+    "score": 5.0,
+    "steps": 60
+  },
+  {
+    "episode": 949,
+    "seed": 949,
+    "score": 594.0,
+    "steps": 10000
+  },
+  {
+    "episode": 950,
+    "seed": 950,
+    "score": 207.0,
+    "steps": 3486
+  },
+  {
+    "episode": 951,
+    "seed": 951,
+    "score": 388.0,
+    "steps": 6792
+  },
+  {
+    "episode": 952,
+    "seed": 952,
+    "score": 508.0,
+    "steps": 10000
+  },
+  {
+    "episode": 953,
+    "seed": 953,
+    "score": 193.0,
+    "steps": 2908
+  },
+  {
+    "episode": 954,
+    "seed": 954,
+    "score": 337.0,
+    "steps": 5840
+  },
+  {
+    "episode": 955,
+    "seed": 955,
+    "score": 394.0,
+    "steps": 7546
+  },
+  {
+    "episode": 956,
+    "seed": 956,
+    "score": 303.0,
+    "steps": 4556
+  },
+  {
+    "episode": 957,
+    "seed": 957,
+    "score": 597.0,
+    "steps": 10000
+  },
+  {
+    "episode": 958,
+    "seed": 958,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 959,
+    "seed": 959,
+    "score": 80.0,
+    "steps": 1200
+  },
+  {
+    "episode": 960,
+    "seed": 960,
+    "score": 574.0,
+    "steps": 10000
+  },
+  {
+    "episode": 961,
+    "seed": 961,
+    "score": 649.0,
+    "steps": 10000
+  },
+  {
+    "episode": 962,
+    "seed": 962,
+    "score": 605.0,
+    "steps": 10000
+  },
+  {
+    "episode": 963,
+    "seed": 963,
+    "score": 280.0,
+    "steps": 4428
+  },
+  {
+    "episode": 964,
+    "seed": 964,
+    "score": 598.0,
+    "steps": 10000
+  },
+  {
+    "episode": 965,
+    "seed": 965,
+    "score": 402.0,
+    "steps": 6542
+  },
+  {
+    "episode": 966,
+    "seed": 966,
+    "score": 76.0,
+    "steps": 1000
+  },
+  {
+    "episode": 967,
+    "seed": 967,
+    "score": 190.0,
+    "steps": 3342
+  },
+  {
+    "episode": 968,
+    "seed": 968,
+    "score": 38.0,
+    "steps": 710
+  },
+  {
+    "episode": 969,
+    "seed": 969,
+    "score": 599.0,
+    "steps": 10000
+  },
+  {
+    "episode": 970,
+    "seed": 970,
+    "score": 17.0,
+    "steps": 194
+  },
+  {
+    "episode": 971,
+    "seed": 971,
+    "score": 585.0,
+    "steps": 10000
+  },
+  {
+    "episode": 972,
+    "seed": 972,
+    "score": 575.0,
+    "steps": 9360
+  },
+  {
+    "episode": 973,
+    "seed": 973,
+    "score": 388.0,
+    "steps": 6410
+  },
+  {
+    "episode": 974,
+    "seed": 974,
+    "score": 623.0,
+    "steps": 10000
+  },
+  {
+    "episode": 975,
+    "seed": 975,
+    "score": 637.0,
+    "steps": 10000
+  },
+  {
+    "episode": 976,
+    "seed": 976,
+    "score": 419.0,
+    "steps": 6704
+  },
+  {
+    "episode": 977,
+    "seed": 977,
+    "score": 604.0,
+    "steps": 10000
+  },
+  {
+    "episode": 978,
+    "seed": 978,
+    "score": 604.0,
+    "steps": 9276
+  },
+  {
+    "episode": 979,
+    "seed": 979,
+    "score": 581.0,
+    "steps": 10000
+  },
+  {
+    "episode": 980,
+    "seed": 980,
+    "score": 627.0,
+    "steps": 10000
+  },
+  {
+    "episode": 981,
+    "seed": 981,
+    "score": 682.0,
+    "steps": 10000
+  },
+  {
+    "episode": 982,
+    "seed": 982,
+    "score": 621.0,
+    "steps": 10000
+  },
+  {
+    "episode": 983,
+    "seed": 983,
+    "score": 657.0,
+    "steps": 10000
+  },
+  {
+    "episode": 984,
+    "seed": 984,
+    "score": 657.0,
+    "steps": 10000
+  },
+  {
+    "episode": 985,
+    "seed": 985,
+    "score": 615.0,
+    "steps": 10000
+  },
+  {
+    "episode": 986,
+    "seed": 986,
+    "score": 655.0,
+    "steps": 10000
+  },
+  {
+    "episode": 987,
+    "seed": 987,
+    "score": 356.0,
+    "steps": 5666
+  },
+  {
+    "episode": 988,
+    "seed": 988,
+    "score": 654.0,
+    "steps": 10000
+  },
+  {
+    "episode": 989,
+    "seed": 989,
+    "score": 26.0,
+    "steps": 352
+  },
+  {
+    "episode": 990,
+    "seed": 990,
+    "score": 90.0,
+    "steps": 1346
+  },
+  {
+    "episode": 991,
+    "seed": 991,
+    "score": 614.0,
+    "steps": 10000
+  },
+  {
+    "episode": 992,
+    "seed": 992,
+    "score": 259.0,
+    "steps": 4164
+  },
+  {
+    "episode": 993,
+    "seed": 993,
+    "score": 583.0,
+    "steps": 10000
+  },
+  {
+    "episode": 994,
+    "seed": 994,
+    "score": 145.0,
+    "steps": 2584
+  },
+  {
+    "episode": 995,
+    "seed": 995,
+    "score": 76.0,
+    "steps": 1324
+  },
+  {
+    "episode": 996,
+    "seed": 996,
+    "score": 620.0,
+    "steps": 10000
+  },
+  {
+    "episode": 997,
+    "seed": 997,
+    "score": 145.0,
+    "steps": 1980
+  },
+  {
+    "episode": 998,
+    "seed": 998,
+    "score": 484.0,
+    "steps": 7060
+  },
+  {
+    "episode": 999,
+    "seed": 999,
+    "score": 439.0,
+    "steps": 7248
+  }
+]
